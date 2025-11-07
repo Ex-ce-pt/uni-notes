@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "c734cfecbd57edb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "659836539069f3a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34c3c3778a258367",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Foundations of Chemistry.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Foundations of Chemistry"
+            }
+          },
+          {
+            "id": "0d37640474a3c2a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atom, orbitals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Atom, orbitals"
+            }
+          },
+          {
+            "id": "bad56e6bf456be7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cheat Sheet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cheat Sheet"
+            }
+          },
+          {
+            "id": "082243de65776682",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Molecules.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Molecules"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75e7530a7652afe6",
+    "type": "split",
+    "children": [
+      {
+        "id": "4df10c42a942c3cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1fc941ab01a27bc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "308fc1e41ad87f4a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "79da3b6254585e61",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "40f751ff2f5a0140",
+    "type": "split",
+    "children": [
+      {
+        "id": "15e561ef6d003e99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b117025ff9462f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "97d360adbba7f9a7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "7a3c23783b718ad2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "11d21cc8157775ab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "082243de65776682",
+  "lastOpenFiles": [
+    "Cheat Sheet.md",
+    "Atom, orbitals.md",
+    "Molecules.md",
+    "_media/molecules/polar-bond.png",
+    "_media/molecules/polar bond.xcf",
+    "_media/atomic model/polar bond.xcf",
+    "_media/atomic model/energy levels - Copy.xcf",
+    "Untitled.canvas",
+    "_media/molecules/morse-potential.png",
+    "_media/molecules",
+    "_media/atomic model/ionization-energy.png",
+    "_media/atomic model/energy levels.xcf",
+    "_media/atomic model/z-eff-inc.png",
+    "_media/atomic model/hunds-rule.png",
+    "_media/atomic model/pairing-electrons.png",
+    "_media/atomic model/energy-levels.png",
+    "_media/atomic model/ptable-blocks.jpg",
+    "_media/atomic model/1s-2s-2p-3p.png",
+    "_media/atomic model/2s-elec-dens-Li-vs-F.png",
+    "Foundations of Chemistry.md",
+    "Atom,.md",
+    "_media/atomic model",
+    "_media"
+  ]
+}
