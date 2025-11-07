@@ -81,10 +81,11 @@ $\Delta \chi = |a - b|$ - difference between $e^-$-neg. of 2 atoms.
 | $\ce{O-C}$ | $1.0$         | $360$                                          |
 More polarized bond → stronger bond.
 
-| $\ce{C-C}$ | $\ce{C=C}$ | $\ce{C#C}$ |
-| ---------- | ---------- | ---------- |
-| longer     |            | shorter    |
-| weaker     |            | stronger   |
+| Bond              | $\ce{C-C}$ | Aromatic | $\ce{C=C}$ | $\ce{C#C}$ |
+| ----------------- | ---------- | -------- | ---------- | ---------- |
+| Length            | longer     |          |            | shorter    |
+| Strength          | weaker     |          |            | stronger   |
+| Energy ($kJ/mol$) | 348        | 518      | 612        | 837        |
 
 ## Lewis structures
 
@@ -113,3 +114,17 @@ Rules:
 
 #### Resonance structures
 
+
+
+
+
+
+
+
+---
+
+comp. length pm kj/mol
+hf 92 565
+hcl 127 430
+hbr 141 360
+hi 161 245
