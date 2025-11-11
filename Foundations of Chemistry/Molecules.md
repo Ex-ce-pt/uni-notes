@@ -46,7 +46,7 @@ Bond between a cation and an anion.
 Since electrostatic forces act in all directions, the geometry of the bond doesn't matter.
 Important: length of the bond.
 
-==diagram
+![[ionic-bond.png]]
 
 ## Pauling electronegativity
 
@@ -199,23 +199,36 @@ Bonds form by sharing $e^-$ between the orbitals of 2 atoms.
 > For bonding to happen, atoms must have half-full orbital, so they can share/accept 1 $e^-$ per ($\sigma$) bond.
 
 When atoms form a bond, the orbitals the $e^-$ are from merge together, creating a shared space.
+The greater the overlap of atomic orbitals, the stronger the bond.
 
 ![[bond-formation.png]]
 ![[H2-bond-energy.png]]
 
-Such bond is a **$\sigma$-bond**: cylindrically symmetrical, no nodal planes through the internuclear axis.
+**$\sigma$-bond** - cylindrically symmetrical, no nodal planes through the internuclear axis.
+A $\sigma$-bond is formed from atomic orbitals that point to one another.
+$\sigma$-bond - strong bond (a lot of overlap).
 
-If this logic is used alone, predictions don't always correspond to reality. 
+**$\pi$-bond** - has a single nodal plane going through the internuclear axis.
+A $\pi$-bond is formed when 2 atomic orbitals are located parallel to each other, side-by-side, rather than directly pointing towards one another.
+$\pi$-bond - weaker bold (significantly less overlap).
 
-==90deg CH2
+==pi bond ex.
+
+If this logic is used alone, predictions don't always correspond to reality.
+
+![[CH2-wrong.png]]
 
 For atoms /w more $e^-$, orbitals are hybridized.
 
 **Hybridization** - mixing of different orbitals to produce a set of new, degenerate orbitals.
-**Promotion** - transfer of e^- to orbitals higher in energy.
+**Promotion** - transfer of $e^-$ to orbitals higher in energy.
 
+Hybridization is caused by the interference among the orbitals' $e^-$ density.
 
+==hybrid
 
+Hybridization explains the structure of molecules:
+Imagine that [[#VSEPR]] applies to the hybridized orbitals separately. In this case, if there are 4 equivalent $sp^3$ hybrids, thus a tetrahedral structure. Or there could be 3 equivalent $sp^2$ hybrids, thus a trigonal planar structure.
 
 | $e^-$ domains | Hybridization | Structure       | \# of $\sigma$-bonds | \# of $\pi$ bonds |
 | ------------- | ------------- | --------------- | -------------------- | ----------------- |
@@ -227,15 +240,111 @@ For atoms /w more $e^-$, orbitals are hybridized.
 
 ==EXAMPLE: H2CO
 
-Since $\sigma$-bonds are symmetrical → they can rotate.
-$\pi$-bonds are not symmetrical → they are rigid, they cannot rotate.
+Since $\sigma$-bonds are cylindrically symmetrical → they can rotate.
+$\pi$-bonds are not cylindrically symmetrical → they are rigid, they cannot rotate.
 This explains stereoisomers (cis- and trans-isomers).
 
+$\pi$-bonds are overall rare among elements, since $p$-orbitals can't keep up /w the increasing atomic radius → less and less overlap → weaker and weaker bond.
+
+==rotation of sigma and pi
 
 
 VBT can't explain:
 - Phases (signs) of orbitals
 - Diamagnetic/paramagnetic molecules
-	**Diamagnetic** - no unpaired $e^-$.
-	**Paramagnetic** - unpaired $e^-$.
+	**Diamagnetic** - no unpaired $e^-$, repulsed by magnets.
+	**Paramagnetic** - unpaired $e^-$, attracted by magnets.
 - Spectroscopy
+
+## MO Theory
+**Molecular Orbital Theory**
+
+Best model so far.
+Treats $e^-$ as fully delocalized and smeared out across the whole molecule.
+
+In MO, we use atomic orbitals to create molecular orbitals.
+
+Important concepts:
+- **LCAO (Linear Combination of Atomic Orbitals)** - $ax+by$, AOs are combined in different proportions.
+- \# of AOs = \# of MOs - no orbitals are lost.
+
+The wavefunctions of 2 AOs can combine in 2 ways:
+- Constructive interference (addition) - $\Psi_{\ce{H}1s} + \Psi_{\ce{H}1s}$
+	![[constructive-interference.png]]
+- Destructive interference (subtraction) - $\Psi_{\ce{H}1s} - \Psi_{\ce{H}1s}$
+	![[destructive-interference.png]]
+
+> Subtraction can be thought of as addition of perfectly out-of-phase waves.
+> $\Psi_{\ce{H}1s} - \Psi_{\ce{H}1s} = \Psi_{\ce{H}1s} + (-\Psi_{\ce{H}1s})$
+
+Example: MO diagram of $\ce{H2}$
+1. Combine AOs. Determine the energy levels of the MOs. The bonding MO must be below the lower AO (to justify bonding) and the anti-bonding MO must be above the higher AO. Keep in mind: the difference in energy $\Delta E = |\sigma_{\text{orbital}} - (\text{lower AO})| = |\sigma_{\text{orbital}}^{*} - (\text{higher AO})|$.
+2. Take the $e^-$ from the AOs and distribute them on the MOs according to Aufbau.
+3. Compute the bond order.
+![[H2-bonding-antibonding.png]]
+
+$\sigma_{1s}$ - bonding orbital, ($\sigma$ like in [[#VBT]])
+$\sigma_{1s}^*$ - anti-bonding orbital
+$\text{Bond order} = \frac{(\text{\# of bonding } e^-) - (\text{\# of antibonding } e^-)}{2}$
+
+**Bonding MOs** create bonding - lower in energy, 2 nuclei are acting on $e^-$.
+**Anti-bonding MOs** inhibit bonding - higher in energy, $e^-$ are far from the nuclei.
+**Non-bonding AOs** - does not mix /w any AOs of another atom. Usually core orbitals, can be some lower valence orbitals as well.
+
+#### Examples of molecular orbitals
+
+![[He2-MO.png]]
+Here the bond order is 0 - there is no bond between 2 neutral $\ce{He}$.
+
+![[He2(^+1)-MO.png]]
+Here the bond order is 0.5 - there is a slight attraction between $\ce{He}$ and $\ce{He+}$, but they will not stay together for long.
+
+![[He2(^-1)-MO.png]]
+He we end up with the same bond order as in the previous case.
+
+![[Li2-MO.png]]
+Here the bond order is 1. There is a bond in $\ce{Li2}$.
+
+> Key: core $e^-$ cancel themselves out. Only the valence shell $e^-$ are important when making MO diagrams.
+
+#### Variants of molecular orbitals
+
+![[MO-variants.png]]
+
+- Both $\pi_{px}$ and $\pi_{py}$ MOs form in the same way.
+- $p_x$ and $p_y$ AOs cannot form a $\pi_{pxpy}$ MO, since they are perpendicular and overlap between them is almost nonexistent.
+
+#### Orbital mixing
+
+symmetry
+rigorous - using group theory
+
+
+\+ /w increase of atomic radius the core orbitals overlap less and less → the energy diff between bonding and antibonding becomes smaller and smaller
+
+
+good overlap - big energy diff
+bad overlap - small energy diff
+
+orbitals same symmetry + close in energy → orbitals can mix
+2s and 2p close in energy
+
+sigma-pi crossover = mixing
+
+
+explains diamagnetism and paramagnetism
+
+unpaired e in the molecular orbitals
+
+
+in HF F_2s is so far from H_1s that it's non-bonding
+
+electronegativity reflects how effective nuclear charge affects atomic orbital energies (and through that molecular orbital energies)
+
+separation of orbitals destroys bonding
+
+
+> MO Theory still assumes the bond is covalent, still need to use electronegativity to check.
+
+> In MO Theory, every $e^-$ in every atom contributes to every single bond to some extend, which is not practical. e are fully delocalized.
+
