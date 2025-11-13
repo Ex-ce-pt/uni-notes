@@ -12,7 +12,7 @@ Theory:
 - Elements - atoms of one element are identical, atoms of different elements differ
 - Reactions involve combining different atoms
 
-![[dalton-model.png]]
+![[atomic-model/dalton-model.png]]
 
 ## Thomson model
 
@@ -28,7 +28,7 @@ Theory:
 - The atom's continuum is positively charged
 - Negatively charged electrons are spread inside
 
-![[thomson-model.png]]
+![[atomic-model/thomson-model.png]]
 
 ## Rutherford model
 
@@ -44,7 +44,7 @@ Theory (planetarium):
 - The nucleus is small and positively charged
 - Negatively charged electrons orbit it like planets orbit stars
 
-![[rutherford-model.png]]
+![[atomic-model/rutherford-model.png]]
 
 ## Bohr-Rutherford model
 
@@ -55,7 +55,7 @@ Theory:
 - Rutherford model
 - Electrons orbit the nucleus on discrete shells/orbits
 
-![[bohr-model.png]]
+![[atomic-model/bohr-model.png]]
 
 > Not a physical representation, but an energy diagram.
 
@@ -80,7 +80,7 @@ Theory:
 - The orbitals are not discrete in location, but smeared out
 - The waves are the probability density of finding an electron at a particular distance (radius) from the nucleus
 
-![[schroedinger-model.png]]
+![[atomic-model/schroedinger-model.png]]
 
 Schrödinger equation:
 
@@ -113,8 +113,8 @@ Consider an infinitesimal shell around $r$. Its volume would be: $V = \frac{4}{3
 Since the shell is infinitesimal, $\frac{dV}{dr} \cdot \Psi^2$ should approach the probability we're after.
 **Conclusion**: $\frac{dV}{dr} \cdot \Psi^2 = 4 \pi r^2 \cdot \Psi^2$ - probability of finding an electron $r$ away from the nucleus (**electron density**).
 
-| ![[psi-graph-simple.png]] | ![[psi-sq-graph-simple.png]] | ![[prob-graph-simple.png]] |
-| ------------------------- | ---------------------------- | -------------------------- |
+| ![[atomic-model/psi-graph-simple.png]] | ![[atomic-model/psi-sq-graph-simple.png]] | ![[atomic-model/prob-graph-simple.png]] |
+| -------------------------------------- | ----------------------------------------- | --------------------------------------- |
 
 $\int_{0}^{\infty} \frac{dV}{dr}\cdot \Psi^2 dr = (\text{\# of electrons})$ - all of the electrons in the atom must exist *somewhere*.
 
@@ -156,15 +156,15 @@ $n, l, m_l, m_s$ - quantum numbers, first 3 describe electron's position is spac
 
 - $l = 0$, $s$-orbital, shape: sphere
 
-![[s-orbital.png]]
+![[atomic-model/s-orbital.png]]
 
 - $l = 1$, $p$-orbital, shape: dumbbells
 
-![[p-orbital.png]]
+![[atomic-model/p-orbital.png]]
 
 - $l = 2$, $d$-orbital, shape: clover
 
-![[d-orbitals.png]]
+![[atomic-model/d-orbitals.png]]
 
 **Nodal plane** - a plane where there's no electron density; goes between the lobes of the orbital through the nucleus.
 $l = \# \text{ of nodal planes of the orbital}$.
@@ -176,17 +176,17 @@ The first instance of an orbital ($1s, \space 2p, \space 3d, \space 4f$) has no 
 **Node** - a point where the electron density is 0.
 $\text{\# of nodes} = n - (l + 1)$
 
-| ![[1s-wavefn-graph.png]]    | ![[2s-wavefn-graph.png]]    | ![[3s-wavefn-graph.png]]    |
-| --------------------------- | --------------------------- | --------------------------- |
-| ![[1s-elec-dens-graph.png]] | ![[2s-elec-dens-graph.png]] | ![[3s-elec-dens-graph.png]] |
-| ![[2p-wavefn-graph.png]]    | ![[3p-wavefn-graph.png]]    |                             |
-| ![[2p-elec-dens-graph.png]] | ![[3p-elec-dens-graph.png]] |                             |
+| ![[atomic-model/1s-wavefn-graph.png]]    | ![[atomic-model/2s-wavefn-graph.png]]    | ![[atomic-model/3s-wavefn-graph.png]]    |
+| ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
+| ![[atomic-model/1s-elec-dens-graph.png]] | ![[atomic-model/2s-elec-dens-graph.png]] | ![[atomic-model/3s-elec-dens-graph.png]] |
+| ![[atomic-model/2p-wavefn-graph.png]]    | ![[atomic-model/3p-wavefn-graph.png]]    |                                          |
+| ![[atomic-model/2p-elec-dens-graph.png]] | ![[atomic-model/3p-elec-dens-graph.png]] |                                          |
 Different subshells on different shells, 3D (slice):
-![[1s-2s-2p-3p.png]]
+![[atomic-model/1s-2s-2p-3p.png]]
 The shaded areas are the cusps on the graphs and the gaps are the nodes.
 
 Note: the electrons on the subshells of the same shell (same $n$) are located at approximately the same distance from the nucleus. Though the "lower" subshells (lower $l$) also have additional cusps closer to the nucleus, that makes them slightly lower in energy. In this case, $2s$ is slightly lower in energy than $2p$, even though they are at a similar distance, because $2s$ also has a cusp where $1s$ would have it.
-![[2s-vs-2p-elec-dens.png]]
+![[atomic-model/2s-vs-2p-elec-dens.png]]
 
 #### Energy levels
 
@@ -200,7 +200,7 @@ In isolated atoms, $p$, $d$, and $f$ orbitals are degenerate.
 That is because without a reference point, there's no difference between the possible orientations of an orbital.
 
 Energy diagram:
-![[energy-levels.png]]
+![[atomic-model/energy-levels.png]]
 
 > In hydrogen atoms, whole shells are degenerate, meaning $2s$ and $2p$ all have the same energies, as do $3s$, $3p$, $3d$ etc.
 
@@ -211,14 +211,14 @@ Rules:
 1. **Fill lowest energy orbital first.**
 	The atom wants to be as stable as possible (having the lowest energy possible), so if an electron is added and there's a lower energy orbital available, why not stick the electron there?
 2. **Pair up as long as the energy diff between orbitals is greater than the electron repulsion**
-	![[pairing-electrons.png]]
+	![[atomic-model/pairing-electrons.png]]
 3. **Hund's rule** - (for degenerate orbitals) maximize the spin.
 	First, one electron with a particular spin is placed into every orbital, then they start pairing up.
 	This is because if 2 electrons were in the same orbital, they would repel each other, so why not occupy the empty orbital instead?
-	![[hunds-rule.png]]
+	![[atomic-model/hunds-rule.png]]
 4. **Madelung's rule (rule of diagonals)** - fill orbitals in a diagonal pattern.
 	Just a mnemonic to memorize the filling order.
-	![[madelung-rule.png]]
+	![[atomic-model/madelung-rule.png]]
 
 
 Alternate way to write energy diagrams, electron configuration:
@@ -264,43 +264,18 @@ For valence electrons, $Z_{\text{eff}}$ increases going to the right in the peri
 
 Greater $Z$ → greater $Z_{\text{eff}}$ → lower energy in all orbitals, because the electrons are drawn closer to the nucleus.
 
-![[z-eff-inc.png]]
+![[atomic-model/z-eff-inc.png]]
 Even though $\ce{Li}$'s $2s$ orbital is still higher in energy than $\ce{H}$'s $1s$, they're still comparable, as valence orbitals.
 Since $2s$ orbital has a cusp closer to the nucleus, its energy decreases faster than that of $2p$ when going through the periodic table.
 
-![[2s-elec-dens-Li-vs-F.png]]
+![[atomic-model/2s-elec-dens-Li-vs-F.png]]
 
 
 #### Blocks
 
 Elements in the periodic table are organized in blocks. The block the element is in shows to which orbital an electron has been added last.
-![[ptable-blocks.jpg]]
+![[atomic-model/ptable-blocks.jpg]]
 
-## Periodic trends
-
-#### Effective nuclear charge
-
-(For valence electrons)
-right → $Z_{\text{eff}}$ increases (same core electrons, $Z$ increases).
-down → $Z_{\text{eff}}$ decreases (more shells, more core electrons).
-
-#### Atom radius
-
-The effect is large!
-
-right -> decreases (more protons pulling on the same \# of shells).
-down -> increases (more shells).
-
-#### Ionization energy
-
-right → increases
-down → decreases
-
-#### Electron affinity
-
-*(Generally)*
-right → increases
-down → decreases
 
 ## Cations
 
@@ -309,7 +284,7 @@ $E_I > 0$.
 
 $E_I \approx -E_{\text{orbital}}$, because we need to compensate the energy it took to make the electron "free" (0 potential energy).
 
-![[ionization-energy.png]]
+![[atomic-model/ionization-energy.png]]
 
 $\ce{Li}: \space \textcolor{cyan}{\ce{[He]}} \space \textcolor{yellow}{2s^1} \space | \space \ce{Li^+}: \space \textcolor{cyan}{\ce{[He]}} \space \textcolor{yellow}{2s^\textcolor{red}{0}}$
 $\ce{Ti}: \space \textcolor{cyan}{\ce{[Ar]}} \space \textcolor{yellow}{4s^2 \space 3d^2} \space | \space \ce{Ti^+}: \space \textcolor{cyan}{\ce{[Ar]}} \space \textcolor{yellow}{4s^\textcolor{red}{1} \space 3d^2} \space | \space \ce{Ti^{2+}}: \space \textcolor{cyan}{\ce{[Ar]}} \space \textcolor{yellow}{4s^\textcolor{red}{0} \space 3d^2}$

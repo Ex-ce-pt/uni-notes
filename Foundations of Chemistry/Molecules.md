@@ -5,9 +5,9 @@
 
 | Bond type          | Electron sharing | Electrostatic forces        | Example                |
 | ------------------ | ---------------- | --------------------------- | ---------------------- |
-| Non-polar covalent | + (equal)        | Between subatomic particles | $\ce{N2}$, $\ce{O2}$   |
-| Polar covalent     | + (shifted)      | Between subatomic particles | $\ce{H2O}$, $\ce{CO2}$ |
-| Ionic              | -                | Between whole ions          | $\ce{Na+Cl-}$          |
+| Non-polar covalent | Equal            | Between subatomic particles | $\ce{N2}$, $\ce{O2}$   |
+| Polar covalent     | Shifted          | Between subatomic particles | $\ce{H2O}$, $\ce{CO2}$ |
+| Ionic              | None             | Between whole ions          | $\ce{Na+Cl-}$          |
 
 No clear boundaries between different bonds - it's a spectrum.
 The distinction between bond types is usually drawn using [electronegativity](#Pauling%20electronegativity)
@@ -25,13 +25,13 @@ $r_0$ - bond length at $0K$ (absolute minimum of energy, the most stable state p
 With temperature (additional energy) the bond length starts to vary.
 If $\Delta E$ or more energy is supplied, the bond is broken - **cracking**.
 
-![[morse-potential.png]]
+![[molecules/morse-potential.png]]
 
 
 Non-polar bond occurs between identical atoms, e.g. diatomic molecules: $\ce{H2}$, $\ce{O2}$, $\ce{N2}$, $\ce{F2}$, etc.
 Polar bond occurs between different atoms.
 
-![[polar-bond.png]]
+![[molecules/polar-bond.png]]
 
 Dipol arrow points from + to -.
 
@@ -46,7 +46,7 @@ Bond between a cation and an anion.
 Since electrostatic forces act in all directions, the geometry of the bond doesn't matter.
 Important: length of the bond.
 
-![[ionic-bond.png]]
+![[molecules/ionic-bond.png]]
 
 ## Pauling electronegativity
 
@@ -108,29 +108,29 @@ Rules:
 1. **Count** total \# of valence $e^-$.
 	$\ce{H2CO3}, \space 1 \cdot 2 + 4 + 6 = 12 \space e^-$
 2. Put the **least $e^-$-neg. element in the center** (except $\ce{H}$).
-	![[lewis-tutorial-step-2.png]]
+	![[molecules/lewis-tutorial-step-2.png]]
 3. **Bond** all atoms once.
-	![[lewis-tutorial-step-3.png]]
+	![[molecules/lewis-tutorial-step-3.png]]
 4. Add $e^-$ **to terminal atoms** to make octets.
 	Terminal atoms are only bonded to a single atom, so you can easily redistribute electron pairs from there. Central atoms are bonded to multiple atoms at one and it becomes confusing.
-	![[lewis-tutorial-step-4.png]]
+	![[molecules/lewis-tutorial-step-4.png]]
 5. Give **leftover $e^-$ to the central atom**.
 6. **Make octets** by using multiple bonds.
 	Action: bonding, sharing $e^-$ pair /w neighboring atom. Effect: removing 1 $e^-$ from one atom, giving 1 $e^-$ to another atom.
-	![[lewis-tutorial-step-6.png]]
+	![[molecules/lewis-tutorial-step-6.png]]
 7. **Minimize charges**.
 	Charge is the \# of $e^-$ relative to what this atom has normally. Count $1e^-$ per a bond.
 	If possible, create more bonds to neutralize adjacent charges.
 8. **No hypervalent 2nd row elements**.
 	The 2nd shell of 2nd row elements can't sustain more than 8 $e^-$, but the next shells can, even if only 8 are needed for a stable configuration.
-	![[valency-vs-charge.png]]
+	![[molecules/valency-vs-charge.png]]
 
 Dots - electrons.
 Pairs of dots - electron pairs.
 Instead of a pair of dots, lines can be used.
 
 Simple examples:
-![[lewis-examples-simple.png]]
+![[molecules/lewis-examples-simple.png]]
 
 **Octet rule** - an atom wants to have 8 $e^-$ on its valence shell by donating/accepting/sharing $e^-$ /w other atoms. Not applicable for 1st period.
 **Hypervalent** - more than $8e^-$ on the valence shell.
@@ -143,27 +143,26 @@ Simple examples:
 
 > Positive charge on an $e^-$-neg. atom is always discouraged, negative charge - encouraged! If possible, make a central atom hypovalent instead.
 
-![[hypo-vs-charge.png]]
+![[molecules/hypo-vs-charge.png]]
 
 > 2nd row- prioritize octet rule (can bear charge, can't go hypervalent).
 > Others - prioritize minimizing charge (want to stay neutral, can go hypervalent).
 
-==O3 vs SO2
+![[SO2-vs-O3-lewis.png]]
+
+Here $\ce{SO2}$ and $\ce{O3}$ are **isoelectronic** (same \# of $e^-$), but since $\ce{S}$ is in the 3rd row, it can be hypervalent in order to minimize charges.
 
 #### Coordination numbers
 
 Different atoms tend to form different \# of bonds and types of bonds.
-**Coordination number** - \# of bonds an atom makes.
+**Coordination number** - \# of different atoms a given atom is bonded to.
 
-| Coordination \# | $\ce{C}$ | $\ce{N}$ | $\ce{O}$ | $\ce{F}$ | $\ce{B}$ |
-| --------------- | -------- | -------- | -------- | -------- | -------- |
-| $1$             |          |          |          |          |          |
-| $2$             |          |          |          |          |          |
-| $3$             |          |          |          |          |          |
-| $4$             |          |          |          |          |          |
-
-==WIP
-
+| Coordination \# | $\ce{C}$                                         | $\ce{N}$                     | $\ce{O}$            | $\ce{F}$            | $\ce{B}$            |
+| --------------- | ------------------------------------------------ | ---------------------------- | ------------------- | ------------------- | ------------------- |
+| $1$             | -                                                | ![[N-1-triple.png]]          | ![[O-1-double.png]] | ![[F-1-single.png]] | -                   |
+| $2$             | ![[C-2-double.png]] ![[C-1-triple-1-single.png]] | ![[N-1-double-1-single.png]] | ![[O-2-single.png]] | -                   | -                   |
+| $3$             | ![[C-1-double-2-single.png]]                     | ![[N-3-single.png]]          | -                   | -                   | ![[B-3-single.png]] |
+| $4$             | ![[C-4-single.png]]                              | ($\ce{N+}$?)                 | -                   | -                   | -                   |
 
 #### Resonance structures
 
@@ -173,8 +172,8 @@ In this case, the $e^-$ pair is constantly jumping back and forth between the at
 Sometimes resonance structures appear in an equal proportion, sometimes one is favored.
 In reality, the structures are superimposed.
 
-![[resonance-O3.png]]
-![[resonance-NO3.png]]
+![[molecules/resonance-O3.png]]
+![[molecules/resonance-NO3.png]]
 
 > In resonance structures, only $e^-$ move! Atoms stay in place!
 
@@ -186,7 +185,7 @@ Repulsion arranges $e^-$ pairs in space to maximize their distance from one anot
 
 **Electron domain** - volume of space occupied by an $e^-$ pair.
 
-![[bond-shapes.png]]
+![[molecules/bond-shapes.png]]
 
 ## VBT
 
@@ -201,8 +200,8 @@ Bonds form by sharing $e^-$ between the orbitals of 2 atoms.
 When atoms form a bond, the orbitals the $e^-$ are from merge together, creating a shared space.
 The greater the overlap of atomic orbitals, the stronger the bond.
 
-![[bond-formation.png]]
-![[H2-bond-energy.png]]
+![[molecules/bond-formation.png]]
+![[molecules/H2-bond-energy.png]]
 
 **$\sigma$-bond** - cylindrically symmetrical, no nodal planes through the internuclear axis.
 A $\sigma$-bond is formed from atomic orbitals that point to one another.
@@ -216,7 +215,7 @@ $\pi$-bond - weaker bold (significantly less overlap).
 
 If this logic is used alone, predictions don't always correspond to reality.
 
-![[CH2-wrong.png]]
+![[molecules/CH2-wrong.png]]
 
 For atoms /w more $e^-$, orbitals are hybridized.
 
@@ -244,10 +243,9 @@ Since $\sigma$-bonds are cylindrically symmetrical → they can rotate.
 $\pi$-bonds are not cylindrically symmetrical → they are rigid, they cannot rotate.
 This explains stereoisomers (cis- and trans-isomers).
 
+![[molecules/rotation-of-bonds.png]]
+
 $\pi$-bonds are overall rare among elements, since $p$-orbitals can't keep up /w the increasing atomic radius → less and less overlap → weaker and weaker bond.
-
-==rotation of sigma and pi
-
 
 VBT can't explain:
 - Phases (signs) of orbitals
@@ -270,9 +268,9 @@ Important concepts:
 
 The wavefunctions of 2 AOs can combine in 2 ways:
 - Constructive interference (addition) - $\Psi_{\ce{H}1s} + \Psi_{\ce{H}1s}$
-	![[constructive-interference.png]]
+	![[molecules/constructive-interference.png]]
 - Destructive interference (subtraction) - $\Psi_{\ce{H}1s} - \Psi_{\ce{H}1s}$
-	![[destructive-interference.png]]
+	![[molecules/destructive-interference.png]]
 
 > Subtraction can be thought of as addition of perfectly out-of-phase waves.
 > $\Psi_{\ce{H}1s} - \Psi_{\ce{H}1s} = \Psi_{\ce{H}1s} + (-\Psi_{\ce{H}1s})$
@@ -281,7 +279,7 @@ Example: MO diagram of $\ce{H2}$
 1. Combine AOs. Determine the energy levels of the MOs. The bonding MO must be below the lower AO (to justify bonding) and the anti-bonding MO must be above the higher AO. Keep in mind: the difference in energy $\Delta E = |\sigma_{\text{orbital}} - (\text{lower AO})| = |\sigma_{\text{orbital}}^{*} - (\text{higher AO})|$.
 2. Take the $e^-$ from the AOs and distribute them on the MOs according to Aufbau.
 3. Compute the bond order.
-![[H2-bonding-antibonding.png]]
+![[molecules/H2-bonding-antibonding.png]]
 
 $\sigma_{1s}$ - bonding orbital, ($\sigma$ like in [[#VBT]])
 $\sigma_{1s}^*$ - anti-bonding orbital
@@ -293,23 +291,25 @@ $\text{Bond order} = \frac{(\text{\# of bonding } e^-) - (\text{\# of antibondin
 
 #### Examples of molecular orbitals
 
-![[He2-MO.png]]
+![[molecules/He2-MO.png]]
 Here the bond order is 0 - there is no bond between 2 neutral $\ce{He}$.
 
-![[He2(^+1)-MO.png]]
+![[molecules/He2(^+1)-MO.png]]
 Here the bond order is 0.5 - there is a slight attraction between $\ce{He}$ and $\ce{He+}$, but they will not stay together for long.
 
-![[He2(^-1)-MO.png]]
+![[molecules/He2(^-1)-MO.png]]
 He we end up with the same bond order as in the previous case.
 
-![[Li2-MO.png]]
+![[molecules/Li2-MO.png]]
 Here the bond order is 1. There is a bond in $\ce{Li2}$.
 
 > Key: core $e^-$ cancel themselves out. Only the valence shell $e^-$ are important when making MO diagrams.
 
+> Key: just as AOs go down in energy for every next element in the periodic table, the MOs get closer and closer to the AOs they were made from. This is because the atomic radius grows → the distance between AOs grows → the overlap between AOs decreases → AOs loose connection.
+
 #### Variants of molecular orbitals
 
-![[MO-variants.png]]
+![[molecules/MO-variants.png]]
 
 - Both $\pi_{px}$ and $\pi_{py}$ MOs form in the same way.
 - $p_x$ and $p_y$ AOs cannot form a $\pi_{pxpy}$ MO, since they are perpendicular and overlap between them is almost nonexistent.
@@ -318,9 +318,6 @@ Here the bond order is 1. There is a bond in $\ce{Li2}$.
 
 symmetry
 rigorous - using group theory
-
-
-\+ /w increase of atomic radius the core orbitals overlap less and less → the energy diff between bonding and antibonding becomes smaller and smaller
 
 
 good overlap - big energy diff
@@ -347,4 +344,3 @@ separation of orbitals destroys bonding
 > MO Theory still assumes the bond is covalent, still need to use electronegativity to check.
 
 > In MO Theory, every $e^-$ in every atom contributes to every single bond to some extend, which is not practical. e are fully delocalized.
-

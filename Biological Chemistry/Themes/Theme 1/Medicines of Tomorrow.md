@@ -19,28 +19,26 @@ Activities:
 
 Theoretical:
 $$
-\begin{gather}
-\text{Compound \#1:} \\
-M = 253.28 \space g \cdot mol^{-1} \\
-m_{min} = 2 \space mg,\space m_{max} = 4 \space 4 \space mg \\
-c = 20 \space mM = 2 \cdot 10^{-2} \space M \\
-
-c = \frac{n}{V} \Rightarrow V = \frac{n}{c}=\frac{m}{c \cdot M} \\
-V_{min} = \frac{2 \cdot 10^{-3} \space g}{2 \cdot 10^{-2} \space M \cdot 253.28 \space g \cdot mol^{-1}} = 0.3948 \space ml \\
-V_{max} = \frac{4 \cdot 10^{-3} \space g}{2 \cdot 10^{-2} \space M \cdot 253.28 \space g \cdot mol^{-1}} = 0.7896 \space ml \\
-\end{gather}
+\begin{flalign}
+&\text{Compound \#1:} \\
+&M = 253.28 \space g \cdot mol^{-1} \\
+&m_{\text{min}} = 2 \space mg,\space m_{\text{max}} = 4 \space mg \\
+&c = 20 \space mM = 2 \cdot 10^{-2} \space M \\
+&c = \frac{n}{V} \Rightarrow V = \frac{n}{c}=\frac{m}{c \cdot M} \\
+&V_{\text{min}} = \frac{2 \cdot 10^{-3} \space g}{2 \cdot 10^{-2} \space M \cdot 253.28 \space g \cdot mol^{-1}} = 0.3948 \space ml \\
+&V_{\text{max}} = \frac{4 \cdot 10^{-3} \space g}{2 \cdot 10^{-2} \space M \cdot 253.28 \space g \cdot mol^{-1}} = 0.7896 \space ml \\
+&\end{flalign}
 $$
 
 
 $$
-\begin{gather}
-\text{Compound \#2:} \\
-M = 122.12 \space g \cdot mol^{-1} \\
-m_{min} = 2 \space mg, \space m_{max} = 4 \space 4 \space mg \\
-c = 20 \space mM = 2 \cdot 10^{-2} \space M \\
-
-c = \frac{n}{V} \Rightarrow V = \frac{n}{c}=\frac{m}{c \cdot M} \\
-V_{min} = \frac{2 \cdot 10^{-3} \space g}{2 \cdot 10^{-2} \space M \cdot 122.12 \space g \cdot mol^{-1}} = 0.8189 \space ml \\
-V_{max} = \frac{4 \cdot 10^{-3} \space g}{2 \cdot 10^{-2} \space M \cdot 122.12 \space g \cdot mol^{-1}} = 1.638 \space ml \\
-\end{gather}
+\begin{flalign}
+&\text{Compound \#2:} \\
+&M = 122.12 \space g \cdot mol^{-1} \\
+&m_{\text{min}} = 2 \space mg, \space m_{\text{max}} = 4 \space 4 \space mg \\
+&c = 20 \space mM = 2 \cdot 10^{-2} \space M \\
+&c = \frac{n}{V} \Rightarrow V = \frac{n}{c}=\frac{m}{c \cdot M} \\
+&V_{\text{min}} = \frac{2 \cdot 10^{-3} \space g}{2 \cdot 10^{-2} \space M \cdot 122.12 \space g \cdot mol^{-1}} = 0.8189 \space ml \\
+&V_{\text{max}} = \frac{4 \cdot 10^{-3} \space g}{2 \cdot 10^{-2} \space M \cdot 122.12 \space g \cdot mol^{-1}} = 1.638 \space ml \\
+&\end{flalign}
 $$

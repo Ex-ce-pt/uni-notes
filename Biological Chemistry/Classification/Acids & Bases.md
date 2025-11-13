@@ -119,13 +119,13 @@ $pOH = -log([\ce{OH-}])$
 $pH + pOH = 14$
 
 $$
-\begin{gather}
-K_a = \frac{\ce{[H+][A-]}}{\ce{[HA]}} \\
-log(K_a) = log(\frac{\ce{[H+][A-]}}{\ce{[HA]}}) = log(\ce{[H+]}) + log(\frac{\ce{[A-]}}{\ce{[HA]}}) \\
--log(K_a) = -log(\ce{[H+]}) - log(\frac{\ce{[A-]}}{\ce{[HA]}}) \\
-pK_a = pH - log(\frac{\ce{[A-]}}{\ce{[HA]}}) \\
-pH = pK_a + log(\frac{\ce{[A-]}}{\ce{[HA]}})
-\end{gather}
+\begin{flalign}
+&K_a = \frac{\ce{[H+][A-]}}{\ce{[HA]}} \\
+&log(K_a) = log(\frac{\ce{[H+][A-]}}{\ce{[HA]}}) = log(\ce{[H+]}) + log(\frac{\ce{[A-]}}{\ce{[HA]}}) \\
+&-log(K_a) = -log(\ce{[H+]}) - log(\frac{\ce{[A-]}}{\ce{[HA]}}) \\
+&pK_a = pH - log(\frac{\ce{[A-]}}{\ce{[HA]}}) \\
+&pH = pK_a + log(\frac{\ce{[A-]}}{\ce{[HA]}})
+&\end{flalign}
 $$
 
 

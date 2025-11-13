@@ -1,6 +1,6 @@
 
-The stronger the interactions, the higher the boiling point of the compound.
-Interactions here are listed in decreasing order of force.
+The stronger the interactions, the higher the melting & boiling points of the compound.
+Interactions here are listed in decreasing order of strength.
 
 > Life is hard. Compounds almost always have multiple different interaction types (eg. when there's a [hydrogen bond](#Hydrogen%20bonding), there's necessarily a [dipole-dipole](#Dipole-dipole%20interaction) bond as well). What's usually important is which interaction is the strongest.
 
@@ -10,7 +10,7 @@ Solubility: solvent and solute must have the same type of intermolecular forces 
 
 Between charged atoms/molecules.
 Described by the Coulomb's law.
-High polarization → high attraction → high melting and boiling points
+High polarization → high attraction → high melting & boiling points
 
 $\ce{NaCl} = \ce{Na+} + \ce{Cl-}$
 
