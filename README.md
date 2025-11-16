@@ -38,7 +38,7 @@ In order to take notes, i've used a couple of different apps/technologies. You m
 
 If you spotted a mistake in the notes, want to add something, or want to change the order of information, feel free to open a pull request, open an issue, or contact me directly at `except.dice@gmail.com` or via other means, if you know me personally.
 
-**Please, try not to leak my name, if end up contributing though.**
+**Please, try not to leak my name, if you end up contributing though.**
 
 ## Usage
 

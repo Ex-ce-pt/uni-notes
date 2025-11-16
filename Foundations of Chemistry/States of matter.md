@@ -7,6 +7,8 @@
 
 ## Gases
 
+Gases take the shape of the vessel they're in & fill the entire volume of the vesssel.
+
 Pressure depends on:
 - Force of impact → Kinetic energy → Temperature
 - Collisions over area → Volume, concentration
@@ -133,7 +135,7 @@ $\bar v$ - average velocity of a gas particle.
 ![[states-of-matter/He-maxwell-distribution-of-speeds.png]]
 The hotter the gas is, the more kinetic energy the particles have on average.
 
-> $E_k = mv^2$
+> $E_k = \frac{1}{2} mv^2$
 
 
 2\. Same $T$, different gas
@@ -171,6 +173,8 @@ Still need 2 parameters, but can use the equation for any $T$.
 
 ## Liquids
 
+Liquids take the shape of the vessel, but do have a defined volume.
+
 #### Capillary action
 
 Behavior of liquids in tight vessels.
@@ -200,3 +204,76 @@ Smaller molecules form stable states more frequently /w less rearrangement → l
 Bigger molecules need more time to find a stable state.
 
 ## Solids
+
+Solids have defined shape & volume.
+
+**Crystalline solid** - long-range order, the entire system is ordered.
+**Amorphous solid** - short-range order, overall no order.
+
+The difference between the types of crystalline solids is not always clear.
+
+#### Ionic solids
+
+**Salts**.
+
+![[states-of-matter/NaCl-structure.png]]
+
+- Held together by [ionic interaction](Intermolecular%20interactions#Coulombic/ionic/electrostatic).
+- High melting point.
+- Large anions, small cations → structure achieved by optimizing anion packing (*usually*).
+- Brittle - ions repel each other, if displaced.
+
+> RTIL - Room Temperature Ionic Liquid - salts /w melting point below room temperature. Achieved by having big or asymmetric ions.
+
+#### Molecular solids
+
+![[states-of-matter/ice-structure.png]]
+
+- Held together by various [intermolecular interactions](Intermolecular%20interactions).
+- *(Typically)* low melting point - weaker forces holding molecules together.
+- Brittle
+- Soluble - solvent needs to participate in the same type of bonding.
+
+> Like dissolves like.
+
+#### Network solids
+
+![[diamond-tetrahedrical-structure.svg]]
+
+- No discrete molecular unit.
+- Held together by various [intermolecular interactions](Intermolecular%20interactions).
+	- More ionic bonding → ceramics.
+- Do not melt - heating up cracks the bonds.
+
+#### Metallic solids
+
+![[states-of-matter/metal-structure.jpg]]
+
+- Packed atoms of metal.
+- Held together by metallic bonds - common $e^-$ cloud, **sea-of-electrons model**.
+- Malleable.
+- Melting point varies a lot.
+- *(Typically)* silver in color - except for $\ce{Cu}$ & $\ce{Au}$.
+
+> Malleable - possible to hammer into thin sheets.
+> Ductile - possible to stretch into wires.
+
+#### Packing
+
+**ABA** - hexagonal close packing, every second layer is vertically aligned.
+![[states-of-matter/hexagonal-close-packing.png]]
+
+**ABC** - cubic close packing, layers come in a sequence of 3.
+![[states-of-matter/cubic-close-packing.jpg]]
+
+**Unit cell** - the smallest repeating part of the structure.
+$\text{Packing efficiency} = \frac{\text{volume taken up by atoms}}{\text{volume of the unit cell}}$
+
+**Primitive close packed** - 8 particles in the corners, $\text{PE} \approx 0.52$.
+![[states-of-matter/primitive-close-packed.png]]
+
+**Body-centered cubic structure** - 1 particle in the center & 8 particles in the corners, $\text{PE} = 0.68$.
+![[states-of-matter/body-centered-cubic.png]]
+
+**Face-centered cubic structure** - 8 particles in the corners & 6 particles in the faces, $\text{PE} = 0.74$.
+![[states-of-matter/face-centered-cubic.png]]

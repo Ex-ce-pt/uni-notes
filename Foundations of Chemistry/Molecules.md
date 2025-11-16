@@ -40,6 +40,8 @@ We can talk about a bond having a dipol or about a molecule being a dipole itsel
 These should not be mixed up.
 In the case of $\ce{HF}$, it's both.
 
+A molecule's dipol is a sum of the dipols of all the bonds in it.
+
 ## Ionic bond
 
 Bond between a cation and an anion.
@@ -136,10 +138,10 @@ Simple examples:
 **Hypervalent** - more than $8e^-$ on the valence shell.
 **Hypovalent** - less than $8e^-$ pm the valence shell.
 
-| Trends          | Elements             | Example |
-| --------------- | -------------------- | ------- |
-| **Hypervalent** | from 3rd row         |         |
-| **Hypovalent**  | $\ce{B, Al, Be, Mg}$ |         |
+| Trends          | Elements             | Example                      |
+| --------------- | -------------------- | ---------------------------- |
+| **Hypervalent** | from 3rd row         | ![[molecules/SO2-lewis.png]] |
+| **Hypovalent**  | $\ce{B, Al, Be, Mg}$ | ![[molecules/BH3-lewis.png]] |
 
 > Positive charge on an $e^-$-neg. atom is always discouraged, negative charge - encouraged! If possible, make a central atom hypovalent instead.
 
@@ -200,7 +202,7 @@ Bonds form by sharing $e^-$ between the orbitals of 2 atoms.
 When atoms form a bond, the orbitals the $e^-$ are from merge together, creating a shared space.
 The greater the overlap of atomic orbitals, the stronger the bond.
 
-![[molecules/bond-formation.png]]
+![[molecules/sigma-bond-formation.png]]
 ![[molecules/H2-bond-energy.png]]
 
 **$\sigma$-bond** - cylindrically symmetrical, no nodal planes through the internuclear axis.
@@ -211,7 +213,7 @@ $\sigma$-bond - strong bond (a lot of overlap).
 A $\pi$-bond is formed when 2 atomic orbitals are located parallel to each other, side-by-side, rather than directly pointing towards one another.
 $\pi$-bond - weaker bold (significantly less overlap).
 
-==pi bond ex.
+![[molecules/pi-bond-formation.png]]
 
 If this logic is used alone, predictions don't always correspond to reality.
 
@@ -224,7 +226,7 @@ For atoms /w more $e^-$, orbitals are hybridized.
 
 Hybridization is caused by the interference among the orbitals' $e^-$ density.
 
-==hybrid
+![[molecules/hybrids.png]]
 
 Hybridization explains the structure of molecules:
 Imagine that [[#VSEPR]] applies to the hybridized orbitals separately. In this case, if there are 4 equivalent $sp^3$ hybrids, thus a tetrahedral structure. Or there could be 3 equivalent $sp^2$ hybrids, thus a trigonal planar structure.
@@ -237,7 +239,7 @@ Imagine that [[#VSEPR]] applies to the hybridized orbitals separately. In this c
 
 > Hybridization applies to both atoms in a bond!
 
-==EXAMPLE: H2CO
+![[molecules/H2CO-hybridization.png]]
 
 Since $\sigma$-bonds are cylindrically symmetrical → they can rotate.
 $\pi$-bonds are not cylindrically symmetrical → they are rigid, they cannot rotate.
@@ -251,7 +253,7 @@ VBT can't explain:
 - Phases (signs) of orbitals
 - Diamagnetic/paramagnetic molecules
 	**Diamagnetic** - no unpaired $e^-$, repulsed by magnets.
-	**Paramagnetic** - unpaired $e^-$, attracted by magnets.
+	**Paramagnetic** - unpaired $e^-$, weakly attracted by magnets.
 - Spectroscopy
 
 ## MO Theory
@@ -260,7 +262,7 @@ VBT can't explain:
 Best model so far.
 Treats $e^-$ as fully delocalized and smeared out across the whole molecule.
 
-In MO, we use atomic orbitals to create molecular orbitals.
+In MO, atomic orbitals are used to create molecular orbitals.
 
 Important concepts:
 - **LCAO (Linear Combination of Atomic Orbitals)** - $ax+by$, AOs are combined in different proportions.
@@ -287,7 +289,9 @@ $\text{Bond order} = \frac{(\text{\# of bonding } e^-) - (\text{\# of antibondin
 
 **Bonding MOs** create bonding - lower in energy, 2 nuclei are acting on $e^-$.
 **Anti-bonding MOs** inhibit bonding - higher in energy, $e^-$ are far from the nuclei.
-**Non-bonding AOs** - does not mix /w any AOs of another atom. Usually core orbitals, can be some lower valence orbitals as well.
+**Non-bonding AOs** - do not mix /w any AOs of another atom. Usually core orbitals, can be some lower valence orbitals as well.
+**LUMO** - Lowest Unoccupied Molecular Orbital.
+**HOMO** - Highest Occupied Molecular Orbital.
 
 #### Examples of molecular orbitals
 
@@ -307,40 +311,49 @@ Here the bond order is 1. There is a bond in $\ce{Li2}$.
 
 > Key: just as AOs go down in energy for every next element in the periodic table, the MOs get closer and closer to the AOs they were made from. This is because the atomic radius grows → the distance between AOs grows → the overlap between AOs decreases → AOs loose connection.
 
+![[molecules/F2-MO.png]]
+From here it is apparent that $\ce{F2}$ has a bond and will exist as a molecule. The MOs of the molecule can be written down as $\ce{F2}: \sigma_{2s}^2 \space \sigma_{2s}^{*2} \space \sigma_{2p}^2 \space [\pi_{2px}^2 \space \pi_{2py}^2] \space [\pi_{2px}^{*2} \space \pi_{2py}^{*2}]$
+
+![[molecules/HF-MO.png]]
+Here the molecule is diatomic & polar. $\ce{F} \space 2p_z$ is able to bond /w $\ce{H} \space 1s$. All the other orbitals of $\ce{F}$ ($2s, 2p_x, 2p_y$) are non-bonding - they are too far away from $\ce{H} \space 1s$. Note, the energy difference between $\ce{H} \space 1s$ & $\sigma_{sp}^*$ is the same as between $\ce{F} \space 2p$ & $\sigma_{2p}$.
+An AO makes a **"larger contribution"** to a MO, if it is closer to a MO than the AO of another atom. Here $\ce{F} \space 2p_z$ makes a larger contribution to $\sigma_{2p}$ than $\ce{H} \space 1s$ and $\ce{H} \space 1s$ makes a larger contribution to $\sigma_{2p}^*$ than $\ce{F} \space 2p_z$.
+
 #### Variants of molecular orbitals
 
 ![[molecules/MO-variants.png]]
 
 - Both $\pi_{px}$ and $\pi_{py}$ MOs form in the same way.
-- $p_x$ and $p_y$ AOs cannot form a $\pi_{pxpy}$ MO, since they are perpendicular and overlap between them is almost nonexistent.
+- $p_x$ and $p_y$ AOs **cannot** form a $\pi_{pxpy}$ MO, since they are perpendicular and overlap between them is almost nonexistent.
 
 #### Orbital mixing
 
-symmetry
-rigorous - using group theory
+Happens for $\ce{B, C, N}$.
+If orbitals have the same symmetry & are close in energy.
 
+![[molecules/sigma-pi-crossover.png]]
 
-good overlap - big energy diff
-bad overlap - small energy diff
+$2s$ and $2p$ are close in energy.
+$\sigma$-$\pi$ crossover - when the $\sigma$ MO happens to be higher in energy than the $\pi$ MOs.
 
-orbitals same symmetry + close in energy → orbitals can mix
-2s and 2p close in energy
+#### Diamagnetism & paramagnetism
 
-sigma-pi crossover = mixing
+MO Theory, unlike [[#VBT]], can explain diamagnetism and paramagnetism.
 
+**Diamagnetic** - no unpaired $e^-$, repulsed by magnets.
+**Paramagnetic** - unpaired $e^-$, weakly attracted by magnets.
 
-explains diamagnetism and paramagnetism
+| Diamagnetic - $\ce{N2}$                                             | Paramagnetic - $\ce{O2}$ |
+| ------------------------------------------------------------------- | ------------------------ |
+| ![[N2-MO.png]]                                                      | ![[O2-MO.png]]           |
 
-unpaired e in the molecular orbitals
-
-
-in HF F_2s is so far from H_1s that it's non-bonding
-
-electronegativity reflects how effective nuclear charge affects atomic orbital energies (and through that molecular orbital energies)
-
-separation of orbitals destroys bonding
+#### Drawbacks
 
 
 > MO Theory still assumes the bond is covalent, still need to use electronegativity to check.
 
 > In MO Theory, every $e^-$ in every atom contributes to every single bond to some extend, which is not practical. e are fully delocalized.
+
+
+---
+
+electronegativity reflects how effective nuclear charge affects atomic orbital energies (and through that molecular orbital energies)

@@ -16,12 +16,16 @@ down -> increases (more shells).
 ## Ionization energy
 
 [E_I](Atom,%20orbitals#Cations)
-right → increases
-down → decreases
+right → increases (effective nuclear charge holds $e^-$ tighter)
+down → decreases (new shells are further from the nucleus)
 
 ## Electron affinity
 
 [E_A](Atom,%20orbitals#Anions)
 *(Generally)*
-right → increases
-down → decreases
+right → increases (less $e^-$ needed to complete the octet)
+down → decreases (easier to remove $e^-$ rather than accept them)
+
+$E_A$ is negative when an orbital is filled /w either lone or paired $e^-$:
+$\ce{Be, N, Ne, ...}$
+
