@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atom, orbitals.md",
+                "file": "Atomic Structure/Molecules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Atom, orbitals"
+              "title": "Molecules"
             }
           },
           {
@@ -55,16 +55,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thermodynamics.md",
+                "file": "Thermodynamics/Thermodynamics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Thermodynamics"
             }
+          },
+          {
+            "id": "188e1f0112880a59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thermodynamics/Enthalpy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Enthalpy"
+            }
+          },
+          {
+            "id": "30cf6c6a6e1844e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thermodynamics/Entropy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Entropy"
+            }
+          },
+          {
+            "id": "a06880663ae2c50a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physical equilibrium.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Physical equilibrium"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -212,36 +254,40 @@
       "bases:Create new base": false
     }
   },
-  "active": "4fb9d54420c2fca5",
+  "active": "a06880663ae2c50a",
   "lastOpenFiles": [
-    "Atom, orbitals.md",
+    "_media/equilibrium/phase-diagram-CO2.png",
+    "_media/equilibrium/phase-diagram-water.png",
+    "_media/equilibrium/phase-diagrams.xcf",
+    "_media/equilibrium/phase-diagram-example.png",
+    "_media/equilibrium/phase-diagram-water.xcf",
+    "_media/equilibrium/maxwell-distribution-of-speeds.xcf",
+    "Thermodynamics/Entropy.md",
+    "Physical equilibrium.md",
+    "Thermodynamics/Enthalpy.md",
+    "Thermodynamics/Thermodynamics.md",
+    "_media/equilibrium/boiling.png",
+    "_media/equilibrium/boiling.xcf",
+    "_media/equilibrium/vapor-pressure - Copy.xcf",
+    "_media/equilibrium/vapor-pressure.xcf",
+    "_media/equilibrium/vapor-pressure.png",
+    "_media/equilibrium/ion-dipole.xcf",
+    "_media/equilibrium",
+    "Pasted image 20251128194710.png",
+    "Atomic Structure/Intermolecular interactions.md",
     "Cheat Sheet.md",
-    "States of matter.md",
-    "Thermodynamics.md",
-    "Periodic trends.md",
+    "Atomic Structure/States of matter.md",
+    "Thermodynamics",
+    "Atomic Structure",
+    "Atomic Structure/Molecules.md",
+    "Atomic Structure/Atom, orbitals.md",
+    "_media/thermochemistry/Kirchhoffs-law-derivation.png",
+    "Atomic Structure/Periodic trends.md",
     "Foundations of Chemistry.md",
-    "Molecules.md",
     "_media/molecules/sigma-pi-crossover.png",
-    "_media/molecules/sigma-pi-crossover.xcf",
-    "_media/molecules/N2-MO - Copy.xcf",
     "_media/molecules/O2-MO.png",
-    "_media/molecules/O2-MO.xcf",
     "_media/molecules/N2-MO.png",
-    "_media/molecules/N2-MO.xcf",
-    "_media/molecules/F2-MO - Copy.xcf",
     "_media/molecules/HF-MO.png",
-    "_media/molecules/HF-MO.xcf",
-    "_media/molecules/HF.xcf",
-    "_media/molecules/F2-MO.png",
-    "_media/molecules/F2-MO.xcf",
-    "_media/molecules/Li2-MO - Copy.xcf",
-    "_media/molecules/H2CO-hybridization.png",
-    "_media/molecules/H2CO-hybridization.xcf",
-    "_media/molecules/hybrids.png",
-    "_media/molecules/pi-bond-formation.png",
-    "_media/states-of-matter/cubic-close-packing.jpg",
-    "_media/molecules/BH3-lewis.png",
-    "Intermolecular interactions.md",
     "Atoms, orbitals.md",
     "Cheat%20Sheet.md",
     "Untitled.canvas",

@@ -197,7 +197,7 @@ Hydrophobic surface → droplet is a ball (ideally a perfect sphere) to minimize
 #### Viscosity
 
 Difficult to explain.
-Depends on the [intermolecular interactions](Intermolecular%20interactions) & **energy landscape**.
+Depends on the [intermolecular interactions](Intermolecular%20interactions.md) & **energy landscape**.
 
 Energy landscape - how much rearrangement is needed to find a stable state?
 Smaller molecules form stable states more frequently /w less rearrangement → less viscous.
@@ -218,7 +218,7 @@ The difference between the types of crystalline solids is not always clear.
 
 ![[states-of-matter/NaCl-structure.png]]
 
-- Held together by [ionic interaction](Intermolecular%20interactions#Coulombic/ionic/electrostatic).
+- Held together by [ionic interaction](Intermolecular%20interactions.md#Coulombic/ionic/electrostatic).
 - High melting point.
 - Large anions, small cations → structure achieved by optimizing anion packing (*usually*).
 - Brittle - ions repel each other, if displaced.
@@ -229,7 +229,7 @@ The difference between the types of crystalline solids is not always clear.
 
 ![[states-of-matter/ice-structure.png]]
 
-- Held together by various [intermolecular interactions](Intermolecular%20interactions).
+- Held together by various [intermolecular interactions](Intermolecular%20interactions.md).
 - *(Typically)* low melting point - weaker forces holding molecules together.
 - Brittle
 - Soluble - solvent needs to participate in the same type of bonding.
@@ -241,7 +241,7 @@ The difference between the types of crystalline solids is not always clear.
 ![[diamond-tetrahedrical-structure.svg]]
 
 - No discrete molecular unit.
-- Held together by various [intermolecular interactions](Intermolecular%20interactions).
+- Held together by various [intermolecular interactions](Intermolecular%20interactions.md).
 	- More ionic bonding → ceramics.
 - Do not melt - heating up cracks the bonds.
 
