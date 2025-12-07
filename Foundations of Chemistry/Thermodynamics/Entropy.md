@@ -182,6 +182,9 @@ $\Delta G \degree = \sum n \Delta G \degree _{f, \text{ products}} - \sum n \Del
 
 Over small temperature differences, assume $\Delta G$ does not change.
 
+For an ideal gas: $G_m = G_m \degree + RT \cdot ln(\frac{p}{p \degree}), \space p \degree = 1 \space bar$
+For a liquid: $G_m \approx G_m \degree$
+
 **Thermodynamically stable compound** - compound /w $\Delta G \degree _f < 0$; its elements have a tendency to spontaneously combine into this compound.
 **Thermodynamically unstable compound** - compound /w $\Delta G \degree _f > 0$; it has a tendency to spontaneously decompose.
 **Nonlabile/inert compound** - compound that does not decompose in practice, despite being thermodynamically unstable.

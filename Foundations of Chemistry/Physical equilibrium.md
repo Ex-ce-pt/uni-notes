@@ -25,7 +25,7 @@ Higher vapor pressure:
 - (usually) Lower boiling point;
 - Lower $\Delta H_{\text{vap}}$.
 
-Higher temperature → more kinetic energy → particles escape more → higher vapor pressure
+**Higher temperature** → more kinetic energy → particles escape more → **higher vapor pressure**
 
 **Clausius-Clapeyron equation**:
 $ln(\frac{p_2}{p_1}) = -\frac{\Delta H_{\text{vap}} \degree}{R}(\frac{1}{T_2} - \frac{1}{T_1})$
@@ -37,7 +37,7 @@ $A, \space B \text{ - depend on the substance, meant to be looked up in the tabl
 #### Boiling
 
 **Boiling** happens when the vapor pressure is equal to the external (atmospheric) pressure.
-At the boiling point, instead of the surroundings pushing on the vapor, the vapor starts pushing on the surroundings instead, making more room for itself, and letting the rest of the liquid evaporate more easily (boil).
+At the boiling point, instead of the surroundings pushing on the vapor, the vapor starts pushing on the surroundings instead, making more room for itself, and letting the rest of the liquid evaporate (boil) easily.
 
 ![[equilibrium/boiling.png]]
 
@@ -66,31 +66,57 @@ At the boiling point, instead of the surroundings pushing on the vapor, the vapo
 
 #### Two component phase diagram
 
-==phase diag.
-
 **Raoult's law**:
 $p_A = x_A \cdot p_A^*$
-$p_A \text{ - vapor pressure of the substance } A \text{ in the mixture}$
-$x_A \text{ - molar fraction of the substance } A \text{ in the mixture}$
-$p_A^* \text{ - vapor pressure of the substance } A \text{ if it were pure}$
 
-Put simply: a substance contributes vapor pressure proportionally to its content in the mixture.
+| Symbol  | Unit | Explanation                                         |
+| ------- | ---- | --------------------------------------------------- |
+| $p_A$   | $Pa$ | Vapor pressure of the substance $A$ in the solution |
+| $x_A$   | $-$  | Molar fraction of the substance $A$ in the solution |
+| $p_A^*$ | $Pa$ | Vapor pressure of the substance $A$ if it were pure |
+Put simply: a substance contributes vapor pressure proportionally to its content in the solution.
 
 Using Dalton's law:
 $p = \sum p_i = \sum x_i \cdot p_i^*$
-The total vapor pressure of a mixture is the sum of the vapor pressures of the parts of the mixture.
+The total vapor pressure of a solution is the sum of the vapor pressures of the parts of the solution.
 
-**Ideal solution** - the solvent and the solute have exactly the same [intermolecular interactions](Intermolecular%20interactions). Both components obey Raoult's law at all concentrations. Enthalpy of solution is $0$.
-**Real solution** - does not obey Raoult's law at all concentrations. The smaller the "purer" the solutions, the more resembles an ideal solution ($c < 0.1 \space M$).
+> A solute always lowers the vapor pressure of a solvent.
+
+**Ideal solution** - the solvent and the solute have exactly the same [intermolecular interactions](Intermolecular%20interactions). Both components obey Raoult's law at all concentrations. $\Delta H_{\text{sol}} = 0$.
+**Real solution** - does not obey Raoult's law at all concentrations. The smallel the concentration of the solute, the more resembles an ideal solution ($c < 0.1 \space M$).
+
+Phase diagrams also work /w two-component systems, but they are usually more complicated than this simple one. Pressure is assumed to be constant at $p = 1 \space atm$ for practical purposes.
+![[equilibrium/phase-diagrams-binary-example.png]]
 
 **Enthalpy of mixing** ($\Delta H_{\text{mix}}$) - difference in enthalpy between the mixture & pure components.
 
-Volatile solvent + volatile solute → both contribute heavily to the vapor pressure of the solution.
-==...
+When a solution boils, there will be more molecules of the more volatile liquid in the gaseous phase. Phase diagrams like this show the concentration of a part of the solution in both phases. At a specific concentration ($x(l)$), the solution boils at a specific temperature ($T_b$). The second graph then shows the concentration ($x(g)$) of the part of the solution in the vapor at the same temperature.
+![[equilibrium/phase-diagrams-binary-vapor.png]]
 
-## Distillation
+#### Fractional distillation
 
-**Azeotrope** - mixture the vapor of which has the same composition as the mixture itself; cannot be separated /w distillation.
+Method for separating mixtures of liquids /w similar boiling points. Works well /w solutions close to ideal solutions.
+
+![[equilibrium/phase-diagrams-binary-fractional-distillation.png]]
+
+The mixture is boiled. The composition of the more volatile component in the vapor is greater than in the original liquid. The vapor condensates. The new liquid is boiled again, once again increasing the concentration of the more volatile component. The process is repeated many times.
+
+In practice, fractional distillation happens as a single process in fractionating columns. The vapor continuously evaporates & condensates inside the column, and the more volatile component comes out on top.
+
+**Distillate** - the condensed vapor from the distillation process; the liquid coming out of the fractionating column.
+**Fraction** - a component of the original mixture separated using fractional distillation.
+
+#### Azeotropes
+
+**Azeotrope** - a mixture, the vapor of which has the same composition as the mixture itself; cannot be separated /w fractional distillation.
+
+Azeotropes are formed by real solutions.
+
+| Minimum boiling azeotrope                                                                                | Maximum boiling azeotrope                                                                                 |
+| -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| ![[equilibrium/azeotrope-minimum.png]]                                                                   | ![[equilibrium/azeotrope-maximum.png]]                                                                    |
+| The vapor of the mixture approaches the azeotropic concentration & as much of it is created as possible. | The leftover mixture approaches the azeotropic concentration & the rest of the components are boiled off. |
+| The more volatile azeotropic mixture is obtained as a distillate.                                        | The less volatile azeotropic mixture is left in the flask.                                                |
 
 ## Solubility
 
@@ -104,8 +130,8 @@ In saturated solutions, the dissolved & undissolved solute are in dynamic equili
 > Like-dissolves-like
 > Substance dissolves in the solvent, if they both have the same kind of [intermolecular interactions](Intermolecular%20interactions).
 
-Solute lowers the [Gibbs free energy](Entropy#Gibbs%20free%20energy) of the solute by increasing [entropy](Entropy).
-
+Solute lowers the [Gibbs free energy](Entropy#Gibbs%20free%20energy) of the solvent by increasing [entropy](Entropy).
+The solution is then less volatile than the pure solvent & more condensation takes place.
 
 #### Gases
 
@@ -153,7 +179,7 @@ Dissolving can be both exothermic ($\ce{CaCl2}$) or endothermic ($\ce{NH4Cl}$).
 - Molar concentration: $c = \frac{n}{V}$
 - Mole fraction: $x_{\text{solute}} = \frac{n_{\text{solute}}}{n_{\text{tot}}}$
 - Molality: $b = \frac{n_{\text{solute}}}{m_{\text{solvent}}}$
-- delta T_f
+- $\Delta T_{\text{f}}$
 
 Solute increases boiling point and lowers freezing point.
 
