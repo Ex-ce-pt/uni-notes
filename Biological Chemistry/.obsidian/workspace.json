@@ -99,16 +99,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nomenclature.md",
+                "file": "Reactions/Redox Reaction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nomenclature"
+              "title": "Redox Reaction"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -255,26 +255,26 @@
       "print:Print note": false
     }
   },
-  "active": "f8f460131dfc26c8",
+  "active": "522a8cc94756390d",
   "lastOpenFiles": [
+    "Reactions/Redox Reaction.md",
+    "Stoichiometry.md",
+    "Moles & Molar Masses.md",
+    "Limiting Reactants.md",
     "Classification/Acids & Bases.md",
+    "Extraction.md",
+    "Classification/Mixtures & Solutions.md",
     "Nomenclature.md",
     "Cheat Sheet.md",
-    "Classification/Mixtures & Solutions.md",
     "Reactions/Organic reactions.md",
-    "Moles & Molar Masses.md",
     "Classification/Elements & atoms.md",
     "Themes/Theme 1/Medicines of Tomorrow.md",
     "Classification/Matter & Energy.md",
     "Interactions between molecules.md",
-    "Reactions/Redox Reaction.md",
     "Lewis structures.md",
     "Themes/Theme 1/Drug Development.md",
-    "Limiting Reactants.md",
     "Spectrometry.md",
     "Statistics & Chemometrics.md",
-    "Stoichiometry.md",
-    "Extraction.md",
     "Reactions/Precipitation Reaction.md",
     "Themes/Theme 3/Diet, exercise, and health.md",
     "Scientific work/Lab Notebook.md",

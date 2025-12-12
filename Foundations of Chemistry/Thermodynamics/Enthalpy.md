@@ -58,7 +58,12 @@ $$
 
 ## Standard reaction enthalpy
 
-**Standard state** - pure form, $1 \space bar$. $\ce{C (s), H2O (l), O2 (g)}$ For solutes, $c= 1 \space M$.
+**Standard state**:
+- Pure form;
+- Gases at $1 \space bar$;
+- Solutes at $c= 1 \space M$.
+$\ce{C (s), H2O (l), O2 (g)}$
+
 **Standard reaction enthalpy** ($\Delta H \degree$) - reaction enthalpy when both the reactants & products are in their standard states.
 
 $\ce{C2H4 (g) + 3 O2 (g) -> 2 CO2 (g) + 2 H2O (g)}$ - not standard state, gaseous water.
@@ -67,6 +72,9 @@ $\ce{C2H4 (g) + 3 O2 (g) -> 2 CO2 (g) + 2 H2O (l)}$ - standard state.
 **Standard enthalpy of formation** ($\Delta H_f \degree$) - standard reaction enthalpy **per mole** of formula units  of a substance formed from its elements in **most stable form**.
 **Most stable form**: $\ce{C}$ - graphite, $\ce{H2O}$ - water, $\ce{O2}$ - gas.
 Exception: white phosphorus is used for its  $\Delta H_f \degree$ because it's easier to obtain.
+
+$\ce{C (gr) + O2 (g) -> CO2 (g)}, \space \Delta H_f \degree$
+
 
 **Standard enthalpy of combustion** ($\Delta H_c \degree$) - standard enthalpy **per mole** of a substance burned at standard conditions.
 

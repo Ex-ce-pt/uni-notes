@@ -11,7 +11,7 @@ Temperature is a measure of average kinetic energy of the molecules in a substan
 
 ![[equilibrium/vapor-pressure.png]]
 
-$\ce{H2O (l) \leftrightharpoons H2O (g)}, \space \Delta S = 0, \space \Delta G = 0$
+$\ce{H2O (l) \rightleftharpoons H2O (g)}, \space \Delta S = 0, \space \Delta G = 0$
 
 **Vapor pressure** - pressure of the **vapor** of a liquid (or a solid) at the equilibrium between evaporation & condensation.
 
@@ -80,15 +80,17 @@ Using Dalton's law:
 $p = \sum p_i = \sum x_i \cdot p_i^*$
 The total vapor pressure of a solution is the sum of the vapor pressures of the parts of the solution.
 
-> A solute always lowers the vapor pressure of a solvent.
+> A solid solute always lowers the vapor pressure of a solvent.
 
 **Ideal solution** - the solvent and the solute have exactly the same [intermolecular interactions](Intermolecular%20interactions). Both components obey Raoult's law at all concentrations. $\Delta H_{\text{sol}} = 0$.
-**Real solution** - does not obey Raoult's law at all concentrations. The smallel the concentration of the solute, the more resembles an ideal solution ($c < 0.1 \space M$).
+**Real solution** - does not obey Raoult's law at all concentrations. The smaller the concentration of the solute, the more resembles an ideal solution ($c < 0.1 \space M$).
 
 Phase diagrams also work /w two-component systems, but they are usually more complicated than this simple one. Pressure is assumed to be constant at $p = 1 \space atm$ for practical purposes.
 ![[equilibrium/phase-diagrams-binary-example.png]]
 
 **Enthalpy of mixing** ($\Delta H_{\text{mix}}$) - difference in enthalpy between the mixture & pure components.
+
+==mb enthalpy of solution is the same???
 
 When a solution boils, there will be more molecules of the more volatile liquid in the gaseous phase. Phase diagrams like this show the concentration of a part of the solution in both phases. At a specific concentration ($x(l)$), the solution boils at a specific temperature ($T_b$). The second graph then shows the concentration ($x(g)$) of the part of the solution in the vapor at the same temperature.
 ![[equilibrium/phase-diagrams-binary-vapor.png]]
@@ -171,6 +173,7 @@ Dissolving can be both exothermic ($\ce{CaCl2}$) or endothermic ($\ce{NH4Cl}$).
 | **Sol**      | solid in liquid     | Blood, paint, mud |
 | **Emulsion** | liquid in liquid    | Milk              |
 | **Foam**     | gas in liquid/solid | Soap, sponge      |
+| Aerosol      | solid/liquid in gas | Smoke, mist       |
 
 **Brownian motion** - motion of a small particle from constant bombardment of solvent molecules.
 

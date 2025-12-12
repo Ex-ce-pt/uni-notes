@@ -49,6 +49,7 @@ From the definition of $K$:
 
 > Important!
 > $\Delta G \degree = -RT \cdot ln(K)$
+> **Works for any reaction, not only the ones involving gases!**
 
 **Potential to go to completion** ($K > 1$) - Gibbs free energy curve's minimum is close to pure products.
 **Little tendency to form products** ($K < 1$) - Gibbs free energy curve's minimum is close to pure reactants.

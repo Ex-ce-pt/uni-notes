@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "34c3c3778a258367",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Foundations of Chemistry.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Foundations of Chemistry"
-            }
-          },
-          {
-            "id": "0d37640474a3c2a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atomic Structure/Molecules.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Molecules"
-            }
-          },
-          {
             "id": "2b272b789d449ac4",
             "type": "leaf",
             "state": {
@@ -132,9 +104,79 @@
               "icon": "lucide-file",
               "title": "Acids & Bases"
             }
+          },
+          {
+            "id": "9760f205f3d73dd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Buffers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Buffers"
+            }
+          },
+          {
+            "id": "6260b92e205aa3ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Titration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Titration"
+            }
+          },
+          {
+            "id": "89749bcecc4db542",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Solubility equilibrium.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Solubility equilibrium"
+            }
+          },
+          {
+            "id": "c17bc14d41fb8866",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electrochemistry.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Electrochemistry"
+            }
+          },
+          {
+            "id": "b11f66a48890dc4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kinetics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kinetics"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -282,12 +324,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "e46667d05610a363",
+  "active": "b11f66a48890dc4c",
   "lastOpenFiles": [
+    "Electrochemistry.md",
+    "Kinetics.md",
+    "Thermodynamics/Enthalpy.md",
     "Chemical equilibrium.md",
-    "Acids & Bases.md",
-    "Physical equilibrium.md",
+    "Cheat Sheet.md",
+    "Thermodynamics/Thermodynamics.md",
     "Thermodynamics/Entropy.md",
+    "Solubility equilibrium.md",
+    "Acids & Bases.md",
+    "Buffers.md",
+    "Titration.md",
+    "Physical equilibrium.md",
+    "Foundations of Chemistry.md",
+    "Atomic Structure/Atom, orbitals.md",
+    "Atomic Structure/States of matter.md",
+    "Atoms, orbitals.md",
+    "Atomic Structure/Molecules.md",
     "_media/equilibrium/azeotrope-maximum.png",
     "_media/equilibrium/azeotrope-minimum.png",
     "_media/equilibrium/azeotropes.xcf",
@@ -304,20 +359,12 @@
     "_media/equilibrium/phase-diagram-example.png",
     "_media/equilibrium/phase-diagram-water.xcf",
     "_media/equilibrium/maxwell-distribution-of-speeds.xcf",
-    "Thermodynamics/Enthalpy.md",
-    "Thermodynamics/Thermodynamics.md",
     "_media/equilibrium/boiling.png",
     "_media/equilibrium/boiling.xcf",
     "_media/equilibrium/vapor-pressure.xcf",
     "_media/equilibrium/vapor-pressure.png",
     "Atomic Structure/Intermolecular interactions.md",
-    "Cheat Sheet.md",
-    "Atomic Structure/States of matter.md",
-    "Atomic Structure/Molecules.md",
-    "Atomic Structure/Atom, orbitals.md",
     "Atomic Structure/Periodic trends.md",
-    "Foundations of Chemistry.md",
-    "Atoms, orbitals.md",
     "Cheat%20Sheet.md",
     "Untitled.canvas",
     "Atom,.md"

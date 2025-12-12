@@ -125,8 +125,9 @@ $\ce{H2O (l) + H2O (l) \rightleftharpoons H3O+ (aq) + OH- (aq)}$
 
 $K_w = \frac{\ce{[H3O+][OH-]}}{1 \cdot 1} = \ce{[H3O+][OH-]} = 10^{-7} \cdot 10^{-7} = 10^{-14} \space (\text{at } 25 \degree C)$
 
-$K_a \cdot K_b = K_w$
-$pK_a + pK_b = pK_w$
+For a conjugate acid-base pair:
+$K_a(\text{acid}) \cdot K_b(\text{base}) = K_w$
+$pK_a(\text{acid}) + pK_b(\text{base}) = pK_w$
 
 Autoprotolysis must be taken into account when working with very dilute solutions of acids & bases ($c < 10^{-6} \space M$). Otherwise, its effect is negligible.
 
@@ -224,7 +225,7 @@ Cl
 Br
 I
 ```
-- The **electronegativity** of the central atom: ==smth with HClO
+- The **electronegativity** of the central atom:
 ```smiles
 ClO[H]
 BrO[H]
@@ -255,7 +256,6 @@ Lewis:
 
 **Lewis acid-base adduct** - compound formed in the reaction between a Lewis acid & base.
 
-
 ## Polyprotic acids
 
 **Polyprotic acid** - Brønsted acid that can donate multiple protons. $\ce{H2SO4, H2CO3, H3PO4}$
@@ -271,9 +271,11 @@ During deprotonation, the acidity of the acid involved is decreasing fast.
 It is hard to separate a positively charged proton from a negatively charged anion.
 That means that the majority of the $pH$ effect comes from the first deprotonation.
 
-Only first dissociation can be considered, if $\frac{K_{a1}}{K_{a2}} \geq 100$
+Only first dissociation can be considered, if $\frac{K_{a1}}{K_{a2}} \geq 1000$
 
 [Further reading: Dissociation of polyprotic acids](https://staging.physicsclassroom.com/Chemistry-Tutorial/Solution-Equilibria/Dissociation-of-Polyprotic-Acids)
+
+When determining the $pH$ of the solution, the deprotonations need to also happen sequentially. In the ICE table, the equilibrium concentrations from the previous step carry over as the initial concentrations of the next step.
 
 #### Fractional composition
 
