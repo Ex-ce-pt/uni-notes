@@ -2,9 +2,10 @@
 
 Periodic Table - https://ptable.com/
 Line Structure Editor - https://moldraw.com/
-https://molview.org/ (https://app.molview.com/)
-https://chemix.org/
-https://explorebiology.org
+Molecular structure 3D viewer - https://molview.org/ (https://app.molview.com/)
+Interactive lab environment - https://chemix.org/
+Biology lessons/newsletter - https://explorebiology.org
+LaTeX editor - https://visualmatheditor.equatheque.net/
 
 ## Acronyms
 

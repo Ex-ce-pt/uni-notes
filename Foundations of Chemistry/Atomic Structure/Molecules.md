@@ -10,7 +10,7 @@
 | Ionic              | None             | Between whole ions          | $\ce{Na+Cl-}$          |
 
 No clear boundaries between different bonds - it's a spectrum.
-The distinction between bond types is usually drawn using [electronegativity](#Pauling%20electronegativity)
+The distinction between bond types is usually drawn using [electronegativity](#Pauling%20electronegativity).
 
 ## Covalent bond
 
@@ -20,11 +20,12 @@ Competing forces:
 - $e^--e^-$ repulsion
 
 $\Delta E$ - the energy/strength of the bond.
-$r_0$ - bond length at $0K$ (absolute minimum of energy, the most stable state possible).
+$r_0$ - bond length at $0 \space K$ (absolute minimum of energy, the most stable state possible).
 
 With temperature (additional energy) the bond length starts to vary.
 If $\Delta E$ or more energy is supplied, the bond is broken - **cracking**.
 
+Morse potential diagram:
 ![[molecules/morse-potential.png]]
 
 
@@ -33,14 +34,13 @@ Polar bond occurs between different atoms.
 
 ![[molecules/polar-bond.png]]
 
-Dipol arrow points from + to -.
+Dipole arrow points from $(+)$ to $(-)$.
 
-**Dipol** - system with 2 electric poles.
-We can talk about a bond having a dipol or about a molecule being a dipole itself.
+**Dipole** - system with 2 electric poles.
+We can talk about a bond having a dipole or about a molecule being a dipole itself.
 These should not be mixed up.
-In the case of $\ce{HF}$, it's both.
 
-A molecule's dipol is a sum of the dipols of all the bonds in it.
+A molecule's dipole is a sum of the dipoles of all the bonds in it.
 
 ## Ionic bond
 
@@ -100,6 +100,9 @@ Bonds of different bond order have different properties.
 | Strength          | weaker     |          |            | stronger   |
 | Energy ($kJ/mol$) | 348        | 518      | 612        | 837        |
 
+electronegativity reflects how effective nuclear charge affects atomic orbital energies (and through that molecular orbital energies)
+==NOTE: what?
+
 ## Lewis structures
 
 Structures for representing the bonds and shared electrons.
@@ -108,7 +111,7 @@ Structures for representing the bonds and shared electrons.
 
 Rules:
 1. **Count** total \# of valence $e^-$.
-	$\ce{H2CO3}, \space 1 \cdot 2 + 4 + 6 = 12 \space e^-$
+	$\ce{H2CO}, \space 1 \cdot 2 + 4 + 6 = 12 \space e^- \space (6 \text{ pairs})$
 2. Put the **least $e^-$-neg. element in the center** (except $\ce{H}$).
 	![[molecules/lewis-tutorial-step-2.png]]
 3. **Bond** all atoms once.
@@ -134,9 +137,9 @@ Instead of a pair of dots, lines can be used.
 Simple examples:
 ![[molecules/lewis-examples-simple.png]]
 
-**Octet rule** - an atom wants to have 8 $e^-$ on its valence shell by donating/accepting/sharing $e^-$ /w other atoms. Not applicable for 1st period.
-**Hypervalent** - more than $8e^-$ on the valence shell.
-**Hypovalent** - less than $8e^-$ pm the valence shell.
+**Octet rule** - an atom wants to have $8 \space e^-$ on its valence shell by donating/accepting/sharing $e^-$ /w other atoms. Not applicable for 1st period.
+**Hypervalent** - more than $8 \space e^-$ on the valence shell.
+**Hypovalent** - less than $8 \space e^-$ pm the valence shell.
 
 | Trends          | Elements             | Example                      |
 | --------------- | -------------------- | ---------------------------- |
@@ -147,7 +150,7 @@ Simple examples:
 
 ![[molecules/hypo-vs-charge.png]]
 
-> 2nd row- prioritize octet rule (can bear charge, can't go hypervalent).
+> 2nd row - prioritize octet rule (can bear charge, can't go hypervalent).
 > Others - prioritize minimizing charge (want to stay neutral, can go hypervalent).
 
 ![[SO2-vs-O3-lewis.png]]
@@ -189,6 +192,9 @@ Repulsion arranges $e^-$ pairs in space to maximize their distance from one anot
 
 ![[molecules/bond-shapes.png]]
 
+The angles between the bonds are influenced by these bonds & the atoms around them.
+A trigonal planar structure would ideally have bonds angled at $120 \degree$, since it's exactly $\frac{1}{3}$ of a circle (equal spacing), but for example in $\ce{H2CO}$ the double bond $\ce{C=O}$ is shorter than the $\ce{H-C}$ bonds + $\ce{O}$ is $e^-$-neg., so the $\ce{H-C}$ bonds end up being repelled more from the oxygen.
+
 ## VBT
 
 **Valence Bond Theory**
@@ -217,6 +223,7 @@ $\pi$-bond - weaker bold (significantly less overlap).
 
 If this logic is used alone, predictions don't always correspond to reality.
 
+Wrong structure:
 ![[molecules/CH2-wrong.png]]
 
 For atoms /w more $e^-$, orbitals are hybridized.
@@ -342,18 +349,14 @@ MO Theory, unlike [[#VBT]], can explain diamagnetism and paramagnetism.
 **Diamagnetic** - no unpaired $e^-$, repulsed by magnets.
 **Paramagnetic** - unpaired $e^-$, weakly attracted by magnets.
 
-| Diamagnetic - $\ce{N2}$                                             | Paramagnetic - $\ce{O2}$ |
-| ------------------------------------------------------------------- | ------------------------ |
-| ![[N2-MO.png]]                                                      | ![[O2-MO.png]]           |
+| Diamagnetic - $\ce{N2}$ | Paramagnetic - $\ce{O2}$ |
+| ----------------------- | ------------------------ |
+| ![[N2-MO.png]]          | ![[O2-MO.png]]           |
 
 #### Drawbacks
-
 
 > MO Theory still assumes the bond is covalent, still need to use electronegativity to check.
 
 > In MO Theory, every $e^-$ in every atom contributes to every single bond to some extend, which is not practical. e are fully delocalized.
 
 
----
-
-electronegativity reflects how effective nuclear charge affects atomic orbital energies (and through that molecular orbital energies)

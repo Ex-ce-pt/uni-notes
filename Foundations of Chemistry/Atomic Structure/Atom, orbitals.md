@@ -24,7 +24,7 @@ Saw the beam move.
 Discovered electrons.
 
 Theory:
-- Dalton model
+- Dalton model as a base
 - The atom's continuum is positively charged
 - Negatively charged electrons are spread inside
 
@@ -52,7 +52,7 @@ Combined work of **Rutherford** and **Niels Bohr** (1913)
 Insight: the atoms absorb and emit specific frequencies of the EM spectrum.
 
 Theory:
-- Rutherford model
+- Rutherford model as a base
 - Electrons orbit the nucleus on discrete shells/orbits
 
 ![[atomic-model/bohr-model.png]]
@@ -66,15 +66,15 @@ In practice, only works for hydrogen.
 1920s
 Physicists are puzzled by light - a wave or a particle?
 
-| Wave                    | Particle         |
-| ----------------------- | ---------------- |
-| Frequency               | Location & Mass  |
-| Travel through a medium | Travel in vacuum |
+| Wave                     | Particle          |
+| ------------------------ | ----------------- |
+| Frequency                | Location & Mass   |
+| Travels through a medium | Travels in vacuum |
 
 **Wave-particles** - the lighter, the more similar to a wave, the heavier, the more similar to a particle.
 
-Electrons are light - behave more like waves.
-Nuclei are heavier - behave more like particles.
+Electrons are light → behave more like waves.
+Nuclei are heavier → behave more like particles.
 
 Theory:
 - The orbitals are not discrete in location, but smeared out
@@ -87,16 +87,16 @@ Schrödinger equation:
 $\hat H \Psi = E \Psi$
 $\Psi$ - wavefunction.
 $E$ - energy scalar (eigenvalue).
-$\hat H$ - Hamiltonian, function that extracts info about potential ($e^-$-$e^-$ repulsion, $e^-$-$p^+$ attraction) & kinetic energy.
+$\hat H$ - Hamiltonian, operator that extracts info about potential ($e^-$-$e^-$ repulsion, $e^-$-$p^+$ attraction) & kinetic energy.
 
 $\hat H = \hat V + \hat T$
 $\hat V$ - potential energy
 $\hat T$ - kinetic energy
 
-> $E = \frac{Q_1Q_2}{4 \pi \epsilon_0 r}$, [[Cheat Sheet#Constants]]
-> $Q_1 > 0, Q_2 < 0$ or vice versa, $E < 0$ and as $r \rightarrow 0, \space E \rightarrow -\infty$
+> $E = \frac{q_1q_2}{4 \pi \epsilon_0 r}$, [[Cheat Sheet#Constants]]
+> If $q_1$ and $q_2$ have opposite signs, $E < 0$ and as $r \rightarrow 0, \space E \rightarrow -\infty$
 > The more negative the total $E$ is, the more electrostatic attraction, the more stable the system.
-> At the same time, as $r \rightarrow infty, \space E \rightarrow 0$ - free electron.
+> At the same time, as $r \rightarrow \infty, \space E \rightarrow 0$ - free electron.
 > The energy of an electron in the atom is lower than the energy of a free electron.
 
 Copenhagen interpretation of the wavefunction:
@@ -123,7 +123,7 @@ $\int_{0}^{\infty} \frac{dV}{dr}\cdot \Psi^2 dr = (\text{\# of electrons})$ - al
 Full form on the wavefunction: $\Psi(n, l, m_l, m_s)$ - extracts info about a specific electron.
 $n, l, m_l, m_s$ - quantum numbers, first 3 describe electron's position is space.
 
-| Letter | Values                                                                 | Name                                                  | Tells (about the electron)                                                         |
+| Letter | Values                                                                 | Name                                                  | Info about the electron                                                            |
 | ------ | ---------------------------------------------------------------------- | ----------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | $n$    | $\mathbb{N} \setminus \{0\}$                                           | principal quantum number                              | electron shell;<br>orbital size;<br>orbital energy;<br>\# of nodes                 |
 | $l$    | $[0 ; n-1]$                                                            | azimuthal quantum number/<br>orbital angular momentum | subshell;<br>orbital shape;<br>\# of nodal planes;<br>ang. mom. around the nucleus |
@@ -167,21 +167,21 @@ $n, l, m_l, m_s$ - quantum numbers, first 3 describe electron's position is spac
 ![[atomic-model/d-orbitals.png]]
 
 **Nodal plane** - a plane where there's no electron density; goes between the lobes of the orbital through the nucleus.
-$l = \# \text{ of nodal planes of the orbital}$.
+$l = (\text{\# of nodal planes of the orbital})$
 
 #### Orbitals on different shells
 
 As $n$ increases, we add nodes.
 The first instance of an orbital ($1s, \space 2p, \space 3d, \space 4f$) has no nodes.
-**Node** - a point where the electron density is 0.
-$\text{\# of nodes} = n - (l + 1)$
+**Node** - a point where the electron density is equal to $0$.
+$(\text{\# of nodes}) = n - (l + 1)$
 
 | ![[atomic-model/1s-wavefn-graph.png]]    | ![[atomic-model/2s-wavefn-graph.png]]    | ![[atomic-model/3s-wavefn-graph.png]]    |
 | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
 | ![[atomic-model/1s-elec-dens-graph.png]] | ![[atomic-model/2s-elec-dens-graph.png]] | ![[atomic-model/3s-elec-dens-graph.png]] |
 | ![[atomic-model/2p-wavefn-graph.png]]    | ![[atomic-model/3p-wavefn-graph.png]]    |                                          |
 | ![[atomic-model/2p-elec-dens-graph.png]] | ![[atomic-model/3p-elec-dens-graph.png]] |                                          |
-Different subshells on different shells, 3D (slice):
+Different subshells on different shells, 3D (section):
 ![[atomic-model/1s-2s-2p-3p.png]]
 The shaded areas are the cusps on the graphs and the gaps are the nodes.
 
@@ -191,7 +191,7 @@ Note: the electrons on the subshells of the same shell (same $n$) are located at
 #### Energy levels
 
 Orbitals have different energies.
-- Greater $n$ → higher energy (because of the distance)
+- Greater $n$ → higher energy (because of the distance from the nucleus)
 - Greater $l$ → higher energy (usually, because electrons can't get as close to the nucleus, see $2s$ vs $2p$)
 - Lower effective nuclear charge → higher energy
 
@@ -210,7 +210,7 @@ Energy diagram:
 Rules:
 1. **Fill lowest energy orbital first.**
 	The atom wants to be as stable as possible (having the lowest energy possible), so if an electron is added and there's a lower energy orbital available, why not stick the electron there?
-2. **Pair up as long as the energy diff between orbitals is greater than the electron repulsion**
+2. **Pair up as long as the energy diff between orbitals is greater than the electron repulsion**.
 	![[atomic-model/pairing-electrons.png]]
 3. **Hund's rule** - (for degenerate orbitals) maximize the spin.
 	First, one electron with a particular spin is placed into every orbital, then they start pairing up.
@@ -241,14 +241,14 @@ Alternate way to write energy diagrams, electron configuration:
 | $\ce{Cr}$ | ...                                                                                          | $\textcolor{cyan}{\ce{[Ar]}} \space \textcolor{red}{4s^1 \space 3d^5}$    |
 
 **Valence shell/orbitals** $\textcolor{yellow}{\square}$ - the outermost shell/orbitals.
-**Core orbital** $\textcolor{cyan}{\square}$ - orbital that is not valence.
+**Core orbital** $\textcolor{cyan}{\square}$ - orbital that is not a valence orbital.
 
 Core orbitals have significantly lower energy than valence orbitals.
 Valence orbitals tend to have comparable energies (not at all equal!).
 
 We start filling up $4s$ orbital before $3d$. $3d$ **is lower in energy** than $4s$, but the repulsion from the $3s$ and $3p$ electrons is strong enough to make $4s$ a better option for an electron. Starting from $\ce{Sc}$, the nuclear charge is strong enough to start adding electrons to the $3d$ orbital.
 
-When we get to $\ce{Cr}$, we get a jump from $(\textcolor{cyan}{\ce{[Ar]}} \space \textcolor{yellow}{4s^2 \space 3d^3})$ to $(\textcolor{cyan}{\ce{[Ar]}} \space \textcolor{red}{4s^1 \space 3d^5})$ instead of $(\textcolor{cyan}{\ce{[Ar]}} \space \textcolor{yellow}{4s^2 \space 3d^4})$. One of the reasons: Hund's rule - having 6 unpaired electrons means less repulsion. Same jump happens for $\ce{Cu}$.
+When we get to $\ce{Cr}$, we get a jump from $(\textcolor{cyan}{\ce{[Ar]}} \space \textcolor{yellow}{4s^2 \space 3d^3})$ to $(\textcolor{cyan}{\ce{[Ar]}} \space \textcolor{red}{4s^1 \space 3d^5})$ instead of $(\textcolor{cyan}{\ce{[Ar]}} \space \textcolor{yellow}{4s^2 \space 3d^4})$. One of the reasons: Hund's rule - having 6 unpaired electrons means less repulsion. Similar jump happens at $\ce{Cu}$.
 
 #### Effective nuclear charge
 
@@ -256,9 +256,8 @@ When we get to $\ce{Cr}$, we get a jump from $(\textcolor{cyan}{\ce{[Ar]}} \spac
 We are mostly interested in the valence electrons, so we can reformulate:
 **Shielding/screening** - core electrons partially cancel the charge of the nucleus the valence electrons experience.
 
-$Z_{\text{eff}}$ - effective nuclear charge, the charge that would result in the same interaction that an electron is experiencing, relevant because of shielding.
-
-$Z_{\text{eff}} \approx Z - (\text{\# of core electrons})$ (gross estimation)
+**Effective nuclear charge ($Z_{\text{eff}}$)** - the charge that would result in the same interaction as the one that an $e^-$ is experiencing, relevant because of shielding.
+Gross estimation: $Z_{\text{eff}} \approx Z - (\text{\# of core electrons})$
 
 For valence electrons, $Z_{\text{eff}}$ increases going to the right in the periodic table (same core electrons, $Z$ increases), and decreases going down (more shells, more core electrons).
 
@@ -273,23 +272,24 @@ Since $2s$ orbital has a cusp closer to the nucleus, its energy decreases faster
 
 #### Blocks
 
-Elements in the periodic table are organized in blocks. The block the element is in shows to which orbital an electron has been added last.
+Elements in the periodic table are organized in blocks. The block the element is in shows which orbital an electron has been added to last.
 ![[atomic-model/ptable-blocks.jpg]]
-
 
 ## Cations
 
 **Ionization energy ($E_I$)** - energy that it takes to take away an electron from an atom.
 $E_I > 0$.
 
-$E_I \approx -E_{\text{orbital}}$, because we need to compensate the energy it took to make the electron "free" (0 potential energy).
+$E_I \approx -E_{\text{orbital}}$, because we need to compensate the energy it took to make the electron "free" ($0$ potential energy).
 
 ![[atomic-model/ionization-energy.png]]
 
 $\ce{Li}: \space \textcolor{cyan}{\ce{[He]}} \space \textcolor{yellow}{2s^1} \space | \space \ce{Li^+}: \space \textcolor{cyan}{\ce{[He]}} \space \textcolor{yellow}{2s^\textcolor{red}{0}}$
 $\ce{Ti}: \space \textcolor{cyan}{\ce{[Ar]}} \space \textcolor{yellow}{4s^2 \space 3d^2} \space | \space \ce{Ti^+}: \space \textcolor{cyan}{\ce{[Ar]}} \space \textcolor{yellow}{4s^\textcolor{red}{1} \space 3d^2} \space | \space \ce{Ti^{2+}}: \space \textcolor{cyan}{\ce{[Ar]}} \space \textcolor{yellow}{4s^\textcolor{red}{0} \space 3d^2}$
 
-Size of a cation is just a big smaller that the size of the neutral atom, except when losing a whole shell.
+Size of a cation is just a bit smaller that the size of the neutral atom, except when losing a whole shell.
+
+[Periodic trends](Periodic%20trends#Ionization%20energy)
 
 ## Anions
 
@@ -298,10 +298,12 @@ Size of a cation is just a big smaller that the size of the neutral atom, except
 Electron affinities are smaller than ionization energies.
 
 Generally, $E_a >0$.
-When the electron added should either **go to the next orbital** or be the **first to pair**, $E_a < 0$.
+When an orbital is filled /w either lone or paired $e^-$, $E_a < 0$.
 
-| Element | $\ce{Li}$ | $\ce{Be}$ | $\ce{B}$ | $\ce{C}$ | $\ce{N}$ | $\ce{O}$ | $\ce{F}$ | $\ce{Ne}$ |
-| ------- | --------- | --------- | -------- | -------- | -------- | -------- | -------- | --------- |
-| $E_a$   | $60$      | $< 0$     | $27$     | $122$    | $<0$     | $141$    | $328$    | $<0$      |
+[Periodic trends](Periodic%20trends#Electron%20affinity)
+
+| Element         | $\ce{Li}$ | $\ce{Be}$                                                                      | $\ce{B}$                                                                  | $\ce{C}$                                                                  | $\ce{N}$                                                                  | $\ce{O}$                                                                  | $\ce{F}$ | $\ce{Ne}$ |
+| --------------- | --------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------- | -------- | --------- |
+| $E_a$           | $60$      | $< 0$                                                                          | $27$                                                                      | $122$                                                                     | $<0$                                                                      | $141$                                                                     | $328$    | $<0$      |
 
 Anions are a lot larger than the neutral atoms.

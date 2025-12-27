@@ -1,5 +1,6 @@
 
 Analyses reaction rates.
+Rates are **always positive**.
 
 ## Reaction rate
 
@@ -12,6 +13,7 @@ For products (rate of production): $P = |\frac{\Delta \ce{[P]}}{\Delta t}| = \fr
 
 **Unique average rate** - reaction rate of species divided by its stoichiometric coefficient.
 Unique average rate is **unique to a reaction**, it is the same for all the species in the reaction.
+It shows how many moles of reactions have happened during the given time interval.
 
 $\ce{a A + b B -> c C + d D}$
 $\text{Unique average rate: } -\frac{1}{a}\frac{\Delta \ce{[A]}}{\Delta t} = -\frac{1}{b}\frac{\Delta \ce{[B]}}{\Delta t} = \frac{1}{c}\frac{\Delta \ce{[C]}}{\Delta t} = \frac{1}{d}\frac{\Delta \ce{[D]}}{\Delta t}$
@@ -20,36 +22,45 @@ $\text{Unique average rate: } -\frac{1}{a}\frac{\Delta \ce{[A]}}{\Delta t} = -\f
 
 **Instantaneous rate** - rate of change of the reaction at a specific point in time.
 
-$\text{Instantaneous rate of change: } -\frac{d\ce{[R]}}{dt}$
+$\text{Instantaneous rate (reactants): } |\frac{d\ce{[R]}}{dt}| = -\frac{d\ce{[R]}}{dt}$
+$\text{Instantaneous rate (products): } |\frac{d\ce{[P]}}{dt}| = \frac{d\ce{[P]}}{dt}$
+
+---
 
 **Unique instantaneous rate** - same as unique average rate but at a specific point in time.
 
+$\ce{a A + b B -> c C + d D}$
+$\text{Unique instantaneous rate: } -\frac{1}{a}\frac{d\ce{[A]}}{dt} = -\frac{1}{b}\frac{d\ce{[B]}}{dt} = \frac{1}{c}\frac{d\ce{[C]}}{dt} = \frac{1}{d}\frac{d\ce{[D]}}{dt}$
 
-#### Rate law
+## Rate law
 
-==fig.: as init concentration increaces, the slope at 0 becomes steeper
-
-Increasing the initial concentration of a reactant increases the instantaneous rate of change.
-The slope to the concentration graph becomes steeper.
-
-**Reaction order** - exponent of the concentration of the reactants.
-
-$\text{Rate: } k_r \cdot [\ce{A}]^a[\ce{B}]^b$
-Overall order of the reaction: $a + b$
-
-> Rate law **does not depend on stoichiometry**!
-> It is all determined experimentally!
-
-$\ce{2 NH3 (g) ->[Pt] N2 (g) + 3 H2 (g)}, \text{ rate: } k, \text{ 0th order}$
-$\ce{2 N2O5 -> 4 NO2 + O2}, \text{ rate: } k_r\ce{[N2O5]}, \text{ 1st order}$
-$\ce{2 NO2 -> 2 NO + O2}, \text{ rate: } k_r \cdot \ce{[NO2]}^2$
-$\ce{S2O8^{2-} + 3 I- -> 2 SO4^{2-} + I3-}, \text{ rate: } k_r\ce{[S2O8^{2-}][I3-]}, \text{ 2nd order}$
-$\ce{2 O3 -> 3 O2}, \text{ rate: } k_r\ce{[O3][O2]}^{-1}, \text{ 0th order (product inhibiting the reaction)}$
-$\ce{2 SO2 + O2 ->[Pt] 2 SO3}, \text{ rate: } k_r\ce{[SO2][SO3]}^{-1/2}, \text{ 0.5th order}$
+**Rate law** - relation between the reaction rate & the concentration of species in the system.
 
 > Rate law cannot be deduced from a chemical equation, determined experimentally.
 
-The units for the reaction rate depend on the reaction order: $M^{-(\text{(order)-1})} \cdot s^{-1}$
+==fig.: concentration against time & initial rate against concentration
+
+**Rate constant ($k_r$)** - characteristic of the reaction; determined by the reaction & the temperature it happens at.
+
+**Reaction order** - exponent of the concentration of the reactants.
+$\text{Rate: } k_r \cdot [\ce{A}]^a[\ce{B}]^b$
+$\text{Order with respect to } \ce{A}: \space a, \text{ Order with respect to } \ce{B}: \space b$
+$\text{Overall order of the reaction: } a + b$
+
+The units of $k_r$ depend on the reaction order: $M^{-(\text{(order)-1})} \cdot s^{-1} = mol^{-(\text{(order)-1})} \cdot l^{\text{(order)-1}} \cdot s^{-1}$
+
+#### Examples of reaction orders
+
+$$
+\begin{flalign}
+&\ce{2 NH3 (g) ->[Pt] N2 (g) + 3 H2 (g)}, \text{ rate: } k, \text{ 0th order} \\
+&\ce{2 N2O5 -> 4 NO2 + O2}, \text{ rate: } k_r\ce{[N2O5]}, \text{ 1st order} \\
+&\ce{2 NO2 -> 2 NO + O2}, \text{ rate: } k_r \cdot \ce{[NO2]}^2 \\
+&\ce{S2O8^{2-} + 3 I- -> 2 SO4^{2-} + I3-}, \text{ rate: } k_r\ce{[S2O8^{2-}][I3-]}, \text{ 2nd order} \\
+&\ce{2 O3 -> 3 O2}, \text{ rate: } k_r\ce{[O3][O2]}^{-1}, \text{ 0th order (product inhibiting the reaction)} \\
+&\ce{2 SO2 + O2 ->[Pt] 2 SO3}, \text{ rate: } k_r\ce{[SO2][SO3]}^{-1/2}, \text{ 0.5th order}
+&\end{flalign}
+$$
 
 ## Integrated rate laws
 
@@ -58,40 +69,64 @@ Used to predict concentrations of reactants/products in the future.
 **Half-life** - time needed for the concentration to decrease to a half of its initial value.
 Then $t = t_{1/2}, \space \ce{[A]}_t = \frac{1}{2}\ce{[A]}_0$
 
-| Order        | Rate law<br>(instantaneous rate of change) | Integrated rate law                                                                                                      | Half-life                           | What is linear       |
-| ------------ | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------- | -------------------- |
-| $\text{0th}$ | $\Delta \ce{[A]} = k_r$                    | $\ce{[A]}_t = \ce{[A]}_0 - k_rt$                                                                                         | $t_{1/2} = \frac{\ce{[A]}_0}{2k_r}$ | $\ce{[A]}$           |
-| $\text{1st}$ | $-\frac{d\ce{[A]}}{dt} = k_r\ce{[A]}$      | $ln(\frac{\ce{[A]}_t}{\ce{[A]}_0}) = -k_rt \Leftrightarrow ln(\ce{[A]}_t) = ln(\ce{[A]}_0) - k_rt$                       | $t_{1/2} = \frac{ln(2)}{k_r}$       | $ln(\ce{[A]})$       |
-| $\text{2nd}$ | $-\frac{d\ce{[A]}}{dt} = k_r\ce{[A]}^2$    | $\frac{1}{\ce{[A]}_0} - \frac{1}{\ce{[A]}_t} = -k_rt \Leftrightarrow \frac{1}{\ce{[A]}_t} = \frac{1}{\ce{[A]}_0} + k_rt$ | $t_{1/2} = \frac{1}{k_r\ce{[A]}_0}$ | $\frac{1}{\ce{[A]}}$ |
+| Order        | Rate law<br>(instantaneous rate of change) | Integrated rate law                                                                                                      | Half-life                           | What is linear in time |
+| ------------ | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------- | ---------------------- |
+| $\text{0th}$ | $\Delta \ce{[A]} = k_r$                    | $\ce{[A]}_t = \ce{[A]}_0 - k_rt$                                                                                         | $t_{1/2} = \frac{\ce{[A]}_0}{2k_r}$ | $\ce{[A]}$             |
+| $\text{1st}$ | $-\frac{d\ce{[A]}}{dt} = k_r\ce{[A]}$      | $ln(\frac{\ce{[A]}_t}{\ce{[A]}_0}) = -k_rt \Leftrightarrow ln(\ce{[A]}_t) = ln(\ce{[A]}_0) - k_rt$                       | $t_{1/2} = \frac{ln(2)}{k_r}$       | $ln(\ce{[A]})$         |
+| $\text{2nd}$ | $-\frac{d\ce{[A]}}{dt} = k_r\ce{[A]}^2$    | $\frac{1}{\ce{[A]}_0} - \frac{1}{\ce{[A]}_t} = -k_rt \Leftrightarrow \frac{1}{\ce{[A]}_t} = \frac{1}{\ce{[A]}_0} + k_rt$ | $t_{1/2} = \frac{1}{k_r\ce{[A]}_0}$ | $\frac{1}{\ce{[A]}}$   |
 
-==???? $\frac{\ce{[A]}_x}{\ce{[A]}_{x-1}} = const$ for 1st order??? why??
+#### Derivation
 
-==practice: find energything from list of concentrations/pressures over time
+Integrated rate laws are found using calculus.
 
-
-
-
-
-
-
+Take first-order reaction as an example.
+By the definition of instantaneous reaction rate, $\text{rate: } -\frac{d\ce{[A]}}{dt}$.
+At the same time, by the rate law, $\text{rate: } k_r\ce{[A]}$
+From here,
+$$
+\begin{flalign}
+&-\frac{d\ce{[A]}}{dt} = k_r\ce{[A]} \\
+&\frac{d\ce{[A]}}{\ce{[A]}} = -k_r dt \\
+&\text{Time varies from 0 to the desired time } t \\
+&\text{Concentration varies from } \ce{[A]}_0 \text{ to the concentration at the desired time } \ce{[A]}_t \\
+&\int_{\ce{[A]}_0}^{\ce{[A]}_t} \frac{d\ce{[A]}}{\ce{[A]}} = \int_0^t -k_r dt \\
+&ln(\ce{[A]}_t) - ln(\ce{[A]}_0) = -k_r t \\
+&ln(\frac{\ce{[A]}_t}{\ce{[A]}_0}) = -k_r t \Leftrightarrow ln(\ce{[A]}_t) = ln(\ce{[A]}_0) - k_r t
+&\end{flalign}
+$$
 
 ## Reaction mechanisms
 
 
-Chemical reactions are the outcome of multiple steps - elementary reactions.
+Chemical reactions are the outcome of multiple steps - **elementary reactions**.
+**Reaction mechanism** - a sequence of elementary reactions.
 Many routes for a chemical reaction might be possible.
 
 One step mechanism (false): $\ce{O3 + O3 -> O2 + O2 + O2} \text{2 molecules collide and rearrange}$
 Two step mechanism (true): $\ce{O3 + hv -> O2 + O}, \space \ce{O + O2 -> O2 + O2}$
 
+**Reaction intermediate** (here $\ce{O}$) - species that plays part in the elementary reactions but does not appear in the overall chemical equation.
+
 #### Rate law for elementary reactions
 
-| Molecularity | Elementary reaction | Rate law         |
-| ------------ | ------------------- | ---------------- |
-| 1            | $\ce{A -> }$        | $k_r\ce{[A]}$    |
-| 2            | $\ce{A + B -> }$    | $k_r\ce{[A][B]}$ |
-|              |                     |                  |
-==fill table
+Rate laws for elementary reactions follow the same structure as the regular rate laws.
+
+**Molecularity** - \# of species reacting.
+
+| Molecularity | Elementary reaction | Rate law            |
+| ------------ | ------------------- | ------------------- |
+| **1**        | $\ce{A -> }$        | $k_r\ce{[A]}$       |
+| **2**        | $\ce{A + B -> }$    | $k_r\ce{[A][B]}$    |
+| **2**        | $\ce{A + A ->}$     | $k_r\ce{[A]^2}$     |
+| **3**        | $\ce{A + B + C ->}$ | $k_r\ce{[A][B][C]}$ |
+| **3**        | $\ce{A + A + B ->}$ | $k_r\ce{[A]^2[B]}$  |
+| **3**        | $\ce{A + A + A ->}$ | $k_r\ce{[A]^3}$     |
+
+| Molecularity | Reaction name |
+| ------------ | ------------- |
+| **1**        | Unimolecular  |
+| **2**        | Bimolecular   |
+| **3**        | Termolecular  |
 
 
 ==combining elementary reactions
@@ -105,3 +140,122 @@ $\ce{A + B \rightleftharpoons C + D}, \space K = \frac{\ce{[C][D]}}{\ce{[A][B]}}
 $\ce{A + B -> C + D}, \space \text{rate: } k_r\ce{[A][B]}$
 $\ce{C + D -> A + B}, \space \text{rate: } k_r'\ce{[C][D]}$
 $\text{At equilibrium: } k_r\ce{[A][B]} = k_r'\ce{[C][D]} \Rightarrow K = \frac{k_r}{k_r'}$
+
+
+---
+
+**Arrhenius equation**:
+
+$ln(k_r) = ln(A) - \frac{E_a}{RT}$
+$A$ - frequency factor (pre-exponential factor)
+$E_a$ - activation energy
+
+A & E_a determined empirically.
+
+$E_a \geq 0$
+$k_r$ increases with temperature
+
+$ln(\frac{k_r2}{k_r1}) = \frac{E_a}{R}(\frac{1}{T_1} - \frac{1}{T_2})$
+
+the plot of ln k_r against 1/T is a straight line
+
+==fig.: plot
+
+
+higher E_a -> more responsive to temperature
+
+==fig.: plot of reaction energy for endothermic
+
+endothermic reaction
+forward reaction -> higher E_a -> more responsive to T
+reverse reaction -> lower E_a -> less responsive to T
+
+T inc. => K inc.
+
+exothermal reaction
+T inc. => K dec.
+
+---
+
+Collision theory
+
+A model that explains the Arrhenius equation.
+
+**A reaction can take place only if molecules collide & have enough energy.**
+
+Assume gases $A$ and $B$
+
+collision density
+$z_{AB} = \sigma \cdot \bar v_{rel} \cdot N_A^2 \ce{[A][B]}$
+sigma - collision area
+v - mean relative speed
+N_A - avogadro number
+
+$\bar v_{\text{rel}} = (\frac{8RT}{\pi M})^{1/2}, \space M = \frac{M_A M_B}{M_A + M_B}$
+
+$\sigma \cdot \bar v_{rel}$ - swept area; how much volume a molecule travels through during a timespan.
+
+number density - \# of molecules per volume $N_A \ce{[A]}$
+
+$x_B = e^{-\frac{E_{min}}{RT}}$
+
+x_B - mole fraction of B having enough energy
+
+steric requirement (P) - molecules need to be oriented in a certain way in order to react.
+determined empirically
+fraction of the possible orientations that lead to reaction.
+
+
+Transition state theory
+
+---
+
+Catalysis
+
+**Catalyst** - molecule that increases the rate of the reaction without being consumed.
+
+Usually it is a part of the reaction mechanism.
+
+Lowers the activation energy of the reaction.
+
+Both forward & reverse reactions are accelerated.
+
+$\ce{I3- (aq) + 2 N3- (aq) ->[CS2] 3 I- (aq) + 3 N2 (g)}$
+Step 1: $\ce{CS2 + N3- -> S2NC3-}$ (slow, rds, Rate Determining Step)
+Step 2: $\ce{2 S2CN3- + I3- -> 2 CS2 + 3 N2 + 3 I-}$ (fast)
+$rate of consumption of I3-: k_r \ce{[CS2][N3-]}$
+
+
+Homogeneous catalyst - same phase
+Heterogeneous catalyst - catalyst in the different phase from reactants.
+
+Chemisorption - adsorption by covalent bonding to the surface.
+Can fix the molecule in place so it's easier to make bond /w other reactants.
+Molecules have a better chance of meeting on a 2D surface.
+
+$\ce{H2C=CH2 (g) + H2 (g) ->[Ni] H3C-CH3 (g)}$
+
+**Enzymes** - biocatalysts.
+
+$E + S \rightleftharpoons ES -> E + P$
+Step 1:
+forward: $k_1 \ce{[E][S]}$
+reverse: $k_1' \ce{[ES]}$
+Step 2:
+forward: $k_2 \ce{[ES]}$
+
+At steady state of ES formation: $k_1 \ce{[E][S]} - k_1' \ce{[ES]} - k_2 \ce{[ES]} = 0$ (All intermediates used up as they are produced).
+$\ce{[E]}_0 \ce{[E]} + \ce{[ES]}$
+$\frac{(\ce{[E]}_0 - \ce{[ES]}) \ce{[S]}}{\ce{[ES]}} = \frac{k_1' + k_2}{k_1}$
+
+Michaelis constant: $K_M = \frac{k_1' + k_2}{k_1}$
+$\ce{[ES]} = \frac{\ce{[E]}_0 \ce{[S]}}{K_M + \ce{[S]}}$
+
+Michaelis-Menten equation:
+rate of P formation (velocity): $v = k_2 \ce{[ES]} = \frac{k_2 \ce{[E]}_0 \ce{[S]}}{K_M + \ce{[S]}}$
+Velocity is max when [S] is high & all of A is converted to ES
+$v_{max} = k_2 \ce{[ES]} = k_2 \ce{[E]}_0$
+
+$v = \frac{v_{max} \ce{[S]}}{K_M + \ce{[S]}}$
+
+[S] = K_M at v = 1/2 v_max
