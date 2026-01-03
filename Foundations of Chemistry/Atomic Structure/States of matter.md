@@ -7,20 +7,20 @@
 
 ## Gases
 
-Gases take the shape of the vessel they're in & fill the entire volume of the vesssel.
+Gases take the shape of the vessel they're in & fill the entire volume of the vessel.
 
 Pressure depends on:
 - Force of impact → Kinetic energy → Temperature
 - Collisions over area → Volume, concentration
-the function of pressure would have the form: $p(T, V, n)$.
+The function of pressure would have the form: $p(T, V, n)$.
 
 Units:
 $Pa \space (pascal) =\frac{N}{m^2}$
-$Atm \space (atmosphere) = 101 \space 325 \space Pa \approx 760 \space mmHg$
-$Bar \space (bar) = 10^5 \space Pa$
-$Torr = 1 \space mmHg$
+$atm \space (atmosphere) = 101 \space 325 \space Pa \approx 760 \space mmHg$
+$bar \space (bar) = 10^5 \space Pa$
+$torr = 1 \space mmHg$
 
-> Temperature is measured in Kelvin because it does not have negative values.
+> Temperature is measured in Kelvin because Kelvin does not have negative values.
 
 #### Manometer
 
@@ -35,51 +35,46 @@ Cross-section area of the manometer does not matter. Pressure is proportional to
 
 #### Derivation of the ideal gas equation
 
-| Law                          | Formula                      | Alternate form          | Conditions                           |
-| ---------------------------- | ---------------------------- | ----------------------- | ------------------------------------ |
-| **Boyle's law (1662)**       | $p \cdot V = \text{const}$   | $p \cdot V = f(T, n)$   | **isothermic conditions & no leaks** |
-| **Charles' law (1787)**      | $p \cdot V = \text{const}$   | $\frac{V}{T} = g(p, n)$ | **isobaric & no leaks**              |
-| **Gray-Lussac's law (1808)** | $\frac{p}{T} = \text{const}$ | $\frac{p}{T} = h(V, n)$ | **isochoric & no leaks**             |
-| **Avogardo's law (1811)**    | $\frac{V}{n} = \text{const}$ | $\frac{V}{n} = j(p, T)$ | **isobaric & isothermic**            |
-
-$\frac{p}{T} \cdot \frac{V}{n} = h(V, n) \cdot j(p, T)$
-
-1\. Assume $p = \text{const}, \space T = \text{const}$:
+| Law                          | Formula                      | Alternate form          | Conditions                |
+| ---------------------------- | ---------------------------- | ----------------------- | ------------------------- |
+| **Boyle's law (1662)**       | $p \cdot V = \text{const}$   | $p \cdot V = f(T, n)$   | **isothermic & no leaks** |
+| **Charles' law (1787)**      | $p \cdot V = \text{const}$   | $\frac{V}{T} = g(p, n)$ | **isobaric & no leaks**   |
+| **Gray-Lussac's law (1808)** | $\frac{p}{T} = \text{const}$ | $\frac{p}{T} = h(V, n)$ | **isochoric & no leaks**  |
+| **Avogardo's law (1811)**    | $\frac{V}{n} = \text{const}$ | $\frac{V}{n} = j(p, T)$ | **isobaric & isothermic** |
 $$
 \begin{flalign}
+&\text{From the Gray-Lussac's law \& Avogardo's law:} \\
+&\frac{p}{T} \cdot \frac{V}{n} = h(V, n) \cdot j(p, T) \\
+\\
+&\text{1) Assume } p = \text{const}, \space T = \text{const}: \\
 &\frac{p}{T} = \text{const} \\
-&\frac{V}{n} = j(p, T) = \text{const} \\
+&j(p, T) = \frac{V}{n} = \text{const} \\
 &\frac{p}{T} \cdot \frac{V}{n} = h(V, n) \cdot j(p, T) = \text{const} \\
 &h(V, n) = \text{const} \\
-&h \text{ is not a function of } V \text{ and }n
-&\end{flalign}
-$$
-
-Conclusion:
-$\frac{p}{T} \cdot \frac{V}{n} = h \cdot j(p, T), \space h = \text{const}$
-
-2\. Assume $V = \text{const}, \space n = \text{const}$:
-$$
-\begin{flalign}
+&h \text{ is not a function of } V \text{ and }n \\
+&\therefore \frac{p}{T} \cdot \frac{V}{n} = h \cdot j(p, T), \space h = \text{const} \\
+\\
+&\text{2) Assume } V = \text{const}, \space n = \text{const}: \\
 &h = \text{const} \Rightarrow \frac{p}{T} = \text{const} \\
 &\frac{V}{n} = j(p, T) = \text{const} \\
 &\frac{p}{T} \cdot \frac{V}{n} = h \cdot j(p, T) = \text{const} \\
-&j \text{ is not a function of } p \text{ and } T
+&j \text{ is not a function of } p \text{ and } T \\
+&\therefore \frac{p}{T} \cdot \frac{V}{n} = h \cdot j, \space h = \text{const}, \space j = \text{const} \\
+\\
+&\text{Let } \space R = h \cdot j = k_B \cdot N_A \\
+&\frac{p}{T} \cdot \frac{V}{n} = R \\
+&\therefore pV = nRT
 &\end{flalign}
 $$
 
-Conclusion:
-$\frac{p}{T} \cdot \frac{V}{n} = h \cdot j, \space h = \text{const}, \space j = \text{const}$
-
-$Let \space R = h \cdot j = k_B \cdot N_A$ - [ideal gas constant](Cheat%20Sheet#Constants)
-
-$\frac{p}{T} \cdot \frac{V}{n} = R \Rightarrow pV = nRT$
+$R$ - [ideal gas constant](Cheat%20Sheet#Constants)
 
 #### Ideal gas
 
 Ideal gas:
 - Perfectly elastic collision - no energy lost during the collision.
 - No intermolecular forces - particles only interact /w the vessel.
+- Molecules are point masses.
 
 Ideal gas equation:
 $pV = nRT$ / $pV = \frac{m}{M}RT$
@@ -95,16 +90,16 @@ $pV = nRT$ / $pV = \frac{m}{M}RT$
 #### Dalton's law
 
 In the ideal gas law, it does not matter which particles the gas consists of, only the quantity.
-Assume 2 substances are present in the gas: A and B.
+Assume 2 substances are present in the gas: $A$ and $B$.
 $n_{\text{total}} = n_A + n_B$
 
 $pV = nRT \Rightarrow p = \frac{nRT}{V}$
 $p = \frac{n_{\text{total}} RT}{V} = \frac{(n_A + n_B) RT}{V} = \frac{n_A RT}{V} + \frac{n_B RT}{V} = p_A + p_B$
 
-$p_A$, $p_B$ - partial pressures of the gases A and B.
+$p_A$, $p_B$ - partial pressures of the gases $A$ and $B$.
 
 In general:
-If $n_{\text{total}} = \sum n_i$, then $p_{\text{total}} = \sum p_i$
+$\text{If } n_{\text{total}} = \sum n_i \text{, then } p_{\text{total}} = \sum p_i$
 
 #### Density
 
@@ -137,8 +132,7 @@ The hotter the gas is, the more kinetic energy the particles have on average.
 
 > $E_k = \frac{1}{2} mv^2$
 
-
-2\. Same $T$, different gas
+2\. Same $T$, different gas:
 
 ![[states-of-matter/const-temp-maxwell-distribution-of-speeds.png]]
 The lighter the particle in a gas is, the faster it travels.
@@ -147,7 +141,7 @@ The lighter the particle in a gas is, the faster it travels.
 
 #### Real gases
 
-Real gas has intermolecular interactions.
+Real gases have intermolecular interactions.
 
 Compressibility factor:
 $Z = \frac{V}{V_i}, \space V \text{ - real volume}, \space V_i = \frac{nRT}{p} \text{ - ideal volume}$
@@ -166,8 +160,10 @@ To make $Z$ graphs useful, need to plot a graph for every temperature → inconv
 
 $p + a(\frac{n}{V})^2 (\frac{V}{n} - b) = RT$
 $p = \frac{nRT}{(V - nb)} - a(\frac{n}{V})^2$
-$b$ - repulsion between molecules 
-$a$ - attraction between molecules
+$a$ - attraction between molecules.
+$b$ - repulsion between molecules.
+
+The parameters are to be looked up in the tables.
 
 Still need 2 parameters, but can use the equation for any $T$.
 
@@ -272,8 +268,8 @@ $\text{Packing efficiency} = \frac{\text{volume taken up by atoms}}{\text{volume
 **Primitive close packed** - 8 particles in the corners, $\text{PE} \approx 0.52$.
 ![[states-of-matter/primitive-close-packed.png]]
 
-**Body-centered cubic structure** - 1 particle in the center & 8 particles in the corners, $\text{PE} = 0.68$.
+**Body-centered cubic structure** - 1 particle in the center & 8 particles in the corners, $\text{PE} \approx 0.68$.
 ![[states-of-matter/body-centered-cubic.png]]
 
-**Face-centered cubic structure** - 8 particles in the corners & 6 particles in the faces, $\text{PE} = 0.74$.
+**Face-centered cubic structure** - 8 particles in the corners & 6 particles in the faces, $\text{PE} \approx 0.74$.
 ![[states-of-matter/face-centered-cubic.png]]

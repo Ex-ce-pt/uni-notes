@@ -7,13 +7,14 @@ Energy that cannot be used to do work.
 
 $\Delta S = \frac{q_{\text{rev}}}{T}, \space T = \text{const}$
 
-| Symbol           | Unit             | Explanation                                                         |
-| ---------------- | ---------------- | ------------------------------------------------------------------- |
-| $\Delta S$       | $J \cdot K^{-1}$ | Change in entropy of the system                                     |
-| $q_{\text{rev}}$ | $J$              | The heat the system acquired during a reversible isothermic process |
-| $T$              | $K$              | The temperature of the system (the process is isothermic, const)    |
+| Symbol           | Unit             | Explanation                                                          |
+| ---------------- | ---------------- | -------------------------------------------------------------------- |
+| $\Delta S$       | $J \cdot K^{-1}$ | Change in entropy of the system                                      |
+| $q_{\text{rev}}$ | $J$              | The heat the system acquired during an isothermal reversible process |
+| $T$              | $K$              | The temperature of the system (the process is isothermal, const)     |
 
-> As $T \rightarrow 0, \space S \rightarrow 0$, [the 3rd law of thermodynamics](Thermodynamics#Third%20law%20of%20thermodynamics)
+
+> As $T \rightarrow 0, \space S \rightarrow 0$, [the 3rd law of thermodynamics](Thermodynamics#Third%20law%20of%20thermodynamics).
 
 Since temperature is constant, the temperature of the system must only be infinitesimally smaller than that of the surroundings for heat to be transferred.
 
@@ -28,7 +29,7 @@ $S = k \cdot ln(W)$
 | $k$    | $J \cdot K^{-1}$ | [Boltzman's constant](Cheat%20sheet#Constants)                                                                   |
 | $W$    | $-$              | The \# of microstates of the system;<br>The \# of ways the molecules can be arranged<br>/w the same total energy |
 
-Microstates link entropy to disorder. The more states are possible for the system, the more statistically likely it is that the state of the system is chaotic, rather than one of the less probable, orderly states.
+Microstates link entropy to disorder. The more states are possible for the system, the more statistically likely it is that the state of the system is  in a chaotic, rather than one of the less probable, orderly states.
 They also link to [the 3rd law of thermodynamics](Thermodynamics#Third%20law%20of%20thermodynamics). As $T \rightarrow 0, \space S \rightarrow 0$ and further $k \cdot ln(W) \rightarrow 0 \Rightarrow ln(W) \rightarrow 0 \Rightarrow W \rightarrow 1$. At absolute zero (**unachievable**) any system would be in a single possible state.
 
 #### Entropy and volume
@@ -49,6 +50,7 @@ Using this formula, the change in entropy in **both reversible and irreversible 
 #### Entropy and pressure
 
 [Boyle's law](States%20of%20matter#Derivation%20of%20the%20ideal%20gas%20equation): $p \cdot V = \text{const} \Rightarrow p \propto \frac{1}{V} \Rightarrow \frac{V_2}{V_1} = \frac{p_1}{p_2}$
+Isothermal reversible expansion of an ideal gas:
 $\Delta S = nR \cdot ln(\frac{p_1}{p_2})$
 
 > Mind that the order changes!
@@ -93,7 +95,7 @@ $\Delta S_{\text{fus}} = \frac{\Delta H_{\text{fus}}}{T_\text{f}}$
 If there is a need to find entropy of vaporization/fusion for other temperatures:
 1. Heat the substance to the transition temperature.
 2. Perform a phase transition.
-3. Cool the transformed substance back to the starting temperature.
+3. Cool the transformed substance back to the starting temperature. (Assume it's possible to do without initiating the reverse phase transition)
 
 ## Standard entropies
 
@@ -144,18 +146,14 @@ $\Delta S \geq \frac{q}{T}$
 $\Delta S = \frac{q}{T} \text{ for a reversible process, since } q_{\text{rev}} > q_{\text{irrev}}$
 $\text{For an isolated system: } q = 0 \Rightarrow \Delta S \geq 0$ - [the 2nd law of thermodynamics](Thermodynamics#Second%20law%20of%20thermodynamics)
 
-## Equilibrium
-
-
-**Mechanical equilibrium** - same pressure in the system & the surroundings.
-**Chemical equilibrium** - the reactions produce the same \# of reactants & products.
-
 ## Gibbs free energy
 
 At **constant temperature & pressure**. Expansion work!
 Allows to deduce spontaneity by only taking into account the system.
 
 $G = H - TS, \space \Delta G = \Delta H - T \Delta S$
+
+$\Delta G = -T \Delta S_{\text{tot}}$
 
 $\Delta G< 0$ - spontaneous in forward direction.
 $\Delta G > 0$ - spontaneous in backwards direction.
@@ -169,7 +167,7 @@ $$
 &\textcolor{gray}{G = H - TS \Rightarrow dG = dH - TdS} \\
 &\textcolor{gray}{dG = dU + pdV - TdS, \space dH = dU + pdV \space \text{(at constant pressure)}} \\
 &\textcolor{gray}{dG = dw + dq + pdV - TdS} \\
-&\textcolor{gray}{dG = dw_{\text{rev}} + dq_{\text{rev}} + pdV - TdS, \space \text{(maximum work done ina  reversible process)}} \\
+&\textcolor{gray}{dG = dw_{\text{rev}} + dq_{\text{rev}} + pdV - TdS, \space \text{(maximum work done in a reversible process)}} \\
 &\textcolor{gray}{dG = dw_{\text{rev}} + TdS + pdV - TdS = dw_{\text{rev}} + pdV, \space dS = \frac{dq_{\text{rev}}}{T} \text{(at constant temperature)}} \\
 &\textcolor{gray}{dG = dw_{\text{e, rev}} + dw_{\text{exp, rev}} + pdV, \space dw_{\text{rev}} = dw_{\text{e, rev}} + dw_{\text{exp, rev}}} \\
 &\textcolor{gray}{dG = dw_{\text{e, rev}} - pdV + pdV = dw_{\text{e, rev}}, \space dw_{\text{exp, rev}} = -pdV \space \text{(at constant pressure)}} \\
@@ -178,14 +176,23 @@ $$
 &\end{flalign}
 $$
 
-$\Delta G \degree = \sum n \Delta G \degree _{f, \text{ products}} - \sum n \Delta G \degree _{f, \text{ reactants}}$
+$\Delta G \degree = \sum n \Delta G \degree _{f} (\text{products}) - \sum n \Delta G \degree _{f} (\text{reactants})$
 
 Over small temperature differences, assume $\Delta G$ does not change.
 
 For an ideal gas: $G_m = G_m \degree + RT \cdot ln(\frac{p}{p \degree}), \space p \degree = 1 \space bar$
 For a liquid: $G_m \approx G_m \degree$
 
-**Thermodynamically stable compound** - compound /w $\Delta G \degree _f < 0$; its elements have a tendency to spontaneously combine into this compound.
-**Thermodynamically unstable compound** - compound /w $\Delta G \degree _f > 0$; it has a tendency to spontaneously decompose.
+**Thermodynamically stable compound** - compound /w $\Delta G_f \degree < 0$; its elements have a tendency to spontaneously combine into this compound.
+**Thermodynamically unstable compound** - compound /w $\Delta G_f \degree > 0$; it has a tendency to spontaneously decompose.
 **Nonlabile/inert compound** - compound that does not decompose in practice, despite being thermodynamically unstable.
 **Labile compound** - compound that does decompose.
+
+## Equilibrium
+
+**Mechanical equilibrium** - same pressure in the system & the surroundings.
+**Chemical equilibrium** - the reactions produce the same \# of reactants & products.
+
+The system is at equilibrium when:
+$\Delta S_{\text{tot}} = 0$
+$\Delta G = 0$

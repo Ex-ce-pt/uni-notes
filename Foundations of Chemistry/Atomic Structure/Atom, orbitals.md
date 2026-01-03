@@ -278,6 +278,7 @@ Elements in the periodic table are organized in blocks. The block the element is
 ## Cations
 
 **Ionization energy ($E_I$)** - energy that it takes to take away an electron from an atom.
+Defined for an atom at $0 \space K$.
 $E_I > 0$.
 
 $E_I \approx -E_{\text{orbital}}$, because we need to compensate the energy it took to make the electron "free" ($0$ potential energy).
@@ -294,6 +295,7 @@ Size of a cation is just a bit smaller that the size of the neutral atom, except
 ## Anions
 
 **Electron affinity ($E_a$)** - energy released because electrons were added.
+Defined for an atom at $0 \space K$.
 
 Electron affinities are smaller than ionization energies.
 

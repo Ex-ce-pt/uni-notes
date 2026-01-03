@@ -4,6 +4,7 @@
 #### Zeroth law of thermodynamics
 
 If 2 systems are in thermal equilibrium with a 3rd, then they are in thermal equilibrium with each other.
+The state of being in a thermal equilibrium is transitive: $A=B, \space B=C \Rightarrow A=C$.
 
 #### First law of thermodynamics
 
@@ -15,7 +16,7 @@ Isothermal → no heat goes towards heating the gas, all the heat goes towards e
 #### Second law of thermodynamics
 
 **Second law of thermodynamics** - no transfer of energy is 100% effective; there is always a loss.
-The entropy of an isolated system increases in the course of any spontaneous process.
+The [entropy](Entropy) of an isolated system increases in the course of any spontaneous process.
 $\Delta S_{\text{tot}} \geq 0$
 "Isolated system" in practice usually means the universe.
 
@@ -23,17 +24,16 @@ $\Delta S_{\text{tot}} \geq 0$
 
 **Third law of thermodynamics** - as temperature approaches $0$, all processes slow down.
 The entropy of all perfect crystals approaches $0$ as the absolute temperature approaches $0$.
-$T \rightarrow 0, S \rightarrow 0$ - from the definition of entropy.
+$T \rightarrow 0, \space S \rightarrow 0$ - from the definition of [entropy](Entropy).
 
 ## Definitions
 
 Energy is transferred & transformed between different forms.
 Heat is transferred between objects until equilibrium is reached.
 
----
 **System** - a given set of energy & matter.
 **Surroundings** - everything but the system.
-**Universe** - all existing the energy & matter combined.
+**Universe** - all existing energy & matter combined.
 
 $\text{Universe} = \text{System} \cup \text{Surroundings}$
 
@@ -41,8 +41,8 @@ $\text{Universe} = \text{System} \cup \text{Surroundings}$
 **Closed system** - can exchange **energy** /w the surroundings but **not matter**.
 **Isolated system** - cannot exchange **neither energy nor matter** /w the surroundings.
 
-**Adiabatic system** - cannot exchange energy (says nothing about the flow of matter).
-**Diathermic system** - can exchange energy (says nothing about the flow of matter).
+**Adiabatic walls** - cannot exchange energy (says nothing about the flow of matter).
+**Diathermic walls** - can exchange energy (says nothing about the flow of matter).
 
 | Exchange     | Matter ✓ | Matter ✗ | Either     |
 | ------------ | -------- | -------- | ---------- |
@@ -79,7 +79,7 @@ $w < 0$ - energy is lost (the system does work).
 
 Work - transfer of energy **into** a system.
 
-> **Opposing** force is very important! If there is not opposing force (e.g. a gas expanding its vessel against vacuum), no work is done!
+> **Opposing** force is very important! If there is no opposing force (e.g. a gas expanding its vessel against vacuum), no work is done!
 
 **Expansion work** - work from a change in volume.
 **Non-expansion work** - work that does not involve change in volume (biochemical synthesis, electrical work, mechanical work).
@@ -93,7 +93,7 @@ $w = -p_{\text{ext}} \cdot \Delta V$
 | $p_{\text{ext}}$ | $Pa$  | External pressure **opposing** the expansion |
 | $\Delta V$       | $m^3$ | Difference in volume the system experiences  |
 
-Reversible isothermal expansion of an ideal gas:
+Isothermal reversible expansion of an ideal gas:
 $$
 \begin{flalign}
 &\textcolor{grey}{w = -p_{\text{ext}}V \Rightarrow dw = -p_{\text{ext}} \cdot dV} \\
@@ -107,7 +107,7 @@ $$
 &w = -nRT \cdot ln(\frac{V_2}{V_1})
 &\end{flalign}
 $$
-**The work performed during a reversible process is the maximum amount of work a system can perform.** It is because at every point in time the force opposing the work is only infinitesimally smaller (equal) than the force of the system. That means that during the course of the process, the system pushed against the maximum possible force that would still result in the process ending successfully.
+**The work performed during a reversible process is the maximum amount of work a system can perform.** It is because at every point in time the force opposing the work is only infinitesimally smaller (essentially equal) than the force of the system. That means that during the course of the process, the system pushed against the maximum possible force that would still result in the process ending successfully.
 
 #### Energy
 
@@ -121,7 +121,7 @@ Unit: $J$
 2. Rotational - rotational motion.
 3. Vibrational - vibrations of molecules.
 
-By the first law of thermodynamics, $\Delta U = q + w$.
+By the [first law of thermodynamics](#First%20law%20of%20thermodynamics), $\Delta U = q + w$.
 Given no heating, $\Delta U = w$.
 That is why the [work](#Work) is negative when a system performs work on the surroundings.
 
@@ -181,6 +181,9 @@ $$
 &\end{flalign}
 $$
 
+For a monoatomic ideal gas:
+$C_{V, \space m} = \frac{3}{2}R, \space C_{p, \space m} = \frac{5}{2}R$
+
 ## Calorimetry
 
 **Calorimetry** - a technique used to calculate enthalpy changes for a chemical or physical process.
@@ -195,6 +198,8 @@ The heat from a sample is transferred to water and the temperature difference be
 ## Heating curve
 
 **Heating curve** - a curve describing the temperature & phase changes during the process of heating/cooling.
+
+![[thermochemistry/heating-curve.png]]
 
 Temperature does not rise until a phase change has been completed fully.
 

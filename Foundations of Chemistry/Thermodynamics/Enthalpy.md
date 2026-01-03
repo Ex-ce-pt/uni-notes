@@ -8,7 +8,7 @@ $$
 \begin{flalign}
 &\textcolor{grey}{H = U + pV} \\
 &\textcolor{grey}{\Delta H = \Delta U + p \cdot \Delta V, \space p = \text{const}} \\
-&\textcolor{grey}{\Delta H = q + w + p \cdot V} \\
+&\textcolor{grey}{\Delta H = q + w + p \cdot \Delta V} \\
 &\textcolor{grey}{\text{If no non-expansion work: } w = -p_{\text{ext}} \cdot \Delta V} \\
 &\textcolor{grey}{\text{If the vessel is open or adjusts to the volume of the substance: } p_{\text{ext}} = p} \\
 &\textcolor{grey}{\Delta H = q - p \cdot \Delta V + p \cdot \Delta V} \\
@@ -23,7 +23,7 @@ At constant pressure & no non-expansion work: $\Delta H = q$.
 Molar enthalpy - enthalpy per $1 \space mol$ of substance.
 $H_m = \frac{H}{n}$
 
-Physical change:
+## Physical change
 
 |              | $\Delta H_{\text{state change}} = H_m(\text{target state}) - H_m(\text{source state})$                        | $\Delta H_{\text{fwd change}} = -\Delta H_{\text{bwd change}}$ |
 | ------------ | ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
@@ -38,7 +38,7 @@ Physical change:
 **Thermochemical equation**:
 $\ce{CH4 (g) + 2 O2 (g) -> CO2 (g) + 2 H2O (l)}, \space \Delta H = -890 \space kJ$
 
-> The enthalpies of reactants & products are measured at 298 K, so the reaction enthalpy is also for 298 K.
+> The enthalpies of reactants & products are measured at $298 \space K$, so the reaction enthalpy is also for $298 \space K$.
 
 > Reaction enthalpy assumes $N_A$ reactions have taken place! So it is actually measured in $kJ \cdot mol^{-1}$, even if it doesn't look like it!
 
@@ -60,8 +60,9 @@ $$
 
 **Standard state**:
 - Pure form;
+- (usually) $298.15 \space K \space (25 \degree C)$;
 - Gases at $1 \space bar$;
-- Solutes at $c= 1 \space M$.
+- Solutes at $1 \space M$.
 $\ce{C (s), H2O (l), O2 (g)}$
 
 **Standard reaction enthalpy** ($\Delta H \degree$) - reaction enthalpy when both the reactants & products are in their standard states.
@@ -75,7 +76,6 @@ Exception: white phosphorus is used for its  $\Delta H_f \degree$ because it's e
 
 $\ce{C (gr) + O2 (g) -> CO2 (g)}, \space \Delta H_f \degree$
 
-
 **Standard enthalpy of combustion** ($\Delta H_c \degree$) - standard enthalpy **per mole** of a substance burned at standard conditions.
 
 **Specific enthalpy**: $\frac{\Delta H_c \degree}{m}$
@@ -85,7 +85,7 @@ $\ce{C (gr) + O2 (g) -> CO2 (g)}, \space \Delta H_f \degree$
 
 The overall reaction enthalpy is the sum of the reaction enthalpies of the steps into which the reaction can be divided.
 
-$H_1 \rightarrow H_2 \rightarrow H_3 \Leftrightarrow H_1 \rightarrow H_3$
+![[thermochemistry/hess-law.png]]
 Stems from the fact enthalpy is a state function.
 
 Then, the $\Delta H \degree$ of a reaction is the difference in enthalpy between the formation enthalpies of the products & reactants.
@@ -100,8 +100,6 @@ $$
 &\end{flalign}
 $$
 > Mind the signs!
-
-==FIG.: 4D.5
 
 Example:
 
@@ -137,7 +135,7 @@ All the reactants/products heat up together, so their heat capacities must be ad
 Since there is $N(i) \space mol$ formula units of each compound $i$ in one mole of reactions:
 $$
 \begin{flalign}
-&C_p = \sum_i N(i)C_{p, m}(i) 
+&C_p = \sum_i N(i) \cdot C_{p, m}(i) 
 &\end{flalign}
 $$
 
@@ -149,13 +147,15 @@ Usually the difference between heat capacities is small enough to deem negligibl
 
 $\ce{X -> X+ (g) + e^- (g)}, \space \Delta H_{\text{ion}}$
 
-Very similar in value to [ionization energy](Atoms,%20orbitals#Cations) ($E_I$).
+Very similar in value to [ionization energy](Atom,%20orbitals#Cations) ($E_I$).
+$\Delta H_{\text{ion}} = E_I + C$
 
 **Enthalpy of electron gain** ($\Delta H_{\text{eg}}$) - change in standard enthalpy **per mole** of atoms for the gain of an $e^-$.
 
 $\ce{X (g) + e^- (g) -> X- (g)}, \space \Delta H_{\text{eg}}$
 
-Very similar numerically to [electron affinity](Atoms,%20orbitals#Anions) ($E_a$), but /w an opposite sign.
+Very similar numerically to [electron affinity](Atom,%20orbitals#Anions) ($E_a$), but /w an opposite sign.
+$\Delta H_{\text{ion}} = -(E_I + C)$
 
 > Both are numerically only a couple $kJ \cdot mol^{-1}$ apart from their corresponding energies.
 
