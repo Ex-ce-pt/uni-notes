@@ -62,6 +62,7 @@ $\text{Universe} = \text{System} \cup \text{Surroundings}$
 ## Properties
 
 #### Work
+**Path function.**
 
 **Work** ($w$) - achieving motion against an **opposing force**.
 
@@ -110,6 +111,7 @@ $$
 **The work performed during a reversible process is the maximum amount of work a system can perform.** It is because at every point in time the force opposing the work is only infinitesimally smaller (essentially equal) than the force of the system. That means that during the course of the process, the system pushed against the maximum possible force that would still result in the process ending successfully.
 
 #### Energy
+**State function.**
 
 **Energy** ($E$) - capacity of a system to do work.
 **Kinetic energy** - energy of motion.
@@ -120,12 +122,14 @@ Unit: $J$
 1. Translational - linear motion.
 2. Rotational - rotational motion.
 3. Vibrational - vibrations of molecules.
+4. [Intermolecular interactions](Atomic Structure/Intermolecular interactions) - stored chemical energy.
 
 By the [first law of thermodynamics](#First%20law%20of%20thermodynamics), $\Delta U = q + w$.
 Given no heating, $\Delta U = w$.
 That is why the [work](#Work) is negative when a system performs work on the surroundings.
 
 #### Heat
+**Path function.**
 
 **Heat** ($q$) - energy transferred between a system and its surroundings due to a temperature difference.
 Unit: $J$
@@ -149,12 +153,12 @@ Alternative wording: constant volume & no non-expansion work: $\Delta U = q$.
 #### Heat capacity
 
 **Heat capacity** - how much heat the substance can contain.
-$C = \frac{\Delta q}{\Delta T}$
+$C = \frac{q}{\Delta T}$
 
 | Symbol     | Unit             | Explanation                                         |
 | ---------- | ---------------- | --------------------------------------------------- |
 | $C$        | $J \cdot K^{-1}$ | Heat capacity of the substance                      |
-| $\Delta q$ | $J$              | The heat supplied to the substance                  |
+| $q$        | $J$              | The heat supplied to the substance                  |
 | $\Delta T$ | $K$              | The change in temperature the substance experiences |
 
 **Specific heat capacity** - heat capacity per $1 \space kg$ of the substance.

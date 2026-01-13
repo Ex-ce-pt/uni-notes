@@ -20,7 +20,7 @@ At constant pressure & no non-expansion work: $\Delta H = q$.
 **Exothermic reaction** - reaction that releases heat ($\Delta H < 0$).
 **Endothermic reaction** - reaction that absorbs heat ($\Delta H > 0$).
 
-Molar enthalpy - enthalpy per $1 \space mol$ of substance.
+**Molar enthalpy** - enthalpy per $1 \space mol$ of substance.
 $H_m = \frac{H}{n}$
 
 ## Physical change

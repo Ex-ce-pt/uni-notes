@@ -221,7 +221,7 @@ The more polar the bond, the stronger the acid, since $\ce{H}$ can escape more e
 
 The polarity can be achieved through:
 - The **size of the anion** determining the strength of the bond:
- ```smiles
+```smiles
 F
 Cl
 Br
@@ -387,4 +387,4 @@ A widely used definition today.
 Ex.
 $\ce{HCl (aq) + H2O (aq) -> H3O+ (aq) + Cl- (aq)}$
 - $\ce{HCl}$ - Brønsted acid
-- $\ce{H2O}$ - Brønsted base (in this example)
+- $\ce{H2O}$ - Brønsted base (in this example)  

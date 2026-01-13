@@ -71,6 +71,15 @@ Colloids scatter light.
 
 Solute increases the boiling point a little and lowers the freezing point significantly.
 
+$\Delta T_b = i \cdot k_b \cdot b$
+| Symbol                | Unit                        | Explanation                                       |
+| --------------------- | --------------------------- | ------------------------------------------------- |
+| $\Delta T_{\text{b}}$ | $K$                         | Boiling point elevation                           |
+| $i$                   | $-$                         | Van't Hoff factor                                 |
+| $k_{\text{b}}$        | $K \cdot kg \cdot mol^{-1}$ | Boiling-point constant; determined experimentally |
+| $b$                   | $mol \cdot kg^{-1}$         | Molality of the solute                            |
+
+
 $\Delta T_{\text{f}} = i \cdot k_\text{f} \cdot b$
 
 | Symbol                | Unit                        | Explanation                                        |

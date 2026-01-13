@@ -196,3 +196,7 @@ For a liquid: $G_m \approx G_m \degree$
 The system is at equilibrium when:
 $\Delta S_{\text{tot}} = 0$
 $\Delta G = 0$
+
+[[Equilibria/Physical equilibrium]]
+[[Equilibria/Solubility equilibrium]]
+[[Equilibria/Chemical equilibrium]]

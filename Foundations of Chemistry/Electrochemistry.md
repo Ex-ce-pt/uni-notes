@@ -7,7 +7,6 @@
 | **Anode**     | $(-)$                      | $(+)$                 |
 | **Cathode**   | $(+)$                      | $(-)$                 |
 
-
 ## Redox reactions
 
 **Oxidation** - loss of $e^-$.
@@ -62,7 +61,6 @@ Steps to balance Redox reactions:
 	$\ce{3 Cu (s) + 8 HNO3 (aq) -> 3 Cu(NO3)2 (aq) + 2 NO (g) + 4 H2O (l)}$
 
 ## Galvanic cells
-
 
 **Galvanic cell (voltaic cell)** - electrochemical cell that uses a spontaneous reaction to generate electric current. Chemical energy → electrical energy.
 **Battery** - a set of galvanic cells connected sequentially, so the total voltage is the sum of voltages of individual cells.

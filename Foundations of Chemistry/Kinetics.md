@@ -42,7 +42,7 @@ $\text{Unique instantaneous rate: } -\frac{1}{a}\frac{d\ce{[A]}}{dt} = -\frac{1}
 
 **Rate constant ($k_r$)** - characteristic of the reaction; determined by the reaction & the temperature it happens at.
 
-**Reaction order** - exponent of the concentration of the reactants.
+**Reaction order** - sum of the exponents of the concentrations appearing in the expression for the rate law.
 $\text{Rate: } k_r \cdot [\ce{A}]^a[\ce{B}]^b$
 $\text{Order with respect to } \ce{A}: \space a, \text{ Order with respect to } \ce{B}: \space b$
 $\text{Overall order of the reaction: } a + b$
@@ -53,7 +53,7 @@ The units of $k_r$ depend on the reaction order: $M^{-(\text{(order)-1})} \cdot 
 
 $$
 \begin{flalign}
-&\ce{2 NH3 (g) ->[Pt] N2 (g) + 3 H2 (g)}, \text{ rate: } k, \text{ 0th order} \\
+&\ce{2 NH3 (g) ->[Pt] N2 (g) + 3 H2 (g)}, \text{ rate: } k_r, \text{ 0th order} \\
 &\ce{2 N2O5 -> 4 NO2 + O2}, \text{ rate: } k_r\ce{[N2O5]}, \text{ 1st order} \\
 &\ce{2 NO2 -> 2 NO + O2}, \text{ rate: } k_r \cdot \ce{[NO2]}^2 \\
 &\ce{S2O8^{2-} + 3 I- -> 2 SO4^{2-} + I3-}, \text{ rate: } k_r\ce{[S2O8^{2-}][I3-]}, \text{ 2nd order} \\
@@ -71,7 +71,7 @@ Then $t = t_{1/2}, \space \ce{[A]}_t = \frac{1}{2}\ce{[A]}_0$
 
 | Order        | Rate law<br>(instantaneous rate of change) | Integrated rate law                                                                                                      | Half-life                           | What is linear in time |
 | ------------ | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------- | ---------------------- |
-| $\text{0th}$ | $\Delta \ce{[A]} = k_r$                    | $\ce{[A]}_t = \ce{[A]}_0 - k_rt$                                                                                         | $t_{1/2} = \frac{\ce{[A]}_0}{2k_r}$ | $\ce{[A]}$             |
+| $\text{0th}$ | $\frac{d\ce{[A]}}{dt} = k_r$               | $\ce{[A]}_t = \ce{[A]}_0 - k_rt$                                                                                         | $t_{1/2} = \frac{\ce{[A]}_0}{2k_r}$ | $\ce{[A]}$             |
 | $\text{1st}$ | $-\frac{d\ce{[A]}}{dt} = k_r\ce{[A]}$      | $ln(\frac{\ce{[A]}_t}{\ce{[A]}_0}) = -k_rt \Leftrightarrow ln(\ce{[A]}_t) = ln(\ce{[A]}_0) - k_rt$                       | $t_{1/2} = \frac{ln(2)}{k_r}$       | $ln(\ce{[A]})$         |
 | $\text{2nd}$ | $-\frac{d\ce{[A]}}{dt} = k_r\ce{[A]}^2$    | $\frac{1}{\ce{[A]}_0} - \frac{1}{\ce{[A]}_t} = -k_rt \Leftrightarrow \frac{1}{\ce{[A]}_t} = \frac{1}{\ce{[A]}_0} + k_rt$ | $t_{1/2} = \frac{1}{k_r\ce{[A]}_0}$ | $\frac{1}{\ce{[A]}}$   |
 
