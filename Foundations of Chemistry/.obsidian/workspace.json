@@ -20,51 +20,8 @@
               "icon": "lucide-file",
               "title": "Cheat Sheet"
             }
-          },
-          {
-            "id": "87a59610133b6e02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thermodynamics/Enthalpy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Enthalpy"
-            }
-          },
-          {
-            "id": "9ad78b8cd033e8be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thermodynamics/Entropy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Entropy"
-            }
-          },
-          {
-            "id": "3236ce4171e6879f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thermodynamics/Formulas and conditions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Formulas and conditions"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,12 +169,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "9ad78b8cd033e8be",
+  "active": "2b272b789d449ac4",
   "lastOpenFiles": [
+    "Equilibria/Solubility equilibrium.md",
+    "Equilibria/Physical equilibrium.md",
+    "Equilibria/Chemical equilibrium.md",
+    "Electrochemistry.md",
+    "Titration.md",
+    "Equilibria",
+    "Buffers.md",
+    "Acids & Bases.md",
+    "_media/pKa table.png",
     "Thermodynamics/Formulas and conditions.md",
     "Thermodynamics/Entropy.md",
     "Thermodynamics/Enthalpy.md",
     "Thermodynamics/Thermodynamics.md",
+    "Cheat Sheet.md",
+    "Kinetics.md",
     "_media/thermochemistry/hess-law.png",
     "_media/thermochemistry/hess-law.xcf",
     "_media/thermochemistry/compressibility-factor-graph.xcf",
@@ -225,20 +193,11 @@
     "Atoms, orbitals.md",
     "_media/thermochemistry/Kirchhoffs-law-derivation.png",
     "_media/thermochemistry/heating-curve.png",
-    "Cheat Sheet.md",
     "Atomic Structure/Molecules.md",
     "Atomic Structure/Intermolecular interactions.md",
     "Atomic Structure/States of matter.md",
     "Atomic Structure/Periodic trends.md",
     "Periodic%20trends.md",
-    "Kinetics.md",
-    "Physical equilibrium.md",
-    "Titration.md",
-    "Solubility equilibrium.md",
-    "Electrochemistry.md",
-    "Acids & Bases.md",
-    "Chemical equilibrium.md",
-    "Buffers.md",
     "Foundations of Chemistry.md",
     "_media/equilibrium/azeotrope-maximum.png",
     "_media/equilibrium/azeotrope-minimum.png",
@@ -251,10 +210,8 @@
     "_media/equilibrium/phase-diagrams-binary-vapor.png",
     "_media/equilibrium/phase-diagrams-binary.xcf",
     "_media/equilibrium/phase-diagram-CO2.png",
-    "_media/equilibrium/phase-diagram-water.png",
     "_media/equilibrium/phase-diagrams.xcf",
     "_media/equilibrium/phase-diagram-water.xcf",
-    "_media/equilibrium/maxwell-distribution-of-speeds.xcf",
     "Cheat%20Sheet.md",
     "Untitled.canvas",
     "Atom,.md"

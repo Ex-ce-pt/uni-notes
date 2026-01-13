@@ -24,21 +24,28 @@
 | Electric current | $A$         | ampere  | $A$                            |
 | Voltage          | $V$         | volt    | $J \cdot C^{-1}$               |
 
-
-
 ## Denotation
 
-| Property               | Symbol |
-| ---------------------- | ------ |
-| Energy                 | $E$    |
-| Kinetic energy         | $E_k$  |
-| Potential energy       | $E_p$  |
-| Work                   | $w$    |
-| Internal energy        | $U$    |
-| Heat                   | $q$    |
-| Heat capacity          | $C$    |
-| Specific heat capacity | $C_s$  |
-| Molar heat capacity    | $C_m$  |
-| Enthalpy               | $H$    |
-| Entropy                | $S$    |
-|                        |        |
+| Property                  | Symbol       |
+| ------------------------- | ------------ |
+| Electronegativity         | $\chi$       |
+| Energy                    | $E$          |
+| Kinetic energy            | $E_k$        |
+| Potential energy          | $E_p$        |
+| Work                      | $w$          |
+| Internal energy           | $U$          |
+| Heat                      | $q$          |
+| Heat capacity             | $C$          |
+| Specific heat capacity    | $C_s$        |
+| Molar heat capacity       | $C_m$        |
+| Enthalpy                  | $H$          |
+| Entropy                   | $S$          |
+| Gibbs free energy         | $G$          |
+| Molality                  | $b$          |
+| Acidity constant          | $Ka$         |
+| Basicity constant         | $Kb$         |
+| Equilibrium constant      | $K$          |
+| Equilibrium quotient      | $Q$          |
+| Molar solubility          | $s$          |
+| Freezing point depression | $\Delta T_f$ |
+| Osmotic pressure          | $\Pi$        |

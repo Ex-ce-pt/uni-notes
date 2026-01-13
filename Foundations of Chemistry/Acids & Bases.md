@@ -43,8 +43,8 @@ Used to determine if the reaction takes place.
 **How basic the acid is in water**.
 $pK_a = -log(K_a) = -log(\frac{\ce{[H+][A-]}}{\ce{[HA]}}) = log(\frac{\ce{[HA]}}{\ce{[H+][A-]}})$
 
-High $pK_a$ - weaker acid
-Low $pK_a$ - stronger acid
+High $pK_a$ → weaker acid.
+Low $pK_a$ → stronger acid.
 ![[pKa table.png]]
 $\Delta pK_a = pK_a(\text{resulting acid}) - pK_a(\text{reactant acid})$
 If $\Delta pK_a > 10$ → generally irreversible reaction, if $\leq 10$ → equilibrium.
@@ -53,7 +53,7 @@ The side that has an acid /w higher $pK_a$ is favored.
 [Further reading](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/02%3A_Polar_Covalent_Bonds_Acids_and_Bases/2.08%3A_Predicting_Acid-Base_Reactions_from_pKa_Values)
 
 ---
-> When construction an ICE table for deprotonation of a weak acid, the change in the concentration of the acid molecules $x$ can be neglected, if $\frac{\ce{[HA]}}{K_a} \geq 400, \space \ce{HA} - x \approx \ce{[HA]}$.
+> When constructing an ICE table for deprotonation of a weak acid, the change in the concentration of the acid molecules $x$ can be neglected, if $\frac{\ce{[HA]}}{K_a} \geq 400, \space \ce{HA} - x \approx \ce{[HA]}$.
 > This is because that condition shows the majority of the acid molecules did not deprotonate and the larger the ratio is, the less significant the change in the concentration becomes.
 
 #### Acid constant examples
@@ -193,7 +193,7 @@ Thus, a lot of compounds have both a conjugated acid and a conjugated base at th
 
 $pH = -log(\ce{[H+]})$
 $pOH = -log([\ce{OH-}])$
-$pH + pOH = 14$
+$pH + pOH = pK_w = 14$
 
 $$
 \begin{flalign}
@@ -217,6 +217,8 @@ $pK_a > pH$ → protonation in water
 The **strength** of an acid is determined by the **polarity** of the $\ce{O-H}$ bond.
 The more polar the bond, the stronger the acid, since $\ce{H}$ can escape more easily.
 
+(Acids are presented in the order of weaker → stronger)
+
 The polarity can be achieved through:
 - The **size of the anion** determining the strength of the bond:
  ```smiles
@@ -227,9 +229,9 @@ I
 ```
 - The **electronegativity** of the central atom:
 ```smiles
-ClO[H]
-BrO[H]
 IO[H]
+BrO[H]
+ClO[H]
 ```
 - The \# of $\ce{O}$ atoms in oxoacids:
 ```smiles
@@ -263,7 +265,7 @@ Lewis:
 
 Polyprotic acids are deprotonated one proton at a time:
 $\ce{H2CO3 (aq) + H2O (l) \leftrightharpoons HCO3- (aq) + H3O+ (aq)}, \space K_{a1} = 4.3 \cdot 10^{-7}$
-$\ce{HCO- (aq) + H2O (l) \leftrightharpoons CO3^{2-} (aq) + H3O+ (aq)}, \space K_{a1} = 5.6 \cdot 10^{-11}$
+$\ce{HCO- (aq) + H2O (l) \leftrightharpoons CO3^{2-} (aq) + H3O+ (aq)}, \space K_{a2} = 5.6 \cdot 10^{-11}$
 
 > Conjugate bases of polyprotic acids are amphiprotic.
 
@@ -324,7 +326,7 @@ $\ce{[H2A]} >> K_{a1} \wedge \ce{[H2A]} >> \frac{K_w}{K_{a2}} \Rightarrow pH \ap
 
 #### Acidic oxides
 
-**Acidic oxide** - oxide that reacts /w water to form a  solution of Brønsted acid.
+**Acidic oxide** - oxide that reacts /w water to form a solution of Brønsted acid.
 Oxides of non-metals.
 Molecular compounds.
 Act as Lewis acids.
@@ -340,6 +342,9 @@ $\ce{NaOH (aq) + CO2 (g) -> NaHCO3 (aq)}$
 Oxides of metals.
 Ionic compounds.
 Act as Lewis bases.
+
+Reaction that explains the formation of a base:
+$\ce{O^{2-} (aq) + H2O (l) -> 2 OH- (aq)}$
 
 $\ce{Na2O (g) + H2O (l) -> 2 NaOH (aq)}$
 

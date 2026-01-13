@@ -20,3 +20,6 @@ $\Delta S_{\text{surr}} = \frac{q_{\text{surr}}}{T}$
 
 [+](Entropy#Global%20changes%20in%20entropy) Constant temperature & pressure:
 $\Delta S_{\text{surr}} = -\frac{\Delta H}{T}, \space T = \text{const}, \space p = \text{const}$
+
+[+](Entropy#Gibbs%20free%20energy) Ideal gas:
+$G_m = G_m \degree + RT \cdot ln(\frac{p}{p \degree}), \space p \degree = 1 \space bar$

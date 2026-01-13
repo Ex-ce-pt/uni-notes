@@ -24,7 +24,7 @@ Process:
 7. $n_a = n_t \cdot \text{(mole ratio)}$ - amount of analyte that reacted (all $V_a$ of it), mole ratio comes from the chem. eq.
 8. $c_a = \frac{n_a}{V_a}$ **OR** $m_a = n_a \cdot M_a$
 
-**Equivalence point (stoichiometric point)** - the point of equilibrium between $\ce{H+}$ and $\ce{OH-}$ ions.
+**Equivalence point (stoichiometric point)** - the point of where the amount of $\ce{H+}$/$\ce{OH-}$ added is equal to the amount of $\ce{OH-}$/$\ce{H+}$ initially present.
 **Endpoint** - the point at which a sudden measurable change happens that prompts the chemist to stop the titration process (e.g. indicator changing color).
 
 ## Strong acid-base titration
@@ -44,5 +44,5 @@ Weak acid-strong base → moderate conjugate base ions → $pH > 7$.
 
 Around the $pKa$ of the acid/base the change in $pH$ slows down - the weak acid/base forms a buffer.
 
-Halfway point of the titration - $\ce{[HA]} = \ce{[A-]}$
+**Halfway point of titration** - $\ce{[HA]} = \ce{[A-]}$
 

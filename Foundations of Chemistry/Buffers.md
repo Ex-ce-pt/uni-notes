@@ -1,6 +1,6 @@
 
 Solution: $\ce{CH3COOH, CH3COONa}$
-Ions: $\ce{CH3COOH} \text{ (weak acid), } \ce{CH3COO-} \text{ (moderate base), } \ce{Na+} \text{ (effectively neutral)}$
+Species: $\ce{CH3COOH} \text{ (weak acid), } \ce{CH3COO-} \text{ (moderate base), } \ce{Na+} \text{ (effectively neutral)}$
 Dissociation reaction: $\ce{CH3COOH (aq) + H2O (l) \rightleftharpoons CH3COO- (aq) + H3O+ (aq)}$
 
 Preparation:
@@ -11,7 +11,7 @@ Preparation:
 Addition of acid:
 1. A little of $\ce{HCl}$ is added to the solution. The acid dissociates into $\ce{H3O+}$ and $\ce{Cl-}$. The chloride anions have no effect.
 2. The new $\ce{H3O+}$ makes the dissociation reaction go in the direction of protonation. More $\ce{H3O+}$ and $\ce{CH3COO-}$ used up. New $\ce{H3O+}$ is trapped by $\ce{CH3COO-}$. The $pH$ effect is counteracted. New equilibrium reached.
-3. This process will continue as long as there are $\ce{CH3COO-}$ ions present in the solution.
+3. This process continues as long as there are $\ce{CH3COO-}$ ions present in the solution.
 
 $\ce{CH3COO-}$ - proton sink.
 
@@ -52,10 +52,9 @@ $pH \approx pK_a + log(\frac{\ce{[A-]}_{\text{initial}}}{\ce{[HA]}_{\text{initia
 
 Works for both acid & base buffers, just remember which of the species is a base and which is an acid.
 
-
 **Buffer capacity** - how much acid/base can the buffer withstand before the $pH$ starts changing significantly.
 
-Concentrated buffer - higher buffer capacity
+Concentrated buffer → higher buffer capacity
 High buffer capacity against acid: $\frac{[\text{weak base}]}{[\text{weak acid}]} \geq 0.1$, $pH \geq pK_a - 1$
 High buffer capacity against base: $\frac{[\text{weak acid}]}{[\text{weak base}]} \geq 0.1$, $pH \leq pK_a + 1$
 
