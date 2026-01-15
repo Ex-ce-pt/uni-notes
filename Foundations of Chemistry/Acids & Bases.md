@@ -290,9 +290,9 @@ $$
 &\textcolor{grey}{\ce{H2A (aq) + H2O (l) \rightleftharpoons HA- (aq) + H3O+ (aq)}, \space K_{a1}} \\
 &\textcolor{grey}{\ce{HA- (aq) + H2O (l) \rightleftharpoons A^{2-} (aq) + H3O+ (aq)}, \space K_{a2}} \\
 &\textcolor{grey}{\text{Let } f(\ce{X}) \text{ be the fraction the species } \ce{X} \text{ makes up from all the species combined:}} \\
-&\textcolor{grey}{f(\ce{X}) = \frac{\ce{[X]}}{\ce{[H2A]} + \ce{HA-} + \ce{A^{2-}}}, \space X \in \{ \ce{H2A, HA-, A^{2-}} \}} \\
+&\textcolor{grey}{f(\ce{X}) = \frac{\ce{[X]}}{\ce{[H2A]} + \ce{[HA-]} + \ce{[A^{2-}]}}, \space X \in \{ \ce{H2A, HA-, A^{2-}} \}} \\
 &\textcolor{grey}{f(\ce{X}) = \frac{\frac{\ce{[X]}}{\ce{[HA-]}}}{\frac{\ce{[H2A]}}{\ce{[HA-]}} + 1 + \frac{\ce{[A^{2-}]}}{\ce{[HA-]}}}} \\
-&\textcolor{grey}{K_{a1} = \frac{\ce{[HA-][H3O+]}}{\ce{[H2A]}} \Rightarrow \frac{\ce{H2A}}{\ce{HA-}} = \frac{\ce{[H3O+]}}{K_{a1}}, \space K_{a2} = \frac{\ce{[A^{2-}][H3O+]}}{\ce{[HA-]}} \Rightarrow \frac{\ce{A^{2-}}}{\ce{HA-}} = \frac{K_{a2}}{\ce{[H3O+]}}} \\
+&\textcolor{grey}{K_{a1} = \frac{\ce{[HA-][H3O+]}}{\ce{[H2A]}} \Rightarrow \frac{\ce{[H2A]}}{\ce{[HA-]}} = \frac{\ce{[H3O+]}}{K_{a1}}, \space K_{a2} = \frac{\ce{[A^{2-}][H3O+]}}{\ce{[HA-]}} \Rightarrow \frac{\ce{[A^{2-}]}}{\ce{[HA-]}} = \frac{K_{a2}}{\ce{[H3O+]}}} \\
 &\textcolor{grey}{f(\ce{X}) = \frac{\frac{\ce{[X]}}{\ce{[HA-]}}}{\frac{\ce{[H3O+]}}{K_{a1}} + 1 + \frac{K_{a2}}{\ce{[H3O+]}}}} \\
 &\textcolor{grey}{f(\ce{X}) = \frac{\frac{\ce{[X]}}{\ce{[HA-]}}\ce{[H3O+]}K_{a1}}{\ce{[H3O+]}^2 + \ce{[H3O+]}K_{a1} + K_{a1}K_{a2}}} \\
 &f(\ce{H2A}) = \frac{\ce{[H3O+]}^2}{H}, \space f(\ce{HA-}) = \frac{\ce{[H3O+]}K_{a1}}{H}, \space f(\ce{A^{2-}}) = \frac{K_{a1}K_{a2}}{H} \\

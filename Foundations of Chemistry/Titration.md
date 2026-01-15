@@ -44,5 +44,7 @@ Weak acid-strong base → moderate conjugate base ions → $pH > 7$.
 
 Around the $pKa$ of the acid/base the change in $pH$ slows down - the weak acid/base forms a buffer.
 
-**Halfway point of titration** - $\ce{[HA]} = \ce{[A-]}$
+**Halfway point of titration** - $\ce{[HA]} = \ce{[A-]}, \space pH = pKa$
+**Equivalence point of titration** - $\ce{[A-] = [HA]_{\text{initial}}}$
 
+> When doing calculations on titrations, ignore the fact that the acid and/or base reacts with water. Consider the titration reaction to simply be a normal reaction between an acid and a base, and then determine everything else you might need.

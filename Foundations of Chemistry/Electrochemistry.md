@@ -112,7 +112,7 @@ $\Delta G = -nFE_{\text{cell}}, \space \Delta G \degree = -nFE_{\text{cell}} \de
 | $q$               | $C$                | Charge of the system doing work                |
 | $E_{\text{cell}}$ | $V$                | Cell potential of the system                   |
 | $n$               | $mol$              | Amount of $e^-$ doing work                     |
-| $e$               | $C$                | [Elemental charge](Cheat%20Sheet#Constants)    |
+| $e$               | $C$                | [Fundamental charge](Cheat%20Sheet#Constants)  |
 | $N_A$             | $mol^{-1}$         | [Avogadro's constant](Cheat%20Sheet#Constants) |
 | $F$               | $C \cdot mol^{-1}$ | [Faraday's constant](Cheat%20Sheet#Constants)  |
 | $\Delta G$        | $J$                | Change in Gibbs free energy of the system      |
@@ -134,7 +134,7 @@ $E_{\text{cell}} \degree = E_{\text{cathode}} \degree - E_{\text{anode}} \degree
 **Standard electrode** - electrode the standard potential of a half-cell is measured against.
 Standard electrode: standard hydrogen electrode; $\ce{Pt}$ electrode reacting /w hydrogen.
 
-$E \degree (\text{half-reaction}) > 0$ - the species in the half-reaction is an stronger oxidant than $\ce{H}$.
+$E \degree (\text{half-reaction}) > 0$ - the species in the half-reaction is a stronger oxidant than $\ce{H}$.
 $E \degree (\text{half-reaction}) < 0$ - the species in the half-reaction is a stronger reductant than $\ce{H}$.
 
 > If reactions happen **one after another**, you can't just add standard potentials of reactions together! You must account for the \# of $e^-$ transferred!
@@ -215,13 +215,14 @@ One compartment, one electrolyte.
 $e^-$ from a power source are forced into the cathode → cathode is $(-)$.
 $e^-$ are taken up by the anode → anode is $(+)$.
 
-Usually to effectively form products, **overpotential** is required. At least $0.06 \space V$ more potential than the reverse reaction produces.
+Usually to effectively form products, **overpotential** is required. At least $0.60 \space V$ more potential than the reverse reaction produces.
 
 One must consider that ALL the species in the solution may be oxidized/reduced (even water!).
 The oxidation/reduction half-reaction that required **less potential to reverse** will be preferred.
-- The oxidized form of species /w higher potential is preferably reduced.
-- The reduced form of species /w lower potential is preferably oxidized.
+- The oxidized form of species /w higher standard potential is preferably reduced. ($max \space E_R$)
+- The reduced form of species /w lower standard potential is preferably oxidized. ($min \space E_L$)
 
+Combining the oxidation & reduction half-reactions into one electrolytic cell yields a cell /w the highest cell potential out of available options. That makes it easier to reverse the reaction. ($max \space E_{\text{cell}}$)
 
 **Faraday's law**:
 The amount of reactant consumed/product formed is proportional to the amount of $e^-$ supplied.
