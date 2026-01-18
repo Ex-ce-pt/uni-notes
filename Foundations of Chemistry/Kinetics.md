@@ -97,15 +97,18 @@ $$
 
 ## Reaction mechanisms
 
+#### Elementary reactions
 
 Chemical reactions are the outcome of multiple steps - **elementary reactions**.
 **Reaction mechanism** - a sequence of elementary reactions.
 Many routes for a chemical reaction might be possible.
 
-One step mechanism (false): $\ce{O3 + O3 -> O2 + O2 + O2} \text{2 molecules collide and rearrange}$
-Two step mechanism (true): $\ce{O3 + hv -> O2 + O}, \space \ce{O + O2 -> O2 + O2}$
+One step mechanism (false): $\ce{O3 + O3 -> O2 + O2 + O2} \text{ - 2 molecules collide and rearrange}$
+Two step mechanism (true): $\ce{O3 + hv -> O2 + O}, \space \ce{O + O3 -> O2 + O2}$
 
 **Reaction intermediate** (here $\ce{O}$) - species that plays part in the elementary reactions but does not appear in the overall chemical equation.
+
+Elementary reactions are written without state symbols & stoichiometric coefficients.
 
 #### Rate law for elementary reactions
 
@@ -113,14 +116,14 @@ Rate laws for elementary reactions follow the same structure as the regular rate
 
 **Molecularity** - \# of species reacting.
 
-| Molecularity | Elementary reaction | Rate law            |
-| ------------ | ------------------- | ------------------- |
-| **1**        | $\ce{A -> }$        | $k_r\ce{[A]}$       |
-| **2**        | $\ce{A + B -> }$    | $k_r\ce{[A][B]}$    |
-| **2**        | $\ce{A + A ->}$     | $k_r\ce{[A]^2}$     |
-| **3**        | $\ce{A + B + C ->}$ | $k_r\ce{[A][B][C]}$ |
-| **3**        | $\ce{A + A + B ->}$ | $k_r\ce{[A]^2[B]}$  |
-| **3**        | $\ce{A + A + A ->}$ | $k_r\ce{[A]^3}$     |
+| Molecularity | Elementary reaction     | Rate law            |
+| ------------ | ----------------------- | ------------------- |
+| **1**        | $\ce{A -> ...}$         | $k_r\ce{[A]}$       |
+| **2**        | $\ce{A + B -> ...}$     | $k_r\ce{[A][B]}$    |
+| **2**        | $\ce{A + A -> ...}$     | $k_r\ce{[A]^2}$     |
+| **3**        | $\ce{A + B + C -> ...}$ | $k_r\ce{[A][B][C]}$ |
+| **3**        | $\ce{A + A + B -> ...}$ | $k_r\ce{[A]^2[B]}$  |
+| **3**        | $\ce{A + A + A -> ...}$ | $k_r\ce{[A]^3}$     |
 
 | Molecularity | Reaction name |
 | ------------ | ------------- |
@@ -131,7 +134,7 @@ Rate laws for elementary reactions follow the same structure as the regular rate
 
 ==combining elementary reactions
 
-Determining step - slow step; bottleneck.
+**Determining step** - the slowest step; bottleneck.
 The rate of the determining step makes the most contribution to the experimental rate law.
 
 #### Rates and equilibrium
@@ -139,30 +142,35 @@ The rate of the determining step makes the most contribution to the experimental
 $\ce{A + B \rightleftharpoons C + D}, \space K = \frac{\ce{[C][D]}}{\ce{[A][B]}}$
 $\ce{A + B -> C + D}, \space \text{rate: } k_r\ce{[A][B]}$
 $\ce{C + D -> A + B}, \space \text{rate: } k_r'\ce{[C][D]}$
-$\text{At equilibrium: } k_r\ce{[A][B]} = k_r'\ce{[C][D]} \Rightarrow K = \frac{k_r}{k_r'}$
-
+$\text{At equilibrium: } k_r\ce{[A][B]} = k_r'\ce{[C][D]} \Rightarrow \frac{k_r}{k_r'} = \frac{[C][D]}{[A][B]} \Rightarrow K = \frac{k_r}{k_r'}$
 
 ---
 
 **Arrhenius equation**:
-
+$k_r = A \cdot e^{-\frac{E_a}{RT}}$
 $ln(k_r) = ln(A) - \frac{E_a}{RT}$
-$A$ - frequency factor (pre-exponential factor)
-$E_a$ - activation energy
 
-A & E_a determined empirically.
-
+| Symbol | Unit                            | Explanation                                   |
+| ------ | ------------------------------- | --------------------------------------------- |
+| $k_r$  | $M^{-n} \cdot s^{-1}$           | Rate constant of a reaction                   |
+| $A$    | $M^{-n} \cdot s^{-1}$           | Frequency factor (pre-exponential factor)     |
+| $E_a$  | $J \cdot mol^{-1}$              | Activation energy of the reaction             |
+| $R$    | $J \cdot K^{-1} \cdot mol^{-1}$ | [Ideal gas constant](Cheat%20Sheet#Constants) |
+| $T$    | $K$                             | Temperature the reaction is happening at      |
+$A$ & $E_a$ are determined empirically.
 $E_a \geq 0$
-$k_r$ increases with temperature
+
+---
+
+Temperature increases → $k_r$ increases
 
 $ln(\frac{k_r2}{k_r1}) = \frac{E_a}{R}(\frac{1}{T_1} - \frac{1}{T_2})$
 
-the plot of ln k_r against 1/T is a straight line
+The plot of $ln(k_r)$ against $\frac{1}{T}$ is a straight line.
 
 ==fig.: plot
 
-
-higher E_a -> more responsive to temperature
+Higher $E_a$ → more responsive to temperature
 
 ==fig.: plot of reaction energy for endothermic
 
@@ -175,69 +183,73 @@ T inc. => K inc.
 exothermal reaction
 T inc. => K dec.
 
----
-
-Collision theory
+#### Collision theory
 
 A model that explains the Arrhenius equation.
-
 **A reaction can take place only if molecules collide & have enough energy.**
 
-Assume gases $A$ and $B$
+Assume gases $\ce{A}$ and $\ce{B}$.
 
 collision density
 $z_{AB} = \sigma \cdot \bar v_{rel} \cdot N_A^2 \ce{[A][B]}$
-sigma - collision area
-v - mean relative speed
-N_A - avogadro number
 
-$\bar v_{\text{rel}} = (\frac{8RT}{\pi M})^{1/2}, \space M = \frac{M_A M_B}{M_A + M_B}$
+| Symbol                | Unit                              | Explanation                                                                          |
+| --------------------- | --------------------------------- | ------------------------------------------------------------------------------------ |
+| $z_{\ce{AB}}$         | $m^3 \cdot s^{-1} \cdot mol^{-1}$ | Collision density                                                                    |
+| $\sigma$              | $m^2$                             | Collision area; a plane between 2 molecules passing through their center             |
+| $\bar v_{\text{rel}}$ | $m \cdot s^{-1}$                  | Mean speed of the molecules relative to each other (assume one is always stationary) |
+| $N_A$                 | $mol^{-1}$                        | [Avogadro's number](Cheat%20Sheet#Constants)                                         |
+
+$\bar v_{\text{rel}} = (\frac{8RT}{\pi M})^{1/2}, \space M = \frac{M_\ce{A} M_\ce{B}}{M_\ce{A} + M_\ce{B}}$
 
 $\sigma \cdot \bar v_{rel}$ - swept area; how much volume a molecule travels through during a timespan.
+$N_A \ce{[A]}$ - number density;  \# of molecules of $\ce{A}$ per volume.
 
-number density - \# of molecules per volume $N_A \ce{[A]}$
+$x_{\ce{B}} = e^{-\frac{E_{min}}{RT}}$
 
-$x_B = e^{-\frac{E_{min}}{RT}}$
+$x_{\ce{B}}$ - mole fraction of $\ce{B}$ having enough energy to react.
 
-x_B - mole fraction of B having enough energy
-
-steric requirement (P) - molecules need to be oriented in a certain way in order to react.
-determined empirically
-fraction of the possible orientations that lead to reaction.
+**Steric requirement** ($P$) - molecules need to be oriented in a certain way in order to react.
+Determined empirically.
+Fraction of the possible orientations that lead to reaction.
 
 
 Transition state theory
 
----
 
-Catalysis
+### Catalysis
 
 **Catalyst** - molecule that increases the rate of the reaction without being consumed.
 
 Usually it is a part of the reaction mechanism.
-
 Lowers the activation energy of the reaction.
-
 Both forward & reverse reactions are accelerated.
 
-$\ce{I3- (aq) + 2 N3- (aq) ->[CS2] 3 I- (aq) + 3 N2 (g)}$
-Step 1: $\ce{CS2 + N3- -> S2NC3-}$ (slow, rds, Rate Determining Step)
-Step 2: $\ce{2 S2CN3- + I3- -> 2 CS2 + 3 N2 + 3 I-}$ (fast)
-$rate of consumption of I3-: k_r \ce{[CS2][N3-]}$
+$$
+\begin{flalign}
+&\ce{I3- (aq) + 2 N3- (aq) ->[CS2] 3 I- (aq) + 3 N2 (g)} \\
+&\text{Step 1: } \ce{CS2 + N3- -> S2NC3-} \text{ (slow, rate determining step)} \\
+&\text{Step 2: } \ce{2 S2CN3- + I3- -> 2 CS2 + 3 N2 + 3 I-} \text{ (fast)} \\
+&\text{Rate of consumption of } \ce{I3-} \text{: } k_r \ce{[CS2][N3-]}
+&\end{flalign}
+$$
 
+**Homogeneous catalyst** - catalyst that is in the same phase as the reactants.
+**Heterogeneous catalyst** - catalyst that is not in the same phase as the reactants.
 
-Homogeneous catalyst - same phase
-Heterogeneous catalyst - catalyst in the different phase from reactants.
-
-Chemisorption - adsorption by covalent bonding to the surface.
+**Chemisorption** - adsorption by covalent bonding to the surface.
 Can fix the molecule in place so it's easier to make bond /w other reactants.
-Molecules have a better chance of meeting on a 2D surface.
+Molecules have a better chance of meeting on a 2D surface than in 3D space.
 
 $\ce{H2C=CH2 (g) + H2 (g) ->[Ni] H3C-CH3 (g)}$
 
+Here, the reactants are stuck and react on the surface of the nickel metal.
+
+---
+
 **Enzymes** - biocatalysts.
 
-$E + S \rightleftharpoons ES -> E + P$
+$\ce{E + S \rightleftharpoons ES -> E + P}$
 Step 1:
 forward: $k_1 \ce{[E][S]}$
 reverse: $k_1' \ce{[ES]}$
@@ -258,4 +270,4 @@ $v_{max} = k_2 \ce{[ES]} = k_2 \ce{[E]}_0$
 
 $v = \frac{v_{max} \ce{[S]}}{K_M + \ce{[S]}}$
 
-[S] = K_M at v = 1/2 v_max
+$[S] = K_M$ at $v = \frac{1}{2} v_{\text{max}}$
