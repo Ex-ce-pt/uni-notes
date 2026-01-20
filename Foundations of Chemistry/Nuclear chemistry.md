@@ -109,7 +109,7 @@ Isotopes appear to be stable when the \# of either $p^+$ or $n^0$ corresponds to
 
 ## Rate of nuclear decay
 
-**Geiger counter** - device for measuring radiation via observing its interaction /w an inert gas.
+**Geiger counter** - device for measuring radiation via observing its interaction w/ an inert gas.
 **Scintillation counter** - device for measuring radiation using photosensitive substances.
 
 Unit: becquerel ($Bq$), $Bq = \frac{\text{\# of radioctive decays}}{\text{time}}$.
@@ -120,7 +120,7 @@ Nuclear decay is a first-order reaction, rate: $k \cdot N$
 
 $N = N_0 \cdot e^{-kt}, \space t_{1/2} = \frac{ln(2)}{k}$
 
-| Symbol    | Unit     | Explanation                               |
+| Symbol    | Unit     | Comment                               |
 | --------- | -------- | ----------------------------------------- |
 | $N$       | $-$      | \# of atoms left at a given point in time |
 | $N_0$     | $-$      | Initial \# of atoms                       |
@@ -131,7 +131,7 @@ $N = N_0 \cdot e^{-kt}, \space t_{1/2} = \frac{ln(2)}{k}$
 If you're a normal person:
 $N = N_0 \cdot 2^{-\frac{t}{t_{1/2}}}$
 
-| Symbol    | Unit     | Explanation                               |
+| Symbol    | Unit     | Comment                               |
 | --------- | -------- | ----------------------------------------- |
 | $N$       | $-$      | \# of atoms left at a given point in time |
 | $N_0$     | $-$      | Initial \# of atoms                       |

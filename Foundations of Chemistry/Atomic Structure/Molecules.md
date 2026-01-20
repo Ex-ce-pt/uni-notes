@@ -121,7 +121,7 @@ Rules:
 	![[molecules/lewis-tutorial-step-4.png]]
 5. Give **leftover $e^-$ to the central atom**.
 6. **Make octets** by using multiple bonds.
-	Action: bonding, sharing $e^-$ pair /w neighboring atom. Effect: removing 1 $e^-$ from one atom, giving 1 $e^-$ to another atom.
+	Action: bonding, sharing $e^-$ pair w/ neighboring atom. Effect: removing 1 $e^-$ from one atom, giving 1 $e^-$ to another atom.
 	![[molecules/lewis-tutorial-step-6.png]]
 7. **Minimize charges**.
 	Charge is the \# of $e^-$ relative to what this atom has normally. Count $1e^-$ per a bond.
@@ -137,7 +137,7 @@ Instead of a pair of dots, lines can be used.
 Simple examples:
 ![[molecules/lewis-examples-simple.png]]
 
-**Octet rule** - an atom wants to have $8 \space e^-$ on its valence shell by donating/accepting/sharing $e^-$ /w other atoms. Not applicable for 1st period.
+**Octet rule** - an atom wants to have $8 \space e^-$ on its valence shell by donating/accepting/sharing $e^-$ w/ other atoms. Not applicable for 1st period.
 **Hypervalent** - more than $8 \space e^-$ on the valence shell.
 **Hypovalent** - less than $8 \space e^-$ pm the valence shell.
 
@@ -226,7 +226,7 @@ If this logic is used alone, predictions don't always correspond to reality.
 Wrong structure:
 ![[molecules/CH2-wrong.png]]
 
-For atoms /w more $e^-$, orbitals are hybridized.
+For atoms w/ more $e^-$, orbitals are hybridized.
 
 **Hybridization** - mixing of different orbitals to produce a set of new, degenerate orbitals.
 **Promotion** - transfer of $e^-$ to orbitals higher in energy.
@@ -254,7 +254,7 @@ This explains stereoisomers (cis- and trans-isomers).
 
 ![[molecules/rotation-of-bonds.png]]
 
-$\pi$-bonds are overall rare among elements, since $p$-orbitals can't keep up /w the increasing atomic radius → less and less overlap → weaker and weaker bond.
+$\pi$-bonds are overall rare among elements, since $p$-orbitals can't keep up w/ the increasing atomic radius → less and less overlap → weaker and weaker bond.
 
 VBT can't explain:
 - Phases (signs) of orbitals
@@ -296,7 +296,7 @@ $\text{Bond order} = \frac{(\text{\# of bonding } e^-) - (\text{\# of antibondin
 
 **Bonding MOs** create bonding - lower in energy, 2 nuclei are acting on $e^-$.
 **Anti-bonding MOs** inhibit bonding - higher in energy, $e^-$ are far from the nuclei.
-**Non-bonding AOs** - do not mix /w any AOs of another atom. Usually core orbitals, can be some lower valence orbitals as well.
+**Non-bonding AOs** - do not mix w/ any AOs of another atom. Usually core orbitals, can be some lower valence orbitals as well.
 **LUMO** - Lowest Unoccupied Molecular Orbital.
 **HOMO** - Highest Occupied Molecular Orbital.
 
@@ -322,7 +322,7 @@ Here the bond order is 1. There is a bond in $\ce{Li2}$.
 From here it is apparent that $\ce{F2}$ has a bond and will exist as a molecule. The MOs of the molecule can be written down as $\ce{F2}: \sigma_{2s}^2 \space \sigma_{2s}^{*2} \space \sigma_{2p}^2 \space [\pi_{2px}^2 \space \pi_{2py}^2] \space [\pi_{2px}^{*2} \space \pi_{2py}^{*2}]$
 
 ![[molecules/HF-MO.png]]
-Here the molecule is diatomic & polar. $\ce{F} \space 2p_z$ is able to bond /w $\ce{H} \space 1s$. All the other orbitals of $\ce{F}$ ($2s, 2p_x, 2p_y$) are non-bonding - they are too far away from $\ce{H} \space 1s$. Note, the energy difference between $\ce{H} \space 1s$ & $\sigma_{sp}^*$ is the same as between $\ce{F} \space 2p$ & $\sigma_{2p}$.
+Here the molecule is diatomic & polar. $\ce{F} \space 2p_z$ is able to bond w/ $\ce{H} \space 1s$. All the other orbitals of $\ce{F}$ ($2s, 2p_x, 2p_y$) are non-bonding - they are too far away from $\ce{H} \space 1s$. Note, the energy difference between $\ce{H} \space 1s$ & $\sigma_{sp}^*$ is the same as between $\ce{F} \space 2p$ & $\sigma_{2p}$.
 An AO makes a **"larger contribution"** to a MO, if it is closer to a MO than the AO of another atom. Here $\ce{F} \space 2p_z$ makes a larger contribution to $\sigma_{2p}$ than $\ce{H} \space 1s$ and $\ce{H} \space 1s$ makes a larger contribution to $\sigma_{2p}^*$ than $\ce{F} \space 2p_z$.
 
 #### Variants of molecular orbitals

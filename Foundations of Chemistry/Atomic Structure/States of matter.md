@@ -73,13 +73,13 @@ $R$ - [ideal gas constant](Cheat%20Sheet#Constants)
 
 Ideal gas:
 - Perfectly elastic collision - no energy lost during the collision.
-- No intermolecular forces - particles only interact /w the vessel.
+- No intermolecular forces - particles only interact w/ the vessel.
 - Molecules are point masses.
 
 Ideal gas equation:
 $pV = nRT$ / $pV = \frac{m}{M}RT$
 
-| Symbol | Unit                    | Explanation                                   |
+| Symbol | Unit                    | Comment                                   |
 | ------ | ----------------------- | --------------------------------------------- |
 | $p$    | $Pa$                    | Pressure of the ideal gas                     |
 | $V$    | $m^3$                   | Volume of the ideal gas                       |
@@ -175,8 +175,8 @@ Liquids take the shape of the vessel, but do have a defined volume.
 
 Behavior of liquids in tight vessels.
 
-Concave meniscus - liquid prefers to interact /w the vessel material (i.e. $\ce{H2O}$ in glass).
-Convex meniscus - liquid prefers to interact /w itself (i.e. $\ce{H2O}$ in teflon, $\ce{Hg}$ in glass).
+Concave meniscus - liquid prefers to interact w/ the vessel material (i.e. $\ce{H2O}$ in glass).
+Convex meniscus - liquid prefers to interact w/ itself (i.e. $\ce{H2O}$ in teflon, $\ce{Hg}$ in glass).
 
 ![[states-of-matter/capillary.png]]
 
@@ -186,7 +186,7 @@ Thinner capillary → longer meniscus.
 
 Liquids behave differently on surfaces.
 "Wettable" surface → smeared droplet.
-Hydrophobic surface → droplet is a ball (ideally a perfect sphere) to minimize interaction /w the surface.
+Hydrophobic surface → droplet is a ball (ideally a perfect sphere) to minimize interaction w/ the surface.
 
 ![[states-of-matter/surface-tension.png]]
 
@@ -196,7 +196,7 @@ Difficult to explain.
 Depends on the [intermolecular interactions](Intermolecular%20interactions.md) & **energy landscape**.
 
 Energy landscape - how much rearrangement is needed to find a stable state?
-Smaller molecules form stable states more frequently /w less rearrangement → less viscous.
+Smaller molecules form stable states more frequently w/ less rearrangement → less viscous.
 Bigger molecules need more time to find a stable state.
 
 ## Solids
@@ -219,7 +219,7 @@ The difference between the types of crystalline solids is not always clear.
 - Large anions, small cations → structure achieved by optimizing anion packing (*usually*).
 - Brittle - ions repel each other, if displaced.
 
-> RTIL - Room Temperature Ionic Liquid - salts /w melting point below room temperature. Achieved by having big or asymmetric ions.
+> RTIL - Room Temperature Ionic Liquid - salts w/ melting point below room temperature. Achieved by having big or asymmetric ions.
 
 #### Molecular solids
 

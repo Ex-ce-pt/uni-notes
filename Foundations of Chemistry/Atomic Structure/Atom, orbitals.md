@@ -35,7 +35,7 @@ Theory:
 Model by **Rutherford** (1911).
 Studied radiation.
 Put gold foil in the way of $\alpha$ radiation.
-Expected: $\alpha$-particle penetrating /w some dispersion.
+Expected: $\alpha$-particle penetrating w/ some dispersion.
 Observed: random repulsion from the foil.
 Conclusion: the positive charge is very concentrated.
 Discovered the atomic nucleus.
@@ -300,7 +300,7 @@ Defined for an atom at $0 \space K$.
 Electron affinities are smaller than ionization energies.
 
 Generally, $E_a >0$.
-When an orbital is filled /w either lone or paired $e^-$, $E_a < 0$.
+When an orbital is filled w/ either lone or paired $e^-$, $E_a < 0$.
 
 [Periodic trends](Periodic%20trends#Electron%20affinity)
 

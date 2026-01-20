@@ -19,7 +19,7 @@ The solution is then less volatile than the pure solvent & more condensation tak
 **Henry's law**:
 $s = k_H \cdot p$
 
-| Symbol | Unit                             | Explanation                                                                   |
+| Symbol | Unit                             | Comment                                                                   |
 | ------ | -------------------------------- | ----------------------------------------------------------------------------- |
 | $s$    | $mol \cdot l^{-1}$               | Molar solubility of a gas in the solvent                                      |
 | $k_H$  | $mol \cdot l^{-1} \cdot Pa^{-1}$ | Henry's contant; depends on the gas, solvent, and temperature                 |
@@ -72,7 +72,7 @@ Colloids scatter light.
 Solute increases the boiling point a little and lowers the freezing point significantly.
 
 $\Delta T_b = i \cdot k_b \cdot b$
-| Symbol                | Unit                        | Explanation                                       |
+| Symbol                | Unit                        | Comment                                       |
 | --------------------- | --------------------------- | ------------------------------------------------- |
 | $\Delta T_{\text{b}}$ | $K$                         | Boiling point elevation                           |
 | $i$                   | $-$                         | Van't Hoff factor                                 |
@@ -82,7 +82,7 @@ $\Delta T_b = i \cdot k_b \cdot b$
 
 $\Delta T_{\text{f}} = i \cdot k_\text{f} \cdot b$
 
-| Symbol                | Unit                        | Explanation                                        |
+| Symbol                | Unit                        | Comment                                        |
 | --------------------- | --------------------------- | -------------------------------------------------- |
 | $\Delta T_{\text{f}}$ | $K$                         | Freezing point depression                          |
 | $i$                   | $-$                         | Van't Hoff factor                                  |
@@ -110,7 +110,7 @@ Measures now strongly osmosis pulls the solvent in.
 van't Hoff equation:
 $\Pi = iRTc$
 
-| Symbol | Unit               | Explanation                                   |
+| Symbol | Unit               | Comment                                   |
 | ------ | ------------------ | --------------------------------------------- |
 | $\Pi$  | $Pa$               | Osmotic pressure                              |
 | $i$    | $-$                | Van't Hoff factor                             |

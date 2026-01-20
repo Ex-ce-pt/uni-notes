@@ -49,7 +49,7 @@ Low $pK_a$ → stronger acid.
 $\Delta pK_a = pK_a(\text{resulting acid}) - pK_a(\text{reactant acid})$
 If $\Delta pK_a > 10$ → generally irreversible reaction, if $\leq 10$ → equilibrium.
 If $\Delta pK_a > 0$ → equilibrium lies to the right side, if $< 0$ → to the left side **OR**
-The side that has an acid /w higher $pK_a$ is favored.
+The side that has an acid w/ higher $pK_a$ is favored.
 [Further reading](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/02%3A_Polar_Covalent_Bonds_Acids_and_Bases/2.08%3A_Predicting_Acid-Base_Reactions_from_pKa_Values)
 
 ---
@@ -186,7 +186,7 @@ Thus, a lot of compounds have both a conjugated acid and a conjugated base at th
 | $\ce{NH3}$    | $\ce{NH4+}$     | $\ce{NH2-}$      |
 | $\ce{H2PO4-}$ | $\ce{H3PO4}$    | $\ce{HPO4^{2-}}$ |
 
-> In general, when an acid reacts /w a base, the weakest acid & base are formed.
+> In general, when an acid reacts w/ a base, the weakest acid & base are formed.
 > $\ce{HCl + H2O -> H3O+ + Cl-}$
 
 ## pH
@@ -309,7 +309,7 @@ The effects of the both ions need to be considered when assessing the $pH$ of a 
 | --------- | ------------------------------------------ | ---------------------------------------------- |
 | Acidic    | Conjugate acids of weak bases              | $\ce{NH4+, CH3NH3+, ...}$                      |
 | Acidic    | Highly charged metal cations (Lewis acids) | $\ce{Fe^{2+}, Fe^{3+}, Al^{3+}, Cu^{2+}, ...}$ |
-| Neutral   | Group 1, 2 cations + cations /w charge $+$ | $\ce{Na+, Mg^{2+}, Ca^{2+}, Ag+}$              |
+| Neutral   | Group 1, 2 cations + cations w/ charge $+$ | $\ce{Na+, Mg^{2+}, Ca^{2+}, Ag+}$              |
 | Basic     | -                                          | -                                              |
 Some cations are considered neutral because they are large or have too little charge to polarize the $\ce{O-H}$ bond in the surrounding water enough for the $\ce{H}$ to escape.
 
@@ -326,19 +326,19 @@ $\ce{[H2A]} >> K_{a1} \wedge \ce{[H2A]} >> \frac{K_w}{K_{a2}} \Rightarrow pH \ap
 
 #### Acidic oxides
 
-**Acidic oxide** - oxide that reacts /w water to form a solution of Brønsted acid.
+**Acidic oxide** - oxide that reacts w/ water to form a solution of Brønsted acid.
 Oxides of non-metals.
 Molecular compounds.
 Act as Lewis acids.
 
 $\ce{CO2 (g) + H2O (l) \leftrightharpoons H2CO3 (aq)}$
 
-React /w bases/basic oxides in a neutralization reaction:
+React w/ bases/basic oxides in a neutralization reaction:
 $\ce{NaOH (aq) + CO2 (g) -> NaHCO3 (aq)}$
 
 #### Basic oxides
 
-**Basic oxide** - oxide that reacts /w water to form a solution of Brønsted base.
+**Basic oxide** - oxide that reacts w/ water to form a solution of Brønsted base.
 Oxides of metals.
 Ionic compounds.
 Act as Lewis bases.
@@ -348,7 +348,7 @@ $\ce{O^{2-} (aq) + H2O (l) -> 2 OH- (aq)}$
 
 $\ce{Na2O (g) + H2O (l) -> 2 NaOH (aq)}$
 
-React /w acids/acidic oxides in a neutralization reaction:
+React w/ acids/acidic oxides in a neutralization reaction:
 $\ce{Na2O (s) + H2SO4 (aq) -> Na2SO4 (aq) + H2O (l)}$
 
 #### Amphoteric oxides
@@ -368,8 +368,8 @@ Initially:
 - base - soapy feel
 
 Svante Arrhenius's (Swedish) version (1884):
-- acid - compound that reacts /w water to form $\ce{H+}$
-- base - compound that reacts /w water to form $\ce{OH-}$
+- acid - compound that reacts w/ water to form $\ce{H+}$
+- base - compound that reacts w/ water to form $\ce{OH-}$
 
 Ex.
 - $\ce{HCl}$ - Arrhenius acid, $\ce{HCl + H2O -> H+ + Cl- + H2O}$

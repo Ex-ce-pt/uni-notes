@@ -7,7 +7,7 @@ Energy that cannot be used to do work.
 
 $\Delta S = \frac{q_{\text{rev}}}{T}, \space T = \text{const}$
 
-| Symbol           | Unit             | Explanation                                                          |
+| Symbol           | Unit             | Comment                                                          |
 | ---------------- | ---------------- | -------------------------------------------------------------------- |
 | $\Delta S$       | $J \cdot K^{-1}$ | Change in entropy of the system                                      |
 | $q_{\text{rev}}$ | $J$              | The heat the system acquired during an isothermal reversible process |
@@ -22,7 +22,7 @@ Example: if it is asked to calculate entropy for an isothermally freely-expanded
 
 $S = k \cdot ln(W)$
 
-| Symbol | Unit             | Explanation                                                                                                      |
+| Symbol | Unit             | Comment                                                                                                      |
 | ------ | ---------------- | ---------------------------------------------------------------------------------------------------------------- |
 | $S$    | $J \cdot K^{-1}$ | Entropy of the system                                                                                            |
 | $k$    | $J \cdot K^{-1}$ | [Boltzman's constant](Cheat%20sheet#Constants)                                                                   |
@@ -182,8 +182,8 @@ Over small temperature differences, assume $\Delta G$ does not change.
 For an ideal gas: $G_m = G_m \degree + RT \cdot ln(\frac{p}{p \degree}), \space p \degree = 1 \space bar$
 For a liquid: $G_m \approx G_m \degree$
 
-**Thermodynamically stable compound** - compound /w $\Delta G_f \degree < 0$; its elements have a tendency to spontaneously combine into this compound.
-**Thermodynamically unstable compound** - compound /w $\Delta G_f \degree > 0$; it has a tendency to spontaneously decompose.
+**Thermodynamically stable compound** - compound w/ $\Delta G_f \degree < 0$; its elements have a tendency to spontaneously combine into this compound.
+**Thermodynamically unstable compound** - compound w/ $\Delta G_f \degree > 0$; it has a tendency to spontaneously decompose.
 **Nonlabile/inert compound** - compound that does not decompose in practice, despite being thermodynamically unstable.
 **Labile compound** - compound that does decompose.
 

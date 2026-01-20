@@ -30,7 +30,7 @@ $\ce{CH3COOH}$ - proton source.
 
 Buffers are important in environmental science, medicine, and microbiology.
 
-> A lot of approximations can be done when working /w buffers!
+> A lot of approximations can be done when working w/ buffers!
 
 Usually buffers are prepared using equal amounts of acid/base and the salt, because then the amount of proton sinks/sources is the most balanced and the buffer is the most effective.
 **Equimolar solution** - solution of solutes in equal amounts.

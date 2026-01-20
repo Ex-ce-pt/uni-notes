@@ -22,7 +22,7 @@ Between: charged ions.
 Described by the Coulomb's law, acts equally in all directions.
 Scales: $\textcolor{yellow}{E \propto \frac{1}{r}}$ - long-range.
 Strength: strong, $100s \space \frac{kJ}{mol}$.
-Small ions (little atomic radius) /w high charges → strong interactions.
+Small ions (little atomic radius) w/ high charges → strong interactions.
 
 $\ce{Mg^{2+}O^{2-}} > \ce{Li+F-} > \ce{Na+Cl-}$
 

@@ -73,7 +73,7 @@ $G_m(\ce{J}) = G_m \degree (\ce{J}) + RT \cdot ln(a_{\ce{J}})$
 
 #### ICE table
 
-**ICE table** - used to help calculations /w concentration of chemicals in a reaction.
+**ICE table** - used to help calculations w/ concentration of chemicals in a reaction.
 
 Ex.
 $\ce{2 N2 (g) + O2 (g) \leftrightharpoons 2 N2O (g)}, \space K = 3.2 \cdot 10^{-28}$
@@ -124,7 +124,7 @@ After a change in conditions, the equilibrium shifts in the opposite direction.
 | **Always** | + reagents      | + products form                | - reagents      | + reagents form                  |
 | **Always** | + products      | + reagents form                | - products      | + products form                  |
 | **Always** | + temperature   | Endothermic favored            | - temperature   | exothermic favored               |
-| **Gases**  | + pressure      | Side /w lower $n_{\text{gas}}$ | - pressure      | Side /w greater $n_{\text{gas}}$ |
+| **Gases**  | + pressure      | Side w/ lower $n_{\text{gas}}$ | - pressure      | Side w/ greater $n_{\text{gas}}$ |
 
 > Increasing pressure must happen by compression!
 > Increasing temperature by introducing an inert gas does nothing!

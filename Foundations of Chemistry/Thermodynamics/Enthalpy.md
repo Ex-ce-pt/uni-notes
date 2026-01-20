@@ -121,7 +121,7 @@ $$
 
 ## Variation of reaction enthalpy with temperature
 
-The enthalpies of reagents & products increase /w temperature.
+The enthalpies of reagents & products increase w/ temperature.
 The difference between the enthalpies, then, changes accordingly.
 
 ==FIG.: 4D.6
@@ -154,7 +154,7 @@ $\Delta H_{\text{ion}} = E_I + C$
 
 $\ce{X (g) + e^- (g) -> X- (g)}, \space \Delta H_{\text{eg}}$
 
-Very similar numerically to [electron affinity](Atom,%20orbitals#Anions) ($E_a$), but /w an opposite sign.
+Very similar numerically to [electron affinity](Atom,%20orbitals#Anions) ($E_a$), but w/ an opposite sign.
 $\Delta H_{\text{ion}} = -(E_I + C)$
 
 > Both are numerically only a couple $kJ \cdot mol^{-1}$ apart from their corresponding energies.

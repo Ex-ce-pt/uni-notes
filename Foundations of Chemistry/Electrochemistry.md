@@ -78,7 +78,7 @@ Electrodes can be made of the **same metals** that participate in the redox reac
 
 > $\ce{Pt}$ is often used for a **hydrogen electrode** for the reaction $\ce{2 H+ (aq) + 2 e- -> H2 (g)}$.
 
-**Half-cell** - electrode /w the electrolyte in its immediate surroundings.
+**Half-cell** - electrode w/ the electrolyte in its immediate surroundings.
 
 The salt bridge is used because mixing the ions in a single solution could cause disturbances in the cell potential.
 It also makes sure to balance the charge in the half-cells - it would stop the $e^-$ flow.
@@ -106,7 +106,7 @@ Example: $\ce{Zn (s) | Zn^{2+} (aq) || Cu^{2+} (aq) | Cu (s)}$
 $w_e = qE_{\text{cell}} = -neN_AE_{\text{cell}} = -nFE_{\text{cell}}$
 $\Delta G = -nFE_{\text{cell}}, \space \Delta G \degree = -nFE_{\text{cell}} \degree$
 
-| Symbol            | Unit               | Explanation                                    |
+| Symbol            | Unit               | Comment                                    |
 | ----------------- | ------------------ | ---------------------------------------------- |
 | $w_e$             | $J$                | Electrical work; non-expansion work!           |
 | $q$               | $C$                | Charge of the system doing work                |
@@ -132,7 +132,7 @@ $E_{\text{cell}} \degree = E_{\text{cathode}} \degree - E_{\text{anode}} \degree
 > MAKE SURE TO USE THE STANDARD POTENTIALS IN THE EQUATION!!!
 
 **Standard electrode** - electrode the standard potential of a half-cell is measured against.
-Standard electrode: standard hydrogen electrode; $\ce{Pt}$ electrode reacting /w hydrogen.
+Standard electrode: standard hydrogen electrode; $\ce{Pt}$ electrode reacting w/ hydrogen.
 
 $E \degree (\text{half-reaction}) > 0$ - the species in the half-reaction is a stronger oxidant than $\ce{H}$.
 $E \degree (\text{half-reaction}) < 0$ - the species in the half-reaction is a stronger reductant than $\ce{H}$.
@@ -175,7 +175,7 @@ Electrochemical cell for measuring the concentration of ions in the solution.
 
 ==fig.
 
-Both half-cells have the same ions /w the same species being oxidized/reduced.
+Both half-cells have the same ions w/ the same species being oxidized/reduced.
 The concentration of ions in one of the half-cells is known, the concentration in the other half-cell is analyzed.
 The reaction is driven by the difference in concentrations.
 The reaction proceeds until the concentration in both half-cells is equal.
@@ -219,10 +219,10 @@ Usually to effectively form products, **overpotential** is required. At least $0
 
 One must consider that ALL the species in the solution may be oxidized/reduced (even water!).
 The oxidation/reduction half-reaction that required **less potential to reverse** will be preferred.
-- The oxidized form of species /w higher standard potential is preferably reduced. ($max \space E_R$)
-- The reduced form of species /w lower standard potential is preferably oxidized. ($min \space E_L$)
+- The oxidized form of species w/ higher standard potential is preferably reduced. ($max \space E_R$)
+- The reduced form of species w/ lower standard potential is preferably oxidized. ($min \space E_L$)
 
-Combining the oxidation & reduction half-reactions into one electrolytic cell yields a cell /w the highest cell potential out of available options. That makes it easier to reverse the reaction. ($max \space E_{\text{cell}}$)
+Combining the oxidation & reduction half-reactions into one electrolytic cell yields a cell w/ the highest cell potential out of available options. That makes it easier to reverse the reaction. ($max \space E_{\text{cell}}$)
 
 **Faraday's law**:
 The amount of reactant consumed/product formed is proportional to the amount of $e^-$ supplied.
@@ -230,7 +230,7 @@ $\ce{Cu^{2+} (aq) + 2 e^- -> Cu (s)}, \space 2 \space mol \space e^- \leftrighta
 
 $q = nF \Rightarrow n = \frac{q}{F} \Rightarrow n = \frac{It}{F}$
 
-| Symbol     | Unit               | Explanation                                    |
+| Symbol     | Unit               | Comment                                    |
 | ---------- | ------------------ | ---------------------------------------------- |
 | $q$        | $C$                | Total charge of the system doing work          |
 | $n$        | $mol$              | Amount of $e^-$ doing work                     |

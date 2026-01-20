@@ -150,7 +150,7 @@ $\text{At equilibrium: } k_r\ce{[A][B]} = k_r'\ce{[C][D]} \Rightarrow \frac{k_r}
 $k_r = A \cdot e^{-\frac{E_a}{RT}}$
 $ln(k_r) = ln(A) - \frac{E_a}{RT}$
 
-| Symbol | Unit                            | Explanation                                   |
+| Symbol | Unit                            | Comment                                   |
 | ------ | ------------------------------- | --------------------------------------------- |
 | $k_r$  | $M^{-n} \cdot s^{-1}$           | Rate constant of a reaction                   |
 | $A$    | $M^{-n} \cdot s^{-1}$           | Frequency factor (pre-exponential factor)     |
@@ -193,7 +193,7 @@ Assume gases $\ce{A}$ and $\ce{B}$.
 collision density
 $z_{AB} = \sigma \cdot \bar v_{rel} \cdot N_A^2 \ce{[A][B]}$
 
-| Symbol                | Unit                              | Explanation                                                                          |
+| Symbol                | Unit                              | Comment                                                                          |
 | --------------------- | --------------------------------- | ------------------------------------------------------------------------------------ |
 | $z_{\ce{AB}}$         | $m^3 \cdot s^{-1} \cdot mol^{-1}$ | Collision density                                                                    |
 | $\sigma$              | $m^2$                             | Collision area; a plane between 2 molecules passing through their center             |
@@ -238,7 +238,7 @@ $$
 **Heterogeneous catalyst** - catalyst that is not in the same phase as the reactants.
 
 **Chemisorption** - adsorption by covalent bonding to the surface.
-Can fix the molecule in place so it's easier to make bond /w other reactants.
+Can fix the molecule in place so it's easier to make bond w/ other reactants.
 Molecules have a better chance of meeting on a 2D surface than in 3D space.
 
 $\ce{H2C=CH2 (g) + H2 (g) ->[Ni] H3C-CH3 (g)}$

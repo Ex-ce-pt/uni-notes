@@ -17,7 +17,7 @@ $\ce{H2O (l) \rightleftharpoons H2O (g)}, \space \Delta S = 0, \space \Delta G =
 
 > Vapor pressure is, as the name implies, the pressure of the **vapor**. That means that if the system's gas has other substances, the vapor pressure is the **partial pressure of the vapor** only.
 
-Substances /w less/weaker [intermolecular interactions](Intermolecular%20interactions) are more **volatile** & have a higher vapor pressure.
+Substances w/ less/weaker [intermolecular interactions](Intermolecular%20interactions) are more **volatile** & have a higher vapor pressure.
 
 Higher vapor pressure:
 - More volatile;
@@ -69,7 +69,7 @@ At the boiling point, instead of the surroundings pushing on the vapor, the vapo
 **Raoult's law**:
 $p_A = x_A \cdot p_A^*$
 
-| Symbol  | Unit | Explanation                                         |
+| Symbol  | Unit | Comment                                         |
 | ------- | ---- | --------------------------------------------------- |
 | $p_A$   | $Pa$ | Vapor pressure of the substance $A$ in the solution |
 | $x_A$   | $-$  | Molar fraction of the substance $A$ in the solution |
@@ -87,7 +87,7 @@ The total vapor pressure of a solution is the sum of the vapor pressures of the 
 
 Raoult's law predicts that the phase diagram for an ideal solution is a straight line.
 
-Phase diagrams also work /w two-component systems, but they are usually more complicated than this simple one. Pressure is assumed to be constant at $p = 1 \space atm$ for practical purposes.
+Phase diagrams also work w/ two-component systems, but they are usually more complicated than this simple one. Pressure is assumed to be constant at $p = 1 \space atm$ for practical purposes.
 ![[equilibrium/phase-diagrams-binary-example.png]]
 
 **Enthalpy of mixing** ($\Delta H_{\text{mix}}$) - difference in enthalpy between the mixture & pure components.
@@ -107,7 +107,7 @@ Deviations from Raoult's law:
 
 #### Fractional distillation
 
-Method for separating mixtures of liquids /w similar boiling points. Works well /w solutions close to ideal solutions.
+Method for separating mixtures of liquids w/ similar boiling points. Works well w/ solutions close to ideal solutions.
 
 ![[equilibrium/phase-diagrams-binary-fractional-distillation.png]]
 
@@ -120,7 +120,7 @@ In practice, fractional distillation happens as a single process in fractionatin
 
 #### Azeotropes
 
-**Azeotrope** - a mixture, the vapor of which has the same composition as the mixture itself; cannot be separated /w fractional distillation.
+**Azeotrope** - a mixture, the vapor of which has the same composition as the mixture itself; cannot be separated w/ fractional distillation.
 
 Azeotropes are formed by real solutions.
 

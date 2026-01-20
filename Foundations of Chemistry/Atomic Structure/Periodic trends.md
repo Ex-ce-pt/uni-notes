@@ -26,6 +26,6 @@ down → decreases (new shells are further from the nucleus)
 right → increases (less $e^-$ needed to complete the octet)
 down → decreases (easier to remove $e^-$ rather than accept them)
 
-$E_A$ is negative when an orbital is filled /w either lone or paired $e^-$:
+$E_A$ is negative when an orbital is filled w/ either lone or paired $e^-$:
 $\ce{Be, N, Ne, ...}$
 

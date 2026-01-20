@@ -37,9 +37,9 @@ Heat is transferred between objects until equilibrium is reached.
 
 $\text{Universe} = \text{System} \cup \text{Surroundings}$
 
-**Open system** - can exchange both **energy** & **matter** /w the surroundings.
-**Closed system** - can exchange **energy** /w the surroundings but **not matter**.
-**Isolated system** - cannot exchange **neither energy nor matter** /w the surroundings.
+**Open system** - can exchange both **energy** & **matter** w/ the surroundings.
+**Closed system** - can exchange **energy** w/ the surroundings but **not matter**.
+**Isolated system** - cannot exchange **neither energy nor matter** w/ the surroundings.
 
 **Adiabatic walls** - cannot exchange energy (says nothing about the flow of matter).
 **Diathermic walls** - can exchange energy (says nothing about the flow of matter).
@@ -68,7 +68,7 @@ $\text{Universe} = \text{System} \cup \text{Surroundings}$
 
 $w = F \cdot l$
 
-| Symbol | Unit | Explanation                                 |
+| Symbol | Unit | Comment                                 |
 | ------ | ---- | ------------------------------------------- |
 | $w$    | $J$  | Work performed                              |
 | $F$    | $N$  | **Opposing** force counteracting the motion |
@@ -88,7 +88,7 @@ Work - transfer of energy **into** a system.
 
 $w = -p_{\text{ext}} \cdot \Delta V$
 
-| Symbol           | Unit  | Explanation                                  |
+| Symbol           | Unit  | Comment                                  |
 | ---------------- | ----- | -------------------------------------------- |
 | $w$              | $J$   | Expansion work done                          |
 | $p_{\text{ext}}$ | $Pa$  | External pressure **opposing** the expansion |
@@ -155,7 +155,7 @@ Alternative wording: constant volume & no non-expansion work: $\Delta U = q$.
 **Heat capacity** - how much heat the substance can contain.
 $C = \frac{q}{\Delta T}$
 
-| Symbol     | Unit             | Explanation                                         |
+| Symbol     | Unit             | Comment                                         |
 | ---------- | ---------------- | --------------------------------------------------- |
 | $C$        | $J \cdot K^{-1}$ | Heat capacity of the substance                      |
 | $q$        | $J$              | The heat supplied to the substance                  |
