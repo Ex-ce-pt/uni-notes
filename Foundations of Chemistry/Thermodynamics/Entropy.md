@@ -13,7 +13,6 @@ $\Delta S = \frac{q_{\text{rev}}}{T}, \space T = \text{const}$
 | $q_{\text{rev}}$ | $J$              | The heat the system acquired during an isothermal reversible process |
 | $T$              | $K$              | The temperature of the system (the process is isothermal, const)     |
 
-
 > As $T \rightarrow 0, \space S \rightarrow 0$, [the 3rd law of thermodynamics](Thermodynamics#Third%20law%20of%20thermodynamics).
 
 Since temperature is constant, the temperature of the system must only be infinitesimally smaller than that of the surroundings for heat to be transferred.

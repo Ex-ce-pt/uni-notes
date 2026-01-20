@@ -28,6 +28,7 @@ LaTeX editor - https://visualmatheditor.equatheque.net/
 ## Functional groups
 
 ![[OCR_FunctionalGroups.en.png]]
+[Nomenclature summary](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/02%3A_Fundamental_of_Organic_Structures/2.04%3A_IUPAC_Naming_of_Organic_Compounds_with_Functional_Groups)
 
 ## Common benzene derivatives
 
