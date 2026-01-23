@@ -1,19 +1,19 @@
 
 ## Reaction types
 
-Substitution:
+**Substitution:**
 $\ce{Y + R-X -> Y-R + X}$
 
-Addition:
+**Addition:**
 $\ce{R=R' + X-Y -> X-R-R'-Y}$
 
-Elimination:
+**Elimination:**
 $\ce{X-R-R'-Y -> R=R' + X-Y}$
 
-Rearrangement:
+**Rearrangement:**
 $\ce{X-R-R' -> R-R'-X}$
 
-Redox - oxidation numbers change
+**Redox** - oxidation numbers change.
 
 ## Acid-base reactions
 
@@ -24,3 +24,4 @@ Redox - oxidation numbers change
 **Lewis base** - $e^-$-pair donor.
 
 ![[_media/Reaction intermediates/lewis-acid-base-example.png]]
+
