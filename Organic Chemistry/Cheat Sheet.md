@@ -12,6 +12,7 @@ LaTeX editor - https://visualmatheditor.equatheque.net/
 **DCM** - [dicloromethane](#Common%20chemicals), $\ce{CH2Cl2}$ 
 **DMSO** - [dimethyl sulfoxide](#Common%20chemicals), $\ce{(CH3)2S=O}$
 **PBS** - phosphate-buffered saline
+**t-Bu/tBu** - *tert*-butyl group; $\ce{-C(CH3)3}$
 **CAS** - a unique number for a chemical
 
 ## Common chemicals

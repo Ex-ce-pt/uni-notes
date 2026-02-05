@@ -36,9 +36,23 @@
               "icon": "lucide-file",
               "title": "Cheat Sheet"
             }
+          },
+          {
+            "id": "641dc9260422c585",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spectrometry.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spectrometry"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,11 +199,11 @@
       "print:Print note": false
     }
   },
-  "active": "315b8570fcb90288",
+  "active": "641dc9260422c585",
   "lastOpenFiles": [
+    "Cheat Sheet.md",
     "Themes/Theme 1/Drug Development.md",
     "Themes/Theme 1/Medicines of Tomorrow.md",
-    "Cheat Sheet.md",
     "Classification/Acids & Bases.md",
     "Classification/Compounds.md",
     "Classification/Matter & Energy.md",

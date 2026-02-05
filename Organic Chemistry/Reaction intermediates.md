@@ -23,10 +23,12 @@ $\ce{R+}$
 $e^-$-poor intermediates.
 $sp^2$ hybridized, w/ an empty $2p$ orbital.
 
-> If the part of the molecule that has charge cannot easily become $sp^2$ hybridized, the reaction rate slows greatly
+> If the part of the molecule that has charge cannot easily become $sp^2$ hybridized (e.g. in a ring), the reaction rate slows greatly.
 
 More substituted → much more stable.
-$\ce{Me3C+ > Me2CH+ > MeCH2+ > CH3+}$
+$\ce{R3C+ > R2CH+ > RCH2+ > CH3+}$
+
+**Hyperconjugation** - carbon atoms sharing electrons between the filled bonding orbitals & empty $p$ orbitals to delocalize positive charge.
 
 Sometimes stabilized by resonance by distributing charge across multiple carbon atoms.
 ![[_media/Reaction intermediates/carbocation-resonance.png]]
@@ -39,7 +41,7 @@ $e^-$-poor intermediates.
 Unpaired $e^-$.
 
 More substituted → much more stable.
-$\ce{Me3C. > Me2CH. > MeCH2. > CH3.}$
+$\ce{R3C. > R2CH. > RCH2. > CH3.}$
 
 Can also be stabilized by resonance.
 ![[_media/Reaction intermediates/radical-resonance.png]]
@@ -51,4 +53,4 @@ $e^-$-rich intermediates.
 Usually $sp^3$ hybridized, except for when they are stabilized by resonance, then $sp^2$.
 
 The stability order is reversed because the substituted groups would add more $e^-$.\:
-$\ce{CH3:^- > MeCH2:^- > Me2CH:^- > Me3C:^-}$
+$\ce{CH3:^- > RCH2:^- > R2CH:^- > R3C:^-}$

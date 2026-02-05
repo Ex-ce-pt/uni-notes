@@ -58,7 +58,7 @@ Info we get:
 1. [\# of peaks](#Number%20of%20peaks)
 2. [[#Size of peaks]]
 3. [[#Splitting pattern]]
-4. [Peak position/chemical shift)](#Chemical%20shift) ($ppm$)
+4. [Peak position/chemical shift](#Chemical%20shift) ($ppm$)
 
 Graph:
 ![[NMR graph.png]]
