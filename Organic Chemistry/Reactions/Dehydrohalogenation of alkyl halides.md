@@ -1,4 +1,7 @@
 
+**Reagents:**
+- Alkyl halide (NOT allyl halide or aryl halide!)
+
 **Mechanisms:**
 - [E2](Elimination#E2) (can compete w/ [substitution reactions](Nucleophilic%20substitution))
 

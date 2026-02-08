@@ -13,6 +13,8 @@ LaTeX editor - https://visualmatheditor.equatheque.net/
 **DMSO** - [dimethyl sulfoxide](#Common%20chemicals), $\ce{(CH3)2S=O}$
 **PBS** - phosphate-buffered saline
 **t-Bu/tBu** - *tert*-butyl group; $\ce{-C(CH3)3}$
+**Ts** - tosylate, good leaving group
+NBS - ...
 **CAS** - a unique number for a chemical
 
 ## Common chemicals

@@ -12,6 +12,9 @@ Radicals can form using **light** (e.g. halogens), **heat** (e.g. peroxides), or
 ![[_media/Radical reactions/radicals-Cl.-formation.png]]
 ![[_media/Radical reactions/radical-peroxide-formation.png]]
 
+Stability & reactivity of radicals:
+$\text{benzylic} > \text{allylic} > 3 \degree > 2 \degree > 1 \degree > 0 \degree > \text{vynillic}$
+
 ## Reactions
 
 Steps of radical reactions:
@@ -19,13 +22,10 @@ Steps of radical reactions:
 2. **Propagation** - radicals react with molecules, creating products and new radicals.
 3. **Termination (exothermic)** - the leftover radicals react together and stop the reaction.
 
-==CH4 + Cl2
+[[Reactions/Halogenation|Halogenation]]:
+![[_media/Radical reactions/radical-ex-steps.png]]
 
-==halogenation, need hv
-F2 - explosive
-Cl2 - controllable
-Br2 - slow
-I2 - doesn't react
+> Radicals are extremely reactive, so unless there is a large excess of the starting material, the radical can replace any and however many of the hydrogens.
 
 **Hammond postulate:**
 Exothermic reaction - transition resembles the starting material.
