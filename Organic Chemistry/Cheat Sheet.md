@@ -14,7 +14,10 @@ LaTeX editor - https://visualmatheditor.equatheque.net/
 **PBS** - phosphate-buffered saline
 **t-Bu/tBu** - *tert*-butyl group; $\ce{-C(CH3)3}$
 **Ts** - tosylate, good leaving group
+**TMS** - trimethylsilyl group; $\ce{-Si(CH3)3}$
 NBS - ...
+**THF** - trihydrofuran; $\ce{(CH2)4O}$
+**PCC** - pyridinium chlorochromate
 **CAS** - a unique number for a chemical
 
 ## Common chemicals

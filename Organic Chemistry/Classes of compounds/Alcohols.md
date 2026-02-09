@@ -62,6 +62,7 @@ The proton still bonds according to **Markovnikov's rule**.
 **Reagents:**
 - $\ce{Hg(OAc)2}$
 - $\ce{NaBH4}$
+- $\ce{H2O}$ (solvent)
 
 **Requirements:**
 - None
@@ -81,7 +82,7 @@ Assures there is **no rearrangement**.
 - $\ce{OH-}$
 
 **Requirements:**
-- None
+- Preferred solvent - [THF](Cheat%20Sheet#Acronyms)
 
 **Product:** **anti-Markovnikov**
 
@@ -93,12 +94,68 @@ $\ce{B}$ bonds to a less substituted side because it is the least hindered side 
 > All 3 $\ce{H}$ in $\ce{BH3}$ are replaced by the starting molecule.
 > One $\ce{BH3}$ molecule "processes" 3 starting molecules at once.
 
+## Synthesis by Redox
+
+In organic compounds, oxidation is often the **addition of oxygen** atoms and reduction - **addition of hydrogen** atoms.
+
+![[_media/Alcohols/alcohols-redox.png]]
+
+#### Reduction of carbonyls
+
+Reducing agents:
+- $\ce{LiAlH4}$ - **strong** reducing agent, use on **carboxylic acids**. **Use aprotic solvent.**
+- $\ce{NaBH4}$ - **mild** reducing agent; use on **carbonyls**. Any solvent.
+
+> All reductions are followed by an **acidic workup**!
+
+> Reduction releases hydrogen gas! Be cautious of gas evolution!
+
+![[_media/Alcohols/alcohols-from-carbonyls.png]]
+
+> If after reduction a stereocenter is formed, the resulting solution is a **racemic mixture** of the product stereoisomers.
+
+Alkyl halides can also be reduced to alkanes using $\ce{LiAlH4}$ in the same manner as alcohols can be reduced to alkanes.
+
+---
+
+**Mechanisms:**
+
+The reactivity of the carbonyls can be attributed to the fact that the $\ce{C=O}$ bond is polar and the carbon partially positively charged and thus electrophilic.
+
+![[_media/Alcohols/alcohols-carbonyl-reaction-mechanism.png]]
+
+Reduction mechanism:
+![[_media/Alcohols/alcohols-carbonyl-reduction-mechanism.png]]
+
+#### Oxidation
+
+Oxidizing agents:
+- $\ce{CrO3 / H2CrO4 / CrO3 + H2SO4}$ - **strong** oxidizing agents; all the same; alcohol → acid.
+- $\ce{KMnO4}$ - **strong** oxidizing agent; alcohol → acid.
+- $\ce{PCC}$ (pyridinium chlorochromate) - **mild** oxidizing agent; alcohol → carbonyl.
+
+How far can oxidize alcohols:
+- $1 \degree$: alcohol → aldehyde → carboxylic acid
+- $2 \degree$: alcohol → ketone
+- $3 \degree$: **does not oxidize**
+
+```smiles
+C(O)[R].[Cr](=O)(O)(=O)(O)>>C(=O)[R]
+>>C(=O)(O)[R]
+```
+
+Oxidation mechanism:
+![[_media/Alcohols/alcohols-oxidation-CrO3.png]]
+
+PCC formation:
+![[_media/Alcohols/alcohols-PCC-formation.png]]
+
 ## Reactions
 
 #### SN2/E2
 
 Since the oxygen in the $\ce{-OH}$ group has lone $e^-$-pairs, it can act as a nucleophile in [SN2](Nucleophilic%20substitution#SN2) & [E2](Elimination#E2) reactions.
-**Alcoxides** (deprotonated alcohols) are strong nucleophiles.
+**Alkoxides** (deprotonated alcohols) are strong nucleophiles.
 
 Favour [SN2](Nucleophilic%20substitution#SN2): Small substrate + bulky alcohol + lower temperatures.
 Favour [E2](Elimination#E2): Bulky substrate + small alcohol + higher temperatures.
@@ -146,6 +203,8 @@ Can happen w/ carboxylic acids or other acids.
 
 ![[_media/Alcohols/alcohols-alkyl-halides-from-HX.png]]
 
+==peroxides?
+
 #### Primary and secondary alkyl chlorides
 
 **Using $\ce{ZnCl2}$ as a catalyst:**
@@ -190,8 +249,8 @@ Ensures there is **no rearrangement** during the reaction.
 
 ![[_media/Alcohols/alcohols-alkyl-bromides-from-PBr3.png]]
 
-
-==QUESTION: why use this instead of HCl?
+> Tends to be more reliable and faster than [[#Alkyl halides from hydrogen halides]] in this scenario.
+> + no rearrangement!
 
 #### Dehydration
 

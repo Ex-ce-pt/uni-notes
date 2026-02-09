@@ -100,6 +100,35 @@ Nucleophiles are more reactive when they are... (generally, less stable):
 
 ==larger = better?
 
+---
+
+Tosylates, mesylates, and triflates are good leaving groups on oxygens (e.g. alkoxides).
+
+Tosyl group ($\ce{Ts-R}$); alkyl tosylate ($\ce{Ts-OR}$):
+```smiles
+[R]S(=O)(=O)C1=CC=C(C)C=C1
+[R]OS(=O)(=O)C1=CC=C(C)C=C1
+```
+
+Mesyl group ($\ce{Ms-R/Me-SO2-R}$); alkyl mesylate ($\ce{MsOR/MeSO3R}$):
+```smiles
+[R]S(=O)(=O)C
+[R]OS(=O)(=O)C
+```
+
+Trifyl group ($\ce{Tf-R/CF3SO2-R}$); alkyl triflate ($\ce{Tf-OR/CF3SO3R}$):
+```smiles
+[R]S(=O)(=O)C(F)(F)(F)
+[R]OS(=O)(=O)C(F)(F)(F)
+
+```
+
+> The carbon that the oxygen is on **retains the same configuration** it had before the creation of the ester!
+
+Reaction example:
+
+![[_media/Nucleophilic substitution/tosylate-example.png]]
+
 [[https://chem.libretexts.org/Courses/Westminster_College/CHE_261_-_Organic_Chemistry_I/08%3A_Substitution_and_Elimination_Reactions/8.05%3A_Leaving_Groups]]
 
 
