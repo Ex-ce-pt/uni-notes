@@ -30,6 +30,7 @@ Can be **protonated** or **deprotonated**.
 #### Acid-catalyzed hydration
 
 **Reagents:**
+- Alkene
 - $\ce{H2O}$ (solvent)
 
 **Requirements:**
@@ -44,6 +45,7 @@ Follows **Markovnikov's rule**, because a carbocation is formed.
 #### Hydration w/ shift
 
 **Reagents:**
+- Alkene
 - $\ce{H2O}$ (solvent)
 
 **Requirements:**
@@ -60,6 +62,7 @@ The proton still bonds according to **Markovnikov's rule**.
 #### Oxymercuration-demercuration
 
 **Reagents:**
+- Alkene
 - $\ce{Hg(OAc)2}$
 - $\ce{NaBH4}$
 - $\ce{H2O}$ (solvent)
@@ -77,6 +80,7 @@ Assures there is **no rearrangement**.
 #### Hydroboration
 
 **Reagents:**
+- Alkene
 - $\ce{BH3}$
 - $\ce{H2O2}$
 - $\ce{OH-}$
@@ -167,6 +171,20 @@ Ether synthesis via an [SN2](Nucleophilic%20substitution#SN2) reaction.
 ![[_media/Alcohols/alcohols-williamsons-ether-synthesis.png]]
 
 > Choose the reactants carefully! There is a risk of an [E2](Elimination#E2) reaction taking place instead!
+
+#### With metal hydrides
+
+**Reagents:**
+- Alcohol
+- Metal hydride - usually an alkali metal hydride
+
+**Requirements:**
+- None
+
+**Note:** evolution of $\ce{H2}$ gas.
+
+Forms an alkoxide salt.
+![[_media/Alcohols/alcohols-with-hydrides.png]]
 
 #### Esterification
 

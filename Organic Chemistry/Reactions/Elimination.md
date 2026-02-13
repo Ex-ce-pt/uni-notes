@@ -1,4 +1,6 @@
 
+**Elimination:** $\ce{A-B + C -> A + B-C}$
+
 Can compete w/ substitution reactions.
 The more hindered the substrate, the more elimination takes place.
 

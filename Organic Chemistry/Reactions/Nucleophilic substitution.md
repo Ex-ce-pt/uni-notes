@@ -1,4 +1,6 @@
 
+**Substitution:** $\ce{A-B + C-D -> A-D + C-B}$
+
 Need a good **leaving group** to stabilize the negative charge.
 Need an $e^-$-rich atom to donate an $e^-$-pair and form a bond - **nucleophile**.
 

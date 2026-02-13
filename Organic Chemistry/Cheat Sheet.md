@@ -6,6 +6,7 @@ Molecular structure 3D viewer - https://molview.org/ (https://app.molview.com/)
 Interactive lab environment - https://chemix.org/
 Biology lessons/newsletter - https://explorebiology.org
 LaTeX editor - https://visualmatheditor.equatheque.net/
+OrganicChemistryTutor - https://www.organicchemistrytutor.com
 
 ## Acronyms
 
@@ -18,6 +19,7 @@ LaTeX editor - https://visualmatheditor.equatheque.net/
 NBS - ...
 **THF** - trihydrofuran; $\ce{(CH2)4O}$
 **PCC** - pyridinium chlorochromate
+**MCPBA** - m-chloro-perbenzoic acid
 **CAS** - a unique number for a chemical
 
 ## Common chemicals

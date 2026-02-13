@@ -65,3 +65,12 @@ diastereomers have slightly different physical properties
 Racemic mixture - mixture of equal amounts of R and S enantiomers.
 
 meso compounds - not optically active, have an inner symmetry plane.
+
+
+> single molecule having equal quantities of both R and S stereocenter does not cancel the polarization out in the general case!
+
+different groups attached to the stereocenters cause a different degree of polarization
+
+inner planar symmery - meso
+no symmetry - optically active
+
