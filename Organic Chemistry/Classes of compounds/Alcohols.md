@@ -29,6 +29,8 @@ Can be **protonated** or **deprotonated**.
 
 #### Acid-catalyzed hydration
 
+At equilibrium with the [[#Dehydration]] reaction.
+
 **Reagents:**
 - Alkene
 - $\ce{H2O}$ (solvent)
@@ -39,6 +41,7 @@ Can be **protonated** or **deprotonated**.
 **Product:** **racemic mixture**
 
 Follows **Markovnikov's rule**, because a carbocation is formed.
+Best with: dilute acid (higher water concentration); lower temperature.
 
 ![[_media/Alcohols/alcohols-from-alkenes-hydration.png]]
 
@@ -90,7 +93,7 @@ Assures there is **no rearrangement**.
 
 **Product:** **anti-Markovnikov**
 
-Cis/syn addition - both $\ce{-H}$ and $\ce{-OH}$ attach on the same side of the molecule, but it's still a racemic mixture.
+Cis/syn addition - both $\ce{-H}$ and $\ce{-OH}$ attach on the same side of the molecule, but it's still a **racemic mixture**.
 $\ce{B}$ bonds to a less substituted side because it is the least hindered side → **anti-Markovnikov addition**.
 
 ![[_media/Alcohols/alcohols-hydroboration.png]]
@@ -195,7 +198,7 @@ Forms an alkoxide salt.
 **Requirements:**
 - Acid catalyst ($\ce{H+}$)
 
-Can happen w/ carboxylic acids or other acids.
+Can happen w/ both carboxylic acids or other acids.
 
 ![[_media/Alcohols/alcohols-esterification.png]]
 
@@ -211,6 +214,8 @@ Can happen w/ carboxylic acids or other acids.
 ![[_media/Alcohols/alcohols-t-butyl-enther-from-isobutene.png]]
 
 #### Alkyl halides from hydrogen halides
+
+Similar to [[Addition#Hydrohalogenation]]
 
 **Reagents:**
 - Alcohol
@@ -272,6 +277,8 @@ Ensures there is **no rearrangement** during the reaction.
 
 #### Dehydration
 
+At equilibrium with the [[#Acid-catalyzed hydration]] reaction.
+
 **Reagents:**
 - Alcohol (solution)
 
@@ -284,6 +291,8 @@ Ensures there is **no rearrangement** during the reaction.
 - $2 \degree / 3 \degree$ → [E1](Elimination#E1) or rearrangement
 
 **Ease:** $1 \degree < 2 \degree < 3 \degree$
+
+Best with: concentrated acid (less water content); higher temperature.
 
 **Ex. 1:**
 ![[_media/Alcohols/alcohols-dehydration-1.png]]
