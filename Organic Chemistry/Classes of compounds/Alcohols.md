@@ -73,7 +73,7 @@ The proton still bonds according to **Markovnikov's rule**.
 **Requirements:**
 - None
 
-**Product:** alcohol (no rearrangement)
+**Product:** alcohol **(no rearrangement)**
 
 Follows **Markovnikov's rule**.
 Assures there is **no rearrangement**.
@@ -141,7 +141,7 @@ Oxidizing agents:
 - $\ce{KMnO4}$ - **strong** oxidizing agent; alcohol → acid.
 - $\ce{PCC}$ (pyridinium chlorochromate) - **mild** oxidizing agent; alcohol → carbonyl.
 
-How far can oxidize alcohols:
+How far alcohols oxidize:
 - $1 \degree$: alcohol → aldehyde → carboxylic acid
 - $2 \degree$: alcohol → ketone
 - $3 \degree$: **does not oxidize**
@@ -174,6 +174,8 @@ Ether synthesis via an [SN2](Nucleophilic%20substitution#SN2) reaction.
 ![[_media/Alcohols/alcohols-williamsons-ether-synthesis.png]]
 
 > Choose the reactants carefully! There is a risk of an [E2](Elimination#E2) reaction taking place instead!
+
+==TODO: add the normal ether synthesis as well
 
 #### With metal hydrides
 

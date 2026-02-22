@@ -11,11 +11,16 @@ Rules for drawing resonance structures:
 4. All structures must have the same \# of unpaired $e^-$.
 5. All atoms participating in resonance must have parallel $p$ orbitals. They should be planar.
 6. The energy of the real system is lower than the energy of any single resonance structures on their own. The real superimposed structure is more stable.
-7. If the resonance structures are equivalent, they contribute to the real structure to the same extent. See $\ce{CO3^{2-}}$
+7. If the resonance structures are equivalent, they contribute to the real structure to the same extent. See $\ce{CO3^{2-}}$.
 8. The more stable the resonance structure is, the more it contributes;
 	1. More covalent bonds → more stable (even w/ charge).
 	2. Charges more separated → less stable.
 	3. Negative charge on a more $e^-$-neg. atom → more stable.
+
+Relative stability of resonance structures:
+- More covalent bonds → more stable
+- More atoms fulfil the octet rule → more stable
+- More charge separation → less stable
 
 ## Pi systems
 
@@ -31,19 +36,21 @@ MO Theory is crucial for understanding conjugation.
 
 ## Conjugation
 
-Conjugation happens when there is at least carbon atom w/ a $p$ orbital next to a $\pi$ bond.
+Conjugation happens when there is at least one carbon atom w/ a $p$ orbital next to a $\pi$ bond.
 In practice, this means alternating single-multiple bonds.
 
 Example: **butadiene**
 
 ![[_media/Conjugated and unsaturated systems/canjutation-butadiene-pi-system.png]]
 
+Rule from MO theory: the atomic orbitals ($p$ orbitals in this topic) merge to form an equal \# of molecular orbitals.
+
 Besides the double bonds themselves, the carbons 2 & 3 also have the overlap in their $p$ orbitals, allowing for additional $e^-$ sharing and thus resonance.
 
 > Conjugation only happens, if all the atoms involved are in the **same plane**.
 > The entire system **must be planar**.
 
-The single bond in butadiene are also shorter:
+The single bond in butadiene is also shorter:
 $\ce{C=C} \text{ (no change)}: 1.34 \space \text{Å}$
 $\ce{C-C} \text{ (butadiene)}: 1.47  \space \text{Å}$
 $\ce{C-C} \text{ (normally)} \space\space : 1.54  \space \text{Å}$
@@ -71,6 +78,16 @@ The proportions of the formed products depend on the temperature:
 
 **Pericyclic reaction** - concerted reaction, where there are more rings in the transition state than in the reactants.
 
-A way to form cyclic compounds from alkenes.
+A way to form cyclic compounds from **conjugated dienes** & **alkenes**.
 
-==TODO: explain the reaction mechanism
+Syn addition; the configuration of the dienophile is retained.
+During the course of the reaction, the dienophile approaches the diene from either above or below the $\pi$ system. This leads to the formation of stereoisomers.
+The diene must be in the s-cis conformation (the 2 double bonds face the double bond of the dienophile).
+
+![[_media/Conjugated and unsaturated systems/conjugation-diels-alder.png]]
+
+Favoured by:
+- $e^-$-releasing groups in the diene
+- $e^-$-withdrawing groups in the dienophile (alkene)
+- High temperature & pressure
+- (Lewis) Acid catalyst

@@ -8,6 +8,14 @@ This makes them good polar aprotic solvents for reactions in basic conditions.
 
 Most ethers can form peroxides over time in a [radical reaction](Radical%20reactions) w/ oxygen.
 
+==TODO: add synthesis
+
+## Synthesis
+
+#### Williamson ether synthesis
+
+See [[Alcohols#Williamsons ether synthesis]]
+
 ## Protection of hydroxyl groups
 
 Hydroxyl groups in [[Classes of compounds/Alcohols|Alcohols]] can react in acid-base reactions or other reactions.
@@ -35,13 +43,13 @@ React w/ both acids and bases because of the large ring strain.
 
 Usually, a weak nucleophile is used (e.g. the solvent $\ce{H2O, CH3OH, ...}$)
 The epoxide is first protonated, which creates a partial carbocation on a **more substituted carbon**, then the nucleophile attacks the carbon from the backside.
-The reaction can also be considered to be somewhat an [SN2](Nucleophilic%20substitution#SN2) reaction, which explains it.
+The reaction can also be considered to be somewhat an [SN2](Nucleophilic%20substitution#SN2) reaction, which explains its mechanism.
 
 ![[_media/Ethers and epoxides/ethers-acid-catalyzed-ring-opening.png]]
 
 #### Base-catalyzed ring opening
 
-Only happens in epoxides.
+Only happens in epoxides (out of ethers).
 
 Usually, a strong nucleophile is used (commonly an alkoxide).
 The nucleophile attacks a **less substituted carbon**.
@@ -58,7 +66,7 @@ Epoxides can form polyethers when reacting w/ an alkoxide & a small amount of al
 #### Epoxidation
 
 Turning an **alkene** into an **epoxide** using a **peracid** (peroxide carboxylic acid).
-Usually, **m-chloro-perbenzoic acid** (MCPBA) is used.
+Usually, **m-chloro-perbenzoic acid** (mCPBA) is used.
 
 MCPBA:
 ```smiles
