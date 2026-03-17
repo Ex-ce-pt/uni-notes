@@ -40,6 +40,7 @@ if this carbocation happens to be $2 \degree$ and there is a methyl group on a n
 **Ex. ([dehydration of an alcohol](Dehydration%20of%20alcohols)):**
 ![[_media/Elimination/methanide-shift-ex.png]]
 
+==! in this reaction, actually, a hydride shift will take place. HYDRIDE SHIFT IS PREFERED TO METHANIDE SHIFT!
 
 ## E2
 
@@ -55,7 +56,7 @@ Needs a **strong base**, but preferably **not a strong nucleophile**.
 
 Since to create a $\pi$-bond, a proper overlap between the orbitals is needed, all 5 atoms ($\ce{H-C-C-X}$+ base) must be coplanar.
 **Anti-coplanar/antiperiplanar manner** - the hydrogen & leaving group are anti to each other; preferred configuration.
-**Syn-coplanar** - the hydrogen & leaving group are eclipsing each other; not favored, some rigid molecules have no other option.
+**Syn-coplanar** - the hydrogen & leaving group are eclipsing each other; not favored, but some rigid molecules have no other option.
 
 The importance of the anti orientation:
 ![[_media/Elimination/E2-anti-importance.png]]

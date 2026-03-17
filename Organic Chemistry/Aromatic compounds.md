@@ -23,12 +23,12 @@ Criteria:
 **Hückel's rule:**
 Stable conjugated cyclic systems have $(4n+2) \space e^-$.
 
-| Compound                    | Structure                                                             | $\pi \space e^-$ | Aromatic? |
-| --------------------------- | --------------------------------------------------------------------- | ---------------- | --------- |
-| cyclobutadiene              | ![[_media/Aromatic compounds/aromatic-cyclobutadiene.png]]            | 4                | ✗         |
-| "cyclohexatriene" (benzene) | ![[_media/Aromatic compounds/aromatics-cyclohexatriene.png]]          | 6                | ✓         |
-| cyclooctatetraene           | ![[_media/Aromatic compounds/aromatics-cyclooctatetraene.png]]        | 8                | ✗         |
-| cyclooctatetraenyl anion    | ![[_media/Aromatic compounds/aromatics-cyclooctatetraenyl-anion.png]] | 10               | ✓         |
+| Compound                    | Structure                                                             | $\pi \space e^-$ | Aromatic? |     |
+| --------------------------- | --------------------------------------------------------------------- | ---------------- | --------- | --- |
+| cyclobutadiene              | ![[_media/Aromatic compounds/aromatic-cyclobutadiene.png\|114]]       | 4                | ✗         |     |
+| "cyclohexatriene" (benzene) | ![[_media/Aromatic compounds/aromatics-cyclohexatriene.png]]          | 6                | ✓         |     |
+| cyclooctatetraene           | ![[_media/Aromatic compounds/aromatics-cyclooctatetraene.png]]        | 8                | ✗         |     |
+| cyclooctatetraenyl anion    | ![[_media/Aromatic compounds/aromatics-cyclooctatetraenyl-anion.png]] | 10               | ✓         |     |
 
 In cyclopentadiene, for example, the hydrogens on the $sp^3$ hybridized carbon are acidic, because donating a proton would leave cyclopentadiene with a lone $e^-$ pair, making it follow Hückel's rule.
 
@@ -134,7 +134,7 @@ Reagents:
 Requirements:
 - Acid catalyst (covered by $\ce{H2SO4}$)
 
-It is an equilibrium reaction.
+It is an equilibrium reaction. The $\ce{SO3H}$ group can be used to block certain positions.
 Sulfonation → concentrated sulfuric acid.
 Desulfonation → dilute sulfuric acid.
 

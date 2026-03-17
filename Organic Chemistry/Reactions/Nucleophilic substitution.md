@@ -30,16 +30,16 @@ Happens in multiple steps:
 2. Nucleophile bonded - its group is positively charged.
 3. A group leaves the nucleophile group relieving it of the positive charge.
 
-Usually between bulky alkylhalides (e.g. tertiary carbocations) & weak nucleophiles.
+Usually between bulky alkyl halides (e.g. $3 \degree$ carbocations) & weak nucleophiles.
 Moderate temperatures (room temperature).
-Competes w/ E1 reactions.
+Competes w/ [E1](Elimination#E1) reactions.
 
 ![[_media/Nucleophilic substitution/SN1-example.png]]
 
 **Rate**: $k_r \ce{[\text{substrate}]}$
 **Products in stereochemistry**: **racemic mixture** of the stereoisomers.
 
-> Carbocations are $sp^2$ hybridized, thus planar, which means that the nucleophile can attack the positively charged carbon from either side with similar likelihood. This is the reason a racemic mixture is formed.
+> Carbocations are $sp^2$ hybridized, thus planar, which means that the nucleophile can attack the positively charged carbon from either side with a similar likelihood. This is the reason a racemic mixture is formed.
 
 **Reactivity of carbocations**: $0 \degree (\text{methane}) < 1 \degree < 2 \degree < 3 \degree$
 
@@ -74,8 +74,6 @@ The mechanism of the reaction can be shown with a transition state:
 
 **Reactivity of carbocations**: $0 \degree (\text{methane}) > 1 \degree > 2 \degree > 3 \degree (\text{unreactive})$
 
-==Q: if tertiary cations are unreactive, why do we care about configuration?
-
 >In tertiary carbocation it's hard for the nucleophile to access the carbon, since it has to approach from the opposite direction.
 >**Steric hindrance** - when the spatial arrangement of groups slows or stops the reaction.
 
@@ -95,12 +93,8 @@ Usually this means protonating an alcohol.
 Nucleophiles are more reactive when they are... (generally, less stable):
 1. Negatively charged: $\ce{OH-} > \ce{H2O}; \space \ce{RO-} > \ce{ROH}$
 2. More basic: $\ce{RO-} > \ce{OH-} > \ce{RCO2-} > \ce{ROH} > \ce{H2O}$
-3. In the same row of the periodic table, more electronegative: $\ce{R3C-} > \ce{R2N-} > \ce{RO-} > \ce{F-}$
+3. In the same row of the periodic table, less electronegative: $\ce{R3C-} > \ce{R2N-} > \ce{RO-} > \ce{F-}$
 4. In the same group, more downwards: $\ce{I-} > \ce{Br-} > \ce{Cl-} > \ce{F-} ; \space \ce{RS-} > \ce{RO-}$
-
-==NOTE: how is I- a better nucleophile than Cl-?
-
-==larger = better?
 
 ---
 

@@ -60,7 +60,7 @@ The 2nd step is [SN2](Nucleophilic%20substitution#SN2)-like.
 **Reagents:**
 - Alkene (useful, if cyclic) / Alkyne
 - $\ce{O3}$
-- $\ce{Zn/AcOH}$
+- $\ce{Zn/AcOH/Me2S}$
 
 **Requirements:**
 - None
@@ -85,7 +85,7 @@ For trans-, see: [[Ethers and epoxides#Anti dihydroxylation]]
 - $\ce{H2O}$
 
 **Requirements:**
-- None
+- Basic workup afterwards - $\ce{NaHSO3/Me2S}$
 
 **Products:** cis-adduct of 2 hydroxyl groups.
 
