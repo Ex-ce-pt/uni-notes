@@ -64,8 +64,11 @@ diastereomers have slightly different physical properties
 
 Racemic mixture - mixture of equal amounts of R and S enantiomers.
 
+racemic mixture - no net rotation of polarized light (the light likely hits the same amount of one isomer as the other)
+
 meso compounds - not optically active, have an inner symmetry plane.
 
+> no correlation between R and S and polarization!
 
 > single molecule having equal quantities of both R and S stereocenter does not cancel the polarization out in the general case!
 
