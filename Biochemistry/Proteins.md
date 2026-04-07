@@ -19,8 +19,8 @@ Comparing proteins to known ones can help predict its function.
 > Useful proteins are passed down.
 
 **Homologs** - similar function, common ancestor.
-**Paralogs** - same function, same species.
-**Orthologs** - same function, different species.
+	**Paralogs** - similar function, same species.
+	**Orthologs** - similar function, different species.
 
 Comparing the sequence of multiple homologous proteins allows building the tree of life.
 
@@ -29,6 +29,9 @@ Comparing the sequence of multiple homologous proteins allows building the tree 
 The carboxylic group of one of the amino acids binds to the amino group of another.
 Amido group (aka. peptide bond) is created.
 
+**Oligopeptide** - several AAs joined together by peptide bonds.
+**Polypeptide** - many AAs joined together by peptide bonds.
+
 **N-terminus** - the amino end of protein; the start of a protein.
 **C-terminus** - carboxylate end of protein; the end of a protein.
 
@@ -36,7 +39,9 @@ Proteins are written **N-to-C**.
 
 The sequence of the synthesised protein is determined at translation.
 
-==TODO: synthesis
+![[peptide-synthesis.png]]
+
+> Since the amino acids in question are $\alpha$ amino acids, the skeleton of the protein takes the form of a chain of $\ce{-N-C-C-O -}$ segments (**amino acid residues**).
 
 ## Structures
 
@@ -60,17 +65,31 @@ Structures:
 - **Tertiary** - 3D configuration of the polypeptide
 - **Quaternary** - different polypeptides form one protein
 
-==NOTE: psi and phi angles
+#### Peptide bond geometry
 
-not all psi and phi combinations are possible - steric hindrance
+Peptide bond experiences resonance:
+![[peptide-bond-resonance.png]]
+
+Because of the double bond character, the bond cannot rotate.
+All 6 atoms must be **in a single plane**. ($\ce{C} \alpha$ are endpoints, they belong to 2 planes at once)
+$\ce{H}$ bonded to $\ce{N}$ must be anti to $\ce{O}$.
+Charge: $\ce{O} - \delta -, \space \ce{N} - \delta +$.
+
+$\ce{C \alpha \space - N}$ bond → $\phi$ bond.
+$\ce{C \alpha \space - C}$ bond → $\psi$ bond.
+
+
+
+Not all $\phi$ and $\psi$ combinations are possible - steric hindrance.
 
 **Ramachandran plot** - $\psi$ over $\phi$ angle plot showing which combinations are possible.
 
-rare left-handed helices
-right handed helices
-majority flat sheets
+General trends:
+- Rare left-handed helices
+- Right-handed helices
+- Majority flat sheets
 
-==Glycene everywhere because of how small it is
+> **Gly** is everywhere on the plot because of how small it is.
 
 #### Alpha helix
 

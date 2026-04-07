@@ -1,9 +1,9 @@
 
 3 domains of life:
-- Prokaryotes - no nucleus:
-	- Bacteria - in soil, water, tissues, etc.
-	- Archaea - unicellular, live in extreme environments.
-- Eukarya:
+- **Prokaryotes** - no nucleus:
+	- **Bacteria** - in soil, water, tissues, etc.
+	- **Archaea** - unicellular, live in extreme environments.
+- **Eukarya**:
 	- Plants, animals, fungi, etc.
 
 
@@ -37,7 +37,7 @@ Made of:
 #### Cytoplasm
 
 The internal volume of a cell.
-Enclosed by the plasma membrane.
+Enclosed by the [plasma membrane](#Plasma%20membrane).
 
 #### Cytoskeleton
 
@@ -60,10 +60,10 @@ Synthesise proteins (**translation**).
 Only in eukarya.
 
 Oxidizes fuels, generates ATP.
-**Matrix** - the inside of a mitochondrion.
 Has own DNA and ribosomes.
 Has **2** membranes.
 Similar to proteobacteria.
+**Matrix** - the inside of a mitochondrion.
 
 **Endosymbiont hypothesis** - mitochondria used to be bacteria that fused with eukaryotic cells.
 Same thing is thought to have happened with **chloroplasts** in plants.
@@ -78,7 +78,7 @@ Metabolises drugs.
 
 Prepares and targets packets of chemicals to other organelles or outside.
 
-==TODO: name of a packet
+**Vesicle** - packet of chemicals created by the Golgi complex; similar to micelles.
 
 #### Lysosome
 

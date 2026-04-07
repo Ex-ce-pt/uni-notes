@@ -3,16 +3,7 @@ Reoccurring theme - monomers connecting into macromolecules (DNA, proteins).
 
 #### Proteins
 
-(proteins)
-
-Tasks:
-- **Enzymes** - catalysts for intracellular processes.
-- Structural elements.
-- Signal transducers and receptors.
-- Transporters in cell membranes.
-
-Form complex 3D structures.
-Long polymers of amino acids.
+[[Proteins]]
 
 #### Lipids
 
