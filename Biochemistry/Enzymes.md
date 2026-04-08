@@ -13,6 +13,8 @@ Mostly historical naming is used.
 Many enzymes require **cofactors** - metal ions/small organic molecules.
 **Coenzymes** - cofactors that are small organic molecules.
 
+**Prosthetic group** - cofactor that is covalently bound to an enzyme.
+
 ## Thermodynamics
 
 $\ce{A + B \rightleftharpoons C + D},  \space \Delta G$
@@ -39,12 +41,50 @@ That allows for tighter bond and higher specificity.
 
 ## Kinetics
 
-Michaelis-Menten kinetics is the core
+Michaelis-Menten kinetics is the core.
 
-==TODO: write down the math
+![[enzyme-reaction.png]]
 
-==Lineweaver-Burk
+Needs a couple assumptions:
+1. **Ignoring the reverse reaction**
+	Assume that the reaction of $\ce{P -> S}$ almost does not happen and can be ignored for simplicity.
+2. **Steady State Assumption**
+	The rate of formation of $\ce{ES}$ is equal to the rate of its breakdown; no weird situations when $\ce{ES}$ suddenly runs out or skyrockets.
+	$\text{Rate of formation: } k_1(\ce{[E]_0} - \ce{[ES]})\ce{[S]}$
+	$\text{Rate of breakdown: } k_{-1}\ce{[ES]} + k_2\ce{[ES]}$
+3. **Constant enzyme concentration**
+		The "constants" discussed are only constants when the concentration of the enzyme stays constant as well.
 
+$$
+\begin{flalign}
+&\textcolor{grey}{\text{Begin with the Steady State Assumption: }} \\
+&\textcolor{grey}{k_1(\ce{[E]_0} - \ce{[ES]})\ce{[S]} = k_{-1}\ce{[ES]} + k_2\ce{[ES]}} \\
+&\textcolor{grey}{\text{Solve for } \ce{[ES]} \text{ and eventually arrive to:}} \\
+&\textcolor{grey}{\ce{[ES]} = \frac{\ce{[E]_0[S]}}{\ce{[S]} + (k_{-1} + k_2)/k_1}} \\
+&\textcolor{grey}{\text{Michaelis constant: } K_M = \frac{k_{-1} + k_2}{k_1}} \\
+&\textcolor{grey}{\ce{[ES]} = \frac{\ce{[E]_0[S]}}{\ce{[S]} + K_M}} \\
+&\textcolor{grey}{k_2\ce{[ES]} = \frac{k_2\ce{[E]_0[S]}}{\ce{[S]} + K_M}} \\
+&\textcolor{grey}{\text{@ full saturation, } \ce{[E]_0} = \ce{[ES]}, \space v_0 = k_2\ce{[ES]}, \space v_{\text{max}} = k_2\ce{[ES]}} \\
+&v_0 = \frac{v_{\text{max}}\ce{[S]}}{K_M +\ce{[S]}}
+&\end{flalign}
+$$
+
+$k_{\text{cat}} = k_2$ - "turnover number"; fraction of the substrate converted per second.
+$v_0 = k_{\text{cat}} \ce{[ES]}$
+$v_{\text{max}} = k_{\text{cat}} \ce{[E]_0}$ @ full saturation; all enzyme molecules bound the substrate molecules.
+$K_M = \ce{[S]}$ when $v_0 = v_{\text{max}}$
+
+$K_M$ - measure of substrate affinity to the enzyme molecules.
+$\frac{k_{\text{cat}}}{K_M}$ - measure of catalytic efficiency; allows to compare the enzymes between each other.
+
+How it's done:
+1. Measure $\ce{[P]}$ (usually in some roundabout way, like measuring the absorptivity of light), plot against time. Constant $\ce{[E]_0}$, vary $\ce{[S]}$. Find the initial reaction rates ($v_0$).
+	Plot:
+	==TODO: plot
+2. Plot $v_0$ against $\ce{[S]}$. See the data points approaching a limit - $v_{\text{max}}$.
+	==TODO: plot
+3. Plot $1/v_0$ against $1/\ce{[S]}$. **Lineweaver-Burk plot**. The intersection points tell you the kinetic parameters
+	==TODO: plot
 
 ## Inhibition
 
