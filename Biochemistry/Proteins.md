@@ -53,17 +53,15 @@ Folding is driven by weak interactions:
 - Van der Waals interactions
 
 Folding is thermodynamically favourable: $\Delta G = \Delta H - T \Delta S$
-- $\Delta H < 0$ - whatever attracts is closer together
-- $\Delta S(\text{protein}) < 0$ - limits the configuration of the protein
-- $\Delta S(\text{water}) > 0$ - water molecules are more free to move wherever they want
-
-==Q: how does it increase the entropy of water, exactly?
+- $\Delta H < 0$ - whatever attracts is closer together.
+- $\Delta S(\text{protein}) < 0$ - limits the configuration of the protein (works against folding).
+- $\Delta S(\text{water}) > 0$ - less water molecules are needed to surround the hydrophobic chains, more molecules can chaotically disperse.
 
 Structures:
-- **Primary** - linear amino acid sequence
+- **Primary** - linear amino acid sequence.
 - **Secondary** - linear chain folded, twisted, in helices, etc.
-- **Tertiary** - 3D configuration of the polypeptide
-- **Quaternary** - different polypeptides form one protein
+- **Tertiary** - 3D configuration of the polypeptide.
+- **Quaternary** - different polypeptides form one protein.
 
 #### Peptide bond geometry
 
@@ -93,36 +91,52 @@ General trends:
 
 #### Alpha helix
 
-Stabilized by the $\ce{H}$ bonds between the $\ce{C=O}$ in amido group and the $\ce{N-H}$ of amino group 3-4 AAs down the helix.
-~$3.6$ AAs per turn.
+Stabilized by the $\ce{H}$ bonds between the $\ce{C=O}$ of a peptide bond and the $\ce{N-H}$ of a peptide bond 3-4 AAs down the helix.
 Side chains point out of the helix.
-**Length**: $10-20$ AAs.
+**Length**: $10-20$ AAs
+**Period**: ~$3.6$ AAs/turn, ~$5.4 \space \text{Å}$/turn
 Most are right-handed, depends on the AAs used.
 $(-)$-charged AAs towards the N-terminus and $(+)$-charged towards C-terminus.
 Has a dipole moment.
 
-**Alanine** - good helix former.
-**Proline** - helix breaker (because of a very rigid structure).
+Most interactions are between the $\ce{R}$ groups of the AAs $3$ apart, so these are crucial for stability:
+- Charged - stable, if the charge is opposite; unstable, if same.
+- Aromatic - stable, if both stable; not as stable, if only one is aromatic.
+- Bulky - stable, if every AA gets enough space; unstable, if steric hindrance.
 
-==TODO: fig
+**Ala** & **Leu** - good helix formers.
+**Pro** - helix breaker (because of a very rigid structure + it has no $\ce{H}$s in peptides).
+**Gly** - helix breaker (because it's achiral and has more flexibility).
+
+![[alpha-helix.png]]
+
+> The helix might look hollow, but the atoms in real life are actually very tightly packed.
 
 #### Beta sheets
 
+**$\beta$ strand** - one single zigzag strand.
+**$\beta$ sheet** - multiple strands together.
+
+Zigzag main chain pattern.
 Stabilized by $\ce{H}$ bonds with other sheets - never occur alone!
-
-**Length**: $<15$ AAs.
-**Parallel** - both go N-to-C; $\ce{H}$ bonds are diagonal.
-**Antiparallel** - one goes N-to-C, another C-to-N; $\ce{H}$ bonds perpendicular to the sheets.
-**Beta turn** - at least 4 AAs, often glycine and proline.
-
+The $\ce{H}$ bonds are between the edges of the sheets, the $\ce{R}$ groups point up and down (alternating).
 No dipole moment.
 
-==TODO: Gly for sure?
+**Length**: $<15$ AAs
+**Period**: $6.5 \space \text{Å}$ (parallel); $7 \space \text{Å}$ (antiparallel)
+**Parallel** - both go N-to-C; $\ce{H}$ bonds are diagonal.
+**Antiparallel** - one goes N-to-C, another C-to-N; $\ce{H}$ bonds perpendicular to the sheets.
 
-**Glycine** - common in turns, small and bendy.
-**Proline** - sheet breaker, **but sometimes is absent**.
+**Gly** - common in turns, small and bendy.
+**Pro** - sheet breaker, **but sometimes is absent**.
 
-==TODO: fig
+![[beta-sheets.png]]
+
+**$\beta$ turn** - $180 \degree$ turn; at least 4 AAs, often Gly (small & flexible) and Pro (readily assumes the cis conformation).
+1st and 4th AA are bound by a $\ce{H}$ bond, the central AAs do not participate.
+
+![[beta-turns.png]]
+
 
 #### Fibrous proteins (secondary)
 
@@ -157,6 +171,7 @@ Can be important regions to interact with other proteins, then they take an orde
 2 or more polypeptides (each in tertiary structure).
 
 ---
+## Folding
 
 Generally - **1 sequence → 1 structure**.
 Small proteins fold spontaneously.
@@ -189,7 +204,7 @@ Mostly dependent on the characteristics of side chains.
 Determining structure:
 - **x-ray crystallography** - proteins form crystals, look at interactions with x-rays.
 - $\ce{^2H}$ **NMR**, $\ce{^{13}C}$ **NMR**
-- **Cryo electron microscopy** - 
+- **Cryo electron microscopy** - alternative to x-ray crystallography that operates at very low temperatures.
 - **AlphaFold**
 - **RoseTTAFold**
 - other deep learning tools
