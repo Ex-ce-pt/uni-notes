@@ -1,6 +1,4 @@
 
-## Amino acids
-
 (AA)
 
 Same general structure - amino group ($\ce{-NH2}$) + carboxylic group ($\ce{-COOH}$)
@@ -10,27 +8,38 @@ NC(C(=O)(O))[R]
 
 Each has a **full name**, **short name** (3 letters) and **1 letter label** (for encoding).
 
-> Since all the amino acids that we cover are $\alpha$ amino acids, the **main carboxylic and amino groups are bound to the same carbon**.
+> Since all the amino acids that we cover are $\alpha$ amino acids, the **main carboxylic and amino groups are bound to the same carbon** ($\ce{C} \alpha$).
 
 20 important amino acids:
 
 ![[amino-acids.png]]
 
-#### Essential amino acids
+## Essential amino acids
 
 9 of the amino acids are essential for humans and cannot be synthesised.
 They have to be acquired by eating other organic matter.
-List: **H, I, L, K, M, F, T, W, V**
 
-#### Stereochemistry
+| AA                                       | Shorthand                        | Letter                         |
+| ---------------------------------------- | -------------------------------- | ------------------------------ |
+| $\text{\textcolor{red}{Histidine}}$      | $\text{\textcolor{red}{His}}$    | $\text{\textcolor{red}{H}}$    |
+| $\text{\textcolor{red}{Lysine}}$         | $\text{\textcolor{red}{Lys}}$    | $\text{\textcolor{red}{K}}$    |
+| $\text{\textcolor{yellow}{Threonine}}$   | $\text{\textcolor{yellow}{Thr}}$ | $\text{\textcolor{yellow}{T}}$ |
+| $\text{\textcolor{grey}{Isoleucine}}$    | $\text{\textcolor{grey}{Ile}}$   | $\text{\textcolor{grey}{I}}$   |
+| $\text{\textcolor{grey}{Leucine}}$       | $\text{\textcolor{grey}{Leu}}$   | $\text{\textcolor{grey}{L}}$   |
+| $\text{\textcolor{grey}{Methionine}}$    | $\text{\textcolor{grey}{Met}}$   | $\text{\textcolor{grey}{M}}$   |
+| $\text{\textcolor{grey}{Phenylalanine}}$ | $\text{\textcolor{grey}{Phe}}$   | $\text{\textcolor{grey}{F}}$   |
+| $\text{\textcolor{grey}{Tryptophan}}$    | $\text{\textcolor{grey}{Trp}}$   | $\text{\textcolor{grey}{W}}$   |
+| $\text{\textcolor{grey}{Valine}}$        | $\text{\textcolor{grey}{Val}}$   | $\text{\textcolor{grey}{V}}$   |
 
-Each amino acids except for Glycine is chiral.
+## Stereochemistry
+
+Each AA except for **Glycine** is chiral.
 - L-amino acids → proteins.
 - D-amino acids → bacterial cell walls.
 
 L- and D- system is based on Glyceraldehyde:
 
-![[L-D-cofiguration.png]]
+![[L-D-cofiguration.png|597]]
 
 > In biochemistry, it **only refers to the configuration**, not the rotation of polarised light!
 

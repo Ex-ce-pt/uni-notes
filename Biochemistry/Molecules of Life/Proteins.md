@@ -69,18 +69,21 @@ Peptide bond experiences resonance:
 ![[peptide-bond-resonance.png]]
 
 Because of the double bond character, the bond cannot rotate.
-All 6 atoms must be **in a single plane**. ($\ce{C} \alpha$ are endpoints, they belong to 2 planes at once)
+All 6 atoms must be **in the same plane**. ($\ce{C} \alpha$ are endpoints, they belong to 2 planes at once)
 $\ce{H}$ bonded to $\ce{N}$ must be anti to $\ce{O}$.
-Charge: $\ce{O} - \delta -, \space \ce{N} - \delta +$.
+Charge: $\ce{O} \rightarrow \delta -, \space \ce{N} \rightarrow \delta +$.
 
-$\ce{C \alpha \space - N}$ bond → $\phi$ bond.
-$\ce{C \alpha \space - C}$ bond → $\psi$ bond.
+$\ce{C} \alpha - \ce{N}$ bond → $\phi$ bond.
+$\ce{C} \alpha - \ce{C}$ bond → $\psi$ bond.
 
+> $\psi = 0 \degree$ means that the $\ce{N}$ atoms are syn to each other.
 
 
 Not all $\phi$ and $\psi$ combinations are possible - steric hindrance.
 
 **Ramachandran plot** - $\psi$ over $\phi$ angle plot showing which combinations are possible.
+
+![[ramachandran-plot.png|417]]
 
 General trends:
 - Rare left-handed helices
@@ -147,7 +150,7 @@ Form helices and other structures.
 
 Examples: keratin, collagen, silk.
 
-==TODO: fig
+![[protein-secondary-structure.png]]
 
 #### Globular proteins (tertiary)
 

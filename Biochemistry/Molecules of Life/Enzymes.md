@@ -1,7 +1,7 @@
 
 Biological catalysts, **highly specific**; proteins.
 Essentially all biological reactions are catalyzed.
-A quarter of genes encode enzymes.
+$\frac{1}{4}$ of genes encode enzymes.
 
 Enzymes speed up reactions by orders of magnitude!
 
@@ -38,7 +38,7 @@ Specificity comes from the shape of the active site - possible to distinguish ev
 Enzymes are often flexible and dynamic.
 The active site is rearranged slightly when the substrate binds.
 That allows for tighter bond and higher specificity.
-Also helps to keep the unwanted water & other substances out and the substrate & reactive intermediates in.
+Also helps to keep the unwanted water & other substances out and the substrate & destructively reactive intermediates in.
 
 ## Kinetics
 
@@ -54,7 +54,7 @@ Needs a couple assumptions:
 	$\text{Rate of formation: } k_1(\ce{[E]_0} - \ce{[ES]})\ce{[S]}$
 	$\text{Rate of breakdown: } k_{-1}\ce{[ES]} + k_2\ce{[ES]}$
 3. **Constant enzyme concentration**
-		The "constants" discussed are only constants when the concentration of the enzyme stays constant as well.
+	The "constants" discussed are only constants when the concentration of the enzyme stays constant as well.
 
 $$
 \begin{flalign}
