@@ -9,11 +9,11 @@ Functions:
 - immunology - [[#Glycoproteins]]
 
 Types:
-- **Monosaccarides** - single units
-- **Oligosaccarides** - several units
-- **Polysaccarides** - a lot of units
+- **Monosaccharides** - single units
+- **Oligosaccharides** - several units
+- **Polysaccharides** - a lot of units
 
-## Monosaccarides
+## Monosaccharides
 
 Simplest carbohydrates:
 
@@ -23,9 +23,9 @@ Simplest carbohydrates:
 
 #### Structure
 
-Often monosaccarides are modified with other functional groups, e.g. **Pi**
+Often monosaccharides are modified with other functional groups, e.g. **Pi**
 
-Almost all monosaccarides have $\ce{OH}$ groups attached to asymmetric centers.
+Almost all monosaccharides have $\ce{OH}$ groups attached to asymmetric centers.
 The configuration of the sugar is the configuration of the chiral center that is the farthest from the carbonyl group.
 
 e.g. glucose has the D configuration, because $\ce{C}5$'s $\ce{OH}$ group is on the right in the Fischer projection.
