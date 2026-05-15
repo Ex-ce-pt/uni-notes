@@ -30,7 +30,7 @@ The configuration of the sugar is the configuration of the chiral center that is
 
 e.g. glucose has the D configuration, because $\ce{C}5$'s $\ce{OH}$ group is on the right in the Fischer projection.
 
-All aldotetroses & monosaccarides w/ 5+ $\ce{C}$ form cycles in aqueous solutions by forming hemiacetals/hemiketals.
+All aldotetroses & monosaccharides w/ 5+ $\ce{C}$ form cycles in aqueous solutions by forming hemiacetals/hemiketals.
 **Mutarotation** - interconversion of anomers in a solution: $\alpha \rightleftarrows \text{linear} \rightleftarrows \beta$.
 
 ![[carbohydrates-cyclization.png|1058]]
