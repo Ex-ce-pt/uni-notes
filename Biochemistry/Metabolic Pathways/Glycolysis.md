@@ -1,39 +1,14 @@
 
-## Metabolism
-
-Metabolism is organised in pathways - a series of linked reactions.
-Common intermediates occur in many pathways.
-Metabolic pathways are highly regulated.
-
-**Catabolism** - degrades substances; releases energy.
-**Anabolism** - synthesises substances; uses energy.
-
-Endergonic ($\Delta G > 0$) biological reactions are coupled to the ATP degradation ($\Delta G < 0$).
-The overall $\Delta G < 0$ is the sum of the reactions.
-
-Why is ATP hydrolysis favourable?
-1. high density of $(-)$ charges on ATP
-2. water molecules can solvate one phosphate ion better
-3. resonance stabilization of $\ce{Pi}$
-BUT, high activation energy, so without enzymes the degradation takes days.
-
-Phosphoryl transfer potential - ability to get $\ce{Pi}$ group from ATP.
-Measured in the energy of hydrolysis.
-The more negative, the more ready the molecule is to get rid of the $\ce{Pi}$ group.
-
-## Glycolysis
-
 Almost universal pathway.
 Very ancient.
 **Anaerobic** - doesn't need oxygen.
 In **cytoplasm** (in the plasma of cells).
 
 Summary:
-	Glucose (C6) -> 2 pyruvate (C3) in 10 steps
-	$\ce{\text{Glucose} + 2 ATP + \textcolor{grey}{\ce{2 NAD+ + 2 ADP}} -> 2 \space \text{pyruvate} + 4 ATP + 2 NADH + 2 H2O + 2 H+}$
+	Glucose ($\ce{C}6$) → 2 pyruvate ($\ce{C}3$) + 2 $\ce{ATP}$ + 2 $\ce{NADH}$ in 10 steps
+	$\ce{\text{Glucose} + 2 ATP + \textcolor{grey}{\ce{2 NAD+ + 2 ADP}} -> 2 \space \text{pyruvate} + 4 ATP + 2 NADH + 2 H2O + \textcolor{grey}{\ce{2 H+}}}$
 
 Divided into the **preparation phase** (steps 1-5) and the **payoff phase** (steps 6-10).
-
 
 **Dehydrogenases** - catalyse redox reactions, $\ce{NAD+}$ is usually the $e^-$ acceptor.
 
@@ -128,7 +103,7 @@ Irreversible.
 ## Source of glucose
 
 Stored polysaccharides (glycogen) & dietary carbohydrates become glucose via mutation/hydrolysis.
-Fructose enters at the fructose-6-phosphate or DHAP+G3P steps.
+Fructose enters at the fructose-6-phosphate or $\ce{DHAP}$+$\ce{G\text{3}P}$ steps.
 
 ## After glycolysis
 
@@ -144,7 +119,6 @@ Under anaerobic conditions (e.g. in anaerobic bacteria):
 
 In oxygen deprivation in animal muscles:
 	![[_media/Metabolic Pathways/Glycolysis/fermentation-pyruvate-lactate.png]]
-
 
 ## Gluconeogenesis
 
@@ -163,6 +137,7 @@ $\ce{ATP}$ inhibits **phosphofructokinase**, $\ce{ADP}$ & $\ce{AMP}$ reverse inh
 **Fructose-2,6-bisphosphate** promotes glycolysis, inhibits gluconeogenesis.
 
 > **NOT fructose-1,6-bisphosphate!**
+> **Fructose-2,6-bisphosphate** is NOT an intermediate in glycolysis!
 
 **Glucagon** - hormone that signals the liver to produce glucose.
 Glucagon inhibits glycolysis, promotes gluconeogenesis.

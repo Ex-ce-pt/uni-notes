@@ -6,9 +6,11 @@
 | $\ce{ATP}$            | Adenosine triphosphate                      | Energy currency of the cell                                                          |
 | $\ce{ADP}$            | Adenosine diphosphate                       | ATP molecule depleted of energy                                                      |
 | $\ce{AMP}$            | Adenosine monophosphate                     | Molecule that is used to supress processes that normally require ATP                 |
-| $\ce{NAD}$            | Nicotinamide adenine dinucleotide           | $e^-$ carrier; used in catabolism                                                    |
+| $\ce{\text{c}AMP}$    | Cyclic adenosine monophosphate              | Signaling molecule; sign of starvation                                               |
+| $\ce{NAD}$            | Nicotinamide adenine dinucleotide           | $e^-$ carrier; used in catabolism by dehydrogenases                                  |
 | $\ce{FAD}$            | Flavin adenine dinucleotide                 | $e^-$ carrier; used in catabolism ==what else?                                       |
 | $\ce{NADP}$           | Nicotinamide adenine dinucleotide phosphate | $e^-$ carrier; used in anabolism                                                     |
+| $\ce{TPP}$            | Thiamine pyrophosphate                      | Cofactor that catalyses decarboxylation                                              |
 | $\ce{GAP/G\text{3}P}$ | Glyceraldehyde 3-phosphate                  | Intermediate in glycolysis                                                           |
 | $\ce{DHAP}$           | Dihydroxyacetone phosphate                  | Intermediate in glycolysis                                                           |
 | $\ce{PEP}$            | Phosphoenolpyruvate                         | Intermediate in glycolysis                                                           |
