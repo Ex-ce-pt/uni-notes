@@ -1,3 +1,4 @@
+#Equilibria
 
 All chemical equilibria are **dynamic**.
 Equilibria respond to changes in:
@@ -114,7 +115,7 @@ $\Delta n_r = 0, \space K_c = K$
 
 When stress is applied to a system in dynamic equilibrium, the equilibrium tends to adjust to minimize the effect of the stress.
 
-The value of the [reaction quotient](#Reaction%20quotient) changes when stress is applied.
+The value of the [[#Reaction quotient|reaction quotient]] changes when stress is applied.
 
 **Le Chatelier's principle**:
 After a change in conditions, the equilibrium shifts in the opposite direction.

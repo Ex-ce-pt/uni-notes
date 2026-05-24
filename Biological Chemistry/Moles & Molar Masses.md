@@ -5,11 +5,11 @@ $1 \space mole = 6.0332 \times 10^{23} \space objects$
 
 $n = \frac{N}{N_A}$
 
-| Symbol | Unit       | Explanation                                |
-| ------ | ---------- | ------------------------------------------ |
-| $n$    | $mol$      | Chemical amount of substance               |
-| $N$    | particles  | # of particles                             |
-| $N_A$  | $mol^{-1}$ | [Avogadro's constant](Cheat%20Sheet.md#Constants) |
+| Symbol | Unit       | Explanation                                    |
+| ------ | ---------- | ---------------------------------------------- |
+| $n$    | $mol$      | Chemical amount of substance                   |
+| $N$    | particles  | # of particles                                 |
+| $N_A$  | $mol^{-1}$ | [[Cheat Sheet#Constants\|Avogadro's constant]] |
 
 > Be careful, make sure to count the right objects (atoms/molecules/formula units)!
 
@@ -29,11 +29,11 @@ Molar mass of atoms is determined through the masses of individual atoms (and th
 
 $M = m_{atom}N_A$
 
-| Symbol     | Unit               | Explanation                                |
-| ---------- | ------------------ | ------------------------------------------ |
-| $M$        | $g \cdot mol^{-1}$ | Molar mass of the substance                |
-| $m_{atom}$ | $g$                | Mass of a single atom                      |
-| $N_A$      | $mol^{-1}$         | [Avogadro's constant](Cheat%20Sheet.md#Constants) |
+| Symbol     | Unit               | Explanation                                    |
+| ---------- | ------------------ | ---------------------------------------------- |
+| $M$        | $g \cdot mol^{-1}$ | Molar mass of the substance                    |
+| $m_{atom}$ | $g$                | Mass of a single atom                          |
+| $N_A$      | $mol^{-1}$         | [[Cheat Sheet#Constants\|Avogadro's constant]] |
 
 Elements have a lot of isotopes, so the average mass of an atom is calculated:
 

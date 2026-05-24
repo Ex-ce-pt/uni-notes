@@ -1,3 +1,4 @@
+#Matter 
 
 **Intensive property** - does not depend on the amount of substance (density, temperature, color, boiling point, etc.).
 **Extensive property** - depends on the amount of substance (volume, mass, length, etc.).
@@ -67,7 +68,7 @@ $$
 &\end{flalign}
 $$
 
-$R$ - [ideal gas constant](Cheat%20Sheet#Constants)
+$R$ - [[Cheat Sheet#Constants|ideal gas constant]]
 
 #### Ideal gas
 
@@ -79,13 +80,13 @@ Ideal gas:
 Ideal gas equation:
 $pV = nRT$ / $pV = \frac{m}{M}RT$
 
-| Symbol | Unit                    | Comment                                   |
+| Symbol | Unit                    | Comment                                       |
 | ------ | ----------------------- | --------------------------------------------- |
 | $p$    | $Pa$                    | Pressure of the ideal gas                     |
 | $V$    | $m^3$                   | Volume of the ideal gas                       |
 | $n$    | $mol$                   | Amount of the particles in the ideal gas      |
 | $T$    | $K$                     | Temperature of the ideal gas                  |
-| $R$    | $\frac{J}{mol \cdot K}$ | [Ideal gas constant](Cheat%20Sheet#Constants) |
+| $R$    | $\frac{J}{mol \cdot K}$ | [[Cheat Sheet#Constants\|Ideal gas constant]] |
 
 #### Dalton's law
 
@@ -193,7 +194,7 @@ Hydrophobic surface → droplet is a ball (ideally a perfect sphere) to minimize
 #### Viscosity
 
 Difficult to explain.
-Depends on the [intermolecular interactions](Intermolecular%20interactions.md) & **energy landscape**.
+Depends on the [[Atomic structure/Intermolecular interactions|intermolecular interactions]] & **energy landscape**.
 
 Energy landscape - how much rearrangement is needed to find a stable state?
 Smaller molecules form stable states more frequently w/ less rearrangement → less viscous.
@@ -214,7 +215,7 @@ The difference between the types of crystalline solids is not always clear.
 
 ![[states-of-matter/NaCl-structure.png]]
 
-- Held together by [ionic interaction](Intermolecular%20interactions.md#Coulombic/ionic/electrostatic).
+- Held together by [[Atomic structure/Intermolecular interactions#Coulombic/ionic/electrostatic|ionic interaction]].
 - High melting point.
 - Large anions, small cations → structure achieved by optimizing anion packing (*usually*).
 - Brittle - ions repel each other, if displaced.
@@ -225,7 +226,7 @@ The difference between the types of crystalline solids is not always clear.
 
 ![[states-of-matter/ice-structure.png]]
 
-- Held together by various [intermolecular interactions](Intermolecular%20interactions.md).
+- Held together by various [[Atomic structure/Intermolecular interactions|intermolecular interactions]].
 - *(Typically)* low melting point - weaker forces holding molecules together.
 - Brittle
 - Soluble - solvent needs to participate in the same type of bonding.
@@ -237,7 +238,7 @@ The difference between the types of crystalline solids is not always clear.
 ![[diamond-tetrahedrical-structure.svg]]
 
 - No discrete molecular unit.
-- Held together by various [intermolecular interactions](Intermolecular%20interactions.md).
+- Held together by various [[Atomic structure/Intermolecular interactions|intermolecular interactions]].
 	- More ionic bonding → ceramics.
 - Do not melt - heating up cracks the bonds.
 

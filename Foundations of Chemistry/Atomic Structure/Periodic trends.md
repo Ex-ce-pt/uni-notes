@@ -1,7 +1,8 @@
+#Matter 
 
 ## Effective nuclear charge
 
-[Z](Atom,%20orbitals.md#Effective%20nuclear%20charge)
+[[Atomic structure/Atom, orbitals#Effective nuclear charge|Z]]
 (For valence electrons)
 right → $Z_{\text{eff}}$ increases (same core electrons, $Z$ increases).
 down → $Z_{\text{eff}}$ decreases (more shells, more core electrons).
@@ -15,13 +16,13 @@ down -> increases (more shells).
 
 ## Ionization energy
 
-[E_I](Atom,%20orbitals.md#Cations)
+[[Atomic structure/Atom, orbitals#Cations|E_I]]
 right → increases (effective nuclear charge holds $e^-$ tighter)
 down → decreases (new shells are further from the nucleus)
 
 ## Electron affinity
 
-[E_A](Atom,%20orbitals.md#Anions)
+[[Atomic structure/Atom, orbitals#Anions|E_A]]
 *(Generally)*
 right → increases (less $e^-$ needed to complete the octet)
 down → decreases (easier to remove $e^-$ rather than accept them)

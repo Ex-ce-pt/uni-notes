@@ -1,6 +1,6 @@
-[Atom](#Nuclear%20model) - the smallest particle of an element.
+[[#Nuclear model|Atom]] - the smallest particle of an element.
 **Element** - substance composed on only one kind of atom.
-[Compound](Compounds.md) - electrically neutral combination of different atoms.
+[[Classification/Compounds|Compound]] - electrically neutral combination of different atoms.
 **Synthesis** - combining elements to form compounds.
 **Isotopes** - atoms of the same element but /w different mass.
 **Mass spectrometer** - a device that determines the mass of an atom.
@@ -13,11 +13,11 @@
 - **Electron shell** - negative charge
 	- **Electrons** ($e^-$)
 
-| Particle | Symbol | Charge, [e](Cheat%20Sheet.md#Constants) | Mass, kg                |
-| -------- | ------ | -------------------------------- | ----------------------- |
-| electron | $e^-$  | -1                               | $9.109 \times 10^{-31}$ |
-| proton   | $p$    | +1                               | $1.673 \times 10^{-27}$ |
-| neutron  | $n$    | 0                                | $1.675 \times 10^{-27}$ |
+| Particle | Symbol | Charge, [[Cheat Sheet#Constants\|e]] | Mass, kg                |
+| -------- | ------ | ------------------------------------ | ----------------------- |
+| electron | $e^-$  | -1                                   | $9.109 \times 10^{-31}$ |
+| proton   | $p$    | +1                                   | $1.673 \times 10^{-27}$ |
+| neutron  | $n$    | 0                                    | $1.675 \times 10^{-27}$ |
 
 $Z = \text{atomic number} = \text{\# of protons}$
 $A = \text{mass number} = (\text{\# of protons}) + (\text{\# of neutrons})$

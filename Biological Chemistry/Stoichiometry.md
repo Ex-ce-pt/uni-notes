@@ -2,7 +2,7 @@ Prediction of masses of reactants/products and volumes of solutions.
 
 ## Mole-to-mole
 
-Given the balanced [chemical equation](Chemical%20Equations)
+Given the balanced [[Chemical Equations|chemical equation]]
 $\ce{N2 (g) + 3 H2 (g) -> 2 NH3 (g)}$
 We write
 $1 \space mol \space \ce{N2} \equiv 3 \space mol \space \ce{H2}$ - 1 mol of $\ce{N2}$ is chemically equivalent to 3 mol of $\ce{N2}$.
@@ -25,7 +25,7 @@ Determining concentration by measuring volume.
 
 #### Titration
 
-One [solution](Mixtures%20&%20Solutions) is gradually added to another.
+One [[Classification/Mixtures & Solutions|solution]] is gradually added to another.
 
 Types:
 - Acid-base

@@ -31,7 +31,7 @@ $c = \frac{n}{V}$
 | $c$    | $M$   | Molarity of the solution      |
 | $n$    | $mol$ | Chemical amount of the solute |
 | $V$    | $l$   | Volume of the solvent         |
-[Unit](Cheat%20Sheet#Units): $[c] = \text{Chemical Amount} \times \text{Volume}^{-1} = \text{Chemical Amount} \times \text{Length}^{-3} = \text{Molar}$
+[[Cheat Sheet#Units|Unit]]: $[c] = \text{Chemical Amount} \times \text{Volume}^{-1} = \text{Chemical Amount} \times \text{Length}^{-3} = \text{Molar}$
 
 #### Dilution
 

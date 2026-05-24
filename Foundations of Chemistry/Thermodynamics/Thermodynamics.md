@@ -1,3 +1,4 @@
+#Thermodynamics 
 
 ## Laws of thermodynamics
 
@@ -16,7 +17,7 @@ Isothermal → no heat goes towards heating the gas, all the heat goes towards e
 #### Second law of thermodynamics
 
 **Second law of thermodynamics** - no transfer of energy is 100% effective; there is always a loss.
-The [entropy](Entropy) of an isolated system increases in the course of any spontaneous process.
+The [[Thermodynamics/Entropy|entropy]] of an isolated system increases in the course of any spontaneous process.
 $\Delta S_{\text{tot}} \geq 0$
 "Isolated system" in practice usually means the universe.
 
@@ -24,7 +25,7 @@ $\Delta S_{\text{tot}} \geq 0$
 
 **Third law of thermodynamics** - as temperature approaches $0$, all processes slow down.
 The entropy of all perfect crystals approaches $0$ as the absolute temperature approaches $0$.
-$T \rightarrow 0, \space S \rightarrow 0$ - from the definition of [entropy](Entropy).
+$T \rightarrow 0, \space S \rightarrow 0$ - from the definition of [[Thermodynamics/Entropy|entropy]].
 
 ## Definitions
 
@@ -52,8 +53,8 @@ $\text{Universe} = \text{System} \cup \text{Surroundings}$
 **Reversible process** - process that can be reversed by an infinitesimal change in a variable (the system is in equilibrium during the whole process).
 **Irreversible process** - process that cannot be reversed by an infinitesimal change in a variable.
 
-**State functions** - properties of a system that depend only on the current state of the system, not how it reached that state (e.g. [internal energy](#Energy), pressure, temperature, density).
-**Path functions** - properties of a system that depend on how it reached that state ([work](#Work)).
+**State functions** - properties of a system that depend only on the current state of the system, not how it reached that state (e.g. [[#Energy|internal energy]], pressure, temperature, density).
+**Path functions** - properties of a system that depend on how it reached that state ([[#Work|work]]).
 
 **Thermal equilibrium** - the heat flows in both directions at the same rate.
 
@@ -68,12 +69,12 @@ $\text{Universe} = \text{System} \cup \text{Surroundings}$
 
 $w = F \cdot l$
 
-| Symbol | Unit | Comment                                 |
+| Symbol | Unit | Comment                                     |
 | ------ | ---- | ------------------------------------------- |
 | $w$    | $J$  | Work performed                              |
 | $F$    | $N$  | **Opposing** force counteracting the motion |
 | $l$    | $m$  | The distance an object is moved by          |
-[Unit](Cheat%20Sheet#Units): $[w] = J = N \cdot m = kg \cdot m^2 \cdot s^{-2}$
+[[Cheat Sheet#Units|Unit]]: $[w] = J = N \cdot m = kg \cdot m^2 \cdot s^{-2}$
 
 $w > 0$ - energy is supplied (work done on the system).
 $w < 0$ - energy is lost (the system does work).
@@ -122,11 +123,11 @@ Unit: $J$
 1. Translational - linear motion.
 2. Rotational - rotational motion.
 3. Vibrational - vibrations of molecules.
-4. [Intermolecular interactions](Atomic Structure/Intermolecular interactions) - stored chemical energy.
+4. [[Atomic Structure/Intermolecular interactions|Intermolecular interactions]] - stored chemical energy.
 
-By the [first law of thermodynamics](#First%20law%20of%20thermodynamics), $\Delta U = q + w$.
+By the [[#First law of thermodynamics|first law of thermodynamics]], $\Delta U = q + w$.
 Given no heating, $\Delta U = w$.
-That is why the [work](#Work) is negative when a system performs work on the surroundings.
+That is why the [[#Work|work]] is negative when a system performs work on the surroundings.
 
 #### Heat
 **Path function.**

@@ -56,7 +56,7 @@ Body always balances the use of different fuels, and training also trains the bo
 
 **Metabolic flexibility** - ability of the body to switch between different fuels ("substrate utilization").
 
-Way to predict [diabetes](#Diabetes) - poor metabolic flexibility.
+Way to predict [[#Diabetes|diabetes]] - poor metabolic flexibility.
 One solution - exercise.
 
 #### Exercise
@@ -154,7 +154,7 @@ FAD - flavin adenine dinucleotide, another hydrogen carrier ($\ce{FAD+ \leftrigh
 
 Mitochondrion (sing.) - mitochondria (pl.)
 
-More [exercise](#Exercise) → more mitochondria (the mitochondria themselves don't become more efficient).
+More [[#Exercise|exercise]] → more mitochondria (the mitochondria themselves don't become more efficient).
 
 Mitochondria is where [[#TCA cycle]] and [[#Electron transport chain]] happen.
 

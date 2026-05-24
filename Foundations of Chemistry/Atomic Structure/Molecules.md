@@ -1,4 +1,5 @@
-	
+#Matter 
+
 **Molecule** - combination of multiple bonded atoms.
 
 ## Bond types
@@ -10,7 +11,7 @@
 | Ionic              | None             | Between whole ions          | $\ce{Na+Cl-}$          |
 
 No clear boundaries between different bonds - it's a spectrum.
-The distinction between bond types is usually drawn using [electronegativity](#Pauling%20electronegativity).
+The distinction between bond types is usually drawn using [[#Pauling electronegativity|electronegativity]].
 
 ## Covalent bond
 

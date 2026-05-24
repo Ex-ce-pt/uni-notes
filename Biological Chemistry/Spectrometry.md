@@ -55,10 +55,10 @@ Common spin nuclei: $\ce{^1H, ^{13}C, ^{15}N, ^{31}P}$.
 Focusing on $\ce{^1H}$ from now on, but same applies to other atoms.
 
 Info we get:
-1. [\# of peaks](#Number%20of%20peaks)
+1. [[#Number of peaks| # of peaks]]
 2. [[#Size of peaks]]
 3. [[#Splitting pattern]]
-4. [Peak position/chemical shift](#Chemical%20shift) ($ppm$)
+4. [[#Chemical shift|Peak position/chemical shift]] ($ppm$)
 
 Graph:
 ![[NMR graph.png]]

@@ -25,7 +25,6 @@ How to draw a Lewis structure (example, $\ce{O3}$):
 6. Adjust the geometry of the molecule and electron pairs according to VSEPR:
 	![[lewis structure step 6.png]]
 
-
 ## (S, R) Nomenclature
 
 Used in organic molecules /w **chiral carbon atoms** (4 bonds).

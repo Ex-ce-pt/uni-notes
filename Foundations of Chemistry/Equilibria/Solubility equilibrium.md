@@ -1,3 +1,4 @@
+#Equilibria 
 
 ## Solubility
 
@@ -9,9 +10,9 @@ Measured in either mass of solute per volume of solvent ($g \cdot l^{-1}$) or mo
 In saturated solutions, the dissolved & undissolved solute are in dynamic equilibrium.
 
 > Like-dissolves-like
-> Substance dissolves in the solvent, if they both have the same kind of [intermolecular interactions](Intermolecular%20interactions).
+> Substance dissolves in the solvent, if they both have the same kind of [[Atomic structure/Intermolecular interactions|intermolecular interactions]].
 
-Solute lowers the [Gibbs free energy](Entropy#Gibbs%20free%20energy) of the solvent by increasing [entropy](Entropy).
+Solute lowers the [[Thermodynamics/Entropy#Gibbs free energy|Gibbs free energy]] of the solvent by increasing [[Thermodynamics/Entropy|entropy]].
 The solution is then less volatile than the pure solvent & more condensation takes place.
 
 #### Gases
@@ -67,7 +68,7 @@ Colloids scatter light.
 - Molality: $b = \frac{n_{\text{solute}}}{m_{\text{solvent}}}$
 - Boiling point elevation: $\Delta T_b$ (insignificant)
 - Freezing point depression: $\Delta T_{\text{f}}$
-- [Osmotic pressure](#Osmosis): $\Pi$
+- [[#Osmosis|Osmotic pressure]]: $\Pi$
 
 Solute increases the boiling point a little and lowers the freezing point significantly.
 
@@ -78,7 +79,6 @@ $\Delta T_b = i \cdot k_b \cdot b$
 | $i$                   | $-$                         | Van't Hoff factor                                 |
 | $k_{\text{b}}$        | $K \cdot kg \cdot mol^{-1}$ | Boiling-point constant; determined experimentally |
 | $b$                   | $mol \cdot kg^{-1}$         | Molality of the solute                            |
-
 
 $\Delta T_{\text{f}} = i \cdot k_\text{f} \cdot b$
 
@@ -110,11 +110,11 @@ Measures now strongly osmosis pulls the solvent in.
 van't Hoff equation:
 $\Pi = iRTc$
 
-| Symbol | Unit               | Comment                                   |
+| Symbol | Unit               | Comment                                       |
 | ------ | ------------------ | --------------------------------------------- |
 | $\Pi$  | $Pa$               | Osmotic pressure                              |
 | $i$    | $-$                | Van't Hoff factor                             |
-| $R$    | $Pa$               | [Ideal gas constant](Cheat%20Sheet#Constants) |
+| $R$    | $Pa$               | [[Cheat Sheet#Constants\|Ideal gas constant]] |
 | $T$    | $K$                | Temperature of the solution                   |
 | $c$    | $mol \cdot l^{-1}$ | Concentration of the solute in the solution   |
 

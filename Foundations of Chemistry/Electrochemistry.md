@@ -230,13 +230,13 @@ $\ce{Cu^{2+} (aq) + 2 e^- -> Cu (s)}, \space 2 \space mol \space e^- \leftrighta
 
 $q = nF \Rightarrow n = \frac{q}{F} \Rightarrow n = \frac{It}{F}$
 
-| Symbol     | Unit               | Comment                                    |
-| ---------- | ------------------ | ---------------------------------------------- |
-| $q$        | $C$                | Total charge of the system doing work          |
-| $n$        | $mol$              | Amount of $e^-$ doing work                     |
-| $F$        | $C \cdot mol^{-1}$ | [Faraday's constant](Cheat%20Sheet#Constants)  |
-| $I$        | $A$                | Electrical current doing work                  |
-| $t$        | $s$                | Time the current is running for                |
+| Symbol | Unit               | Comment                                       |
+| ------ | ------------------ | --------------------------------------------- |
+| $q$    | $C$                | Total charge of the system doing work         |
+| $n$    | $mol$              | Amount of $e^-$ doing work                    |
+| $F$    | $C \cdot mol^{-1}$ | [[Cheat Sheet#Constants\|Faraday's constant]] |
+| $I$    | $A$                | Electrical current doing work                 |
+| $t$    | $s$                | Time the current is running for               |
 
 Electrolysis is used in refining of metals & metal plating.
 

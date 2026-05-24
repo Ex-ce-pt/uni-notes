@@ -8,7 +8,7 @@ Should be detailed, clear, on-point.
 Use provided templates - different organizations have different templates.
 
 Structure (approx.):
-- [Title & title page](#Title)
+- [[#Title|Title & title page]]
 - [[#Abstract]]
 - [[#Table of Contents]]
 - [[#Introduction]]
@@ -108,7 +108,7 @@ Author - year - title - book - volume - pages
 
 ### Documentation
 
-- [[Lab Notebook]]
+- [[Scientific work/Lab Notebook|Lab Notebook]]
 - Should be detailed and accurate
 - To be able to reproduce experiments as closely as possible
 - Might be important when dealing with patents

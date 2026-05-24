@@ -9,8 +9,8 @@
 	- fire extinguishers,
 	- fire blankets,
 	- first aid kits
-2. Do [[Risk Assessment]] & show to assistant
-3. Plan steps, keep [[Lab Notebook]]
+2. Do [[Scientific work/Risk Assessment|Risk Assessment]] & show to assistant
+3. Plan steps, keep [[Scientific work/Lab Notebook|Lab Notebook]]
 
 ---
 # General Safety
@@ -78,7 +78,7 @@
 
 ### Substances
 **Flammable solvents** (Ex. benzene, toluene),
-**Halogenated solvents** (Ex. [DCM](Cheat%20Sheet.md)) - rinse /w acetone, then into special container
+**Halogenated solvents** (Ex. [[Cheat Sheet#Acronyms|DCM]] - rinse /w acetone, then into special container
 
 **Aqueous waste** (Ex. diluted acids or bases) - rinse /w water, then sink
 
@@ -94,5 +94,5 @@
 - Lab coat
 - Alcohol-based marker
 - Safety Goggles
-- [[Lab Notebook]]
+- [[Scientific work/Lab Notebook|Lab Notebook]]
 - Pen

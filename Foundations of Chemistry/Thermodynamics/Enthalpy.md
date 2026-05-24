@@ -1,3 +1,4 @@
+#Thermodynamics
 
 **Enthalpy** ($H$) - a state function that keeps track of losses of energy to expansion work during heat transfer at constant pressure.
 
@@ -147,14 +148,14 @@ Usually the difference between heat capacities is small enough to deem negligibl
 
 $\ce{X -> X+ (g) + e^- (g)}, \space \Delta H_{\text{ion}}$
 
-Very similar in value to [ionization energy](Atom,%20orbitals#Cations) ($E_I$).
+Very similar in value to [[Atomic structure/Atom, orbitals#Cations|ionization energy]] ($E_I$).
 $\Delta H_{\text{ion}} = E_I + C$
 
 **Enthalpy of electron gain** ($\Delta H_{\text{eg}}$) - change in standard enthalpy **per mole** of atoms for the gain of an $e^-$.
 
 $\ce{X (g) + e^- (g) -> X- (g)}, \space \Delta H_{\text{eg}}$
 
-Very similar numerically to [electron affinity](Atom,%20orbitals#Anions) ($E_a$), but w/ an opposite sign.
+Very similar numerically to [[Atomic structure/Atom, orbitals#Anions|electron affinity]] ($E_a$), but w/ an opposite sign.
 $\Delta H_{\text{ion}} = -(E_I + C)$
 
 > Both are numerically only a couple $kJ \cdot mol^{-1}$ apart from their corresponding energies.

@@ -27,7 +27,7 @@ $\vec F = m \vec a$
 | $m$      | $kg$             | Mass for the object                                        |
 | $\vec a$ | $m \cdot s^{-2}$ | Acceleration vector of the object                          |
 
-[Unit](Cheat%20Sheet.md#Units): $[F] = \text{Mass} \times \text{Distance} \times \text{Time}^{-2} = kg \cdot m \cdot s^{-2} = N (\text{newton})$
+[[Cheat Sheet#Units|Unit]]: $[F] = \text{Mass} \times \text{Distance} \times \text{Time}^{-2} = kg \cdot m \cdot s^{-2} = N (\text{newton})$
 
 Acceleration: $\vec a = \frac{d \vec v}{dt} = \frac{d^2x}{dt^2}$
 Unit: $[a] = \text{Distance} \times \text{Time}^{-2} = m \cdot s^{-2}$
@@ -47,7 +47,7 @@ $E = Fs = |\vec F|s$
 | $F$    | $N$  | Force (magnitude of the force vector) applied to the object |
 | $s$    | $m$  | Distance the object travels with the force applied          |
 
-[Unit](Cheat%20Sheet.md#Units): $[E] = \text{Mass} \times \text{Distance}^2 \times \text{Time}^{-2} = kg \cdot m^2 \cdot s^{-2} = J (\text{joule})$
+[[Cheat Sheet#Units|Unit]]: $[E] = \text{Mass} \times \text{Distance}^2 \times \text{Time}^{-2} = kg \cdot m^2 \cdot s^{-2} = J (\text{joule})$
 
 Kinetic energy ($E_k$) - energy of motion.
 $E_k = \frac{1}{2} mv^2$
@@ -64,23 +64,23 @@ Formula depends on the force field.
 Gravitational:
 $E_p = mgh$
 
-| Symbol | Unit             | Explanation                                      |
-| ------ | ---------------- | ------------------------------------------------ |
-| $E_p$  | $J$              | Potential energy of the object                   |
-| $m$    | $kg$             | Mass of the object                               |
-| $g$    | $m \cdot s^{-2}$ | [Acceleration of free fall](Cheat%20Sheet.md#Constants) |
-| $h$    | $m$              | Height the object is at                          |
+| Symbol | Unit             | Explanation                                          |
+| ------ | ---------------- | ---------------------------------------------------- |
+| $E_p$  | $J$              | Potential energy of the object                       |
+| $m$    | $kg$             | Mass of the object                                   |
+| $g$    | $m \cdot s^{-2}$ | [[Cheat Sheet#Constants\|Acceleration of free fall]] |
+| $h$    | $m$              | Height the object is at                              |
 
 Coulomb:
 $E_p = \frac{Q_1Q_2}{4 \pi \epsilon_0 r}$
 
-| Symbol       | Unit                            | Explanation                                |
-| ------------ | ------------------------------- | ------------------------------------------ |
-| $E_p$        | $J$                             | Potential energy of the object             |
-| $Q_1$        | $C$                             | Charge of particle 1                       |
-| $Q_2$        | $C$                             | Charge of particle 2                       |
-| $\epsilon_0$ | $J^{-1} \cdot C^2 \cdot m^{-1}$ | [Vacuum permittivity](Cheat%20Sheet.md#Constants) |
-| $r$          | $m$                             | Distance between the charges               |
+| Symbol       | Unit                            | Explanation                                    |
+| ------------ | ------------------------------- | ---------------------------------------------- |
+| $E_p$        | $J$                             | Potential energy of the object                 |
+| $Q_1$        | $C$                             | Charge of particle 1                           |
+| $Q_2$        | $C$                             | Charge of particle 2                           |
+| $\epsilon_0$ | $J^{-1} \cdot C^2 \cdot m^{-1}$ | [[Cheat Sheet#Constants\|Vacuum permittivity]] |
+| $r$          | $m$                             | Distance between the charges                   |
 
 #### Conservation of energy
 

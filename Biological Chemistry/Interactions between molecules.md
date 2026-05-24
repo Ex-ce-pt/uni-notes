@@ -2,7 +2,7 @@
 The stronger the interactions, the higher the melting & boiling points of the compound.
 Interactions here are listed in decreasing order of strength.
 
-> Life is hard. Compounds almost always have multiple different interaction types (eg. when there's a [hydrogen bond](#Hydrogen%20bonding), there's necessarily a [dipole-dipole](#Dipole-dipole%20interaction) bond as well). What's usually important is which interaction is the strongest.
+> Life is hard. Compounds almost always have multiple different interaction types (eg. when there's a [[#Hydrogen bonding|hydrogen bond]], there's necessarily a [[#Dipole-dipole interaction|dipole-dipole]] bond as well). What's usually important is which interaction is the strongest.
 
 Solubility: solvent and solute must have the same type of intermolecular forces between them.
 

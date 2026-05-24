@@ -1,3 +1,4 @@
+#Equilibria 
 
 $\Delta S_{\text{tot}} = 0, \space \Delta G = 0$
 
@@ -17,7 +18,7 @@ $\ce{H2O (l) \rightleftharpoons H2O (g)}, \space \Delta S = 0, \space \Delta G =
 
 > Vapor pressure is, as the name implies, the pressure of the **vapor**. That means that if the system's gas has other substances, the vapor pressure is the **partial pressure of the vapor** only.
 
-Substances w/ less/weaker [intermolecular interactions](Intermolecular%20interactions) are more **volatile** & have a higher vapor pressure.
+Substances w/ less/weaker [[Atomic structure/Intermolecular interactions|intermolecular interactions]] are more **volatile** & have a higher vapor pressure.
 
 Higher vapor pressure:
 - More volatile;
@@ -82,7 +83,7 @@ The total vapor pressure of a solution is the sum of the vapor pressures of the 
 
 > A solid solute always lowers the vapor pressure of a solvent.
 
-**Ideal solution** - the solvent and the solute have exactly the same [intermolecular interactions](Intermolecular%20interactions). Both components obey Raoult's law at all concentrations. $\Delta H_{\text{sol}} = 0$.
+**Ideal solution** - the solvent and the solute have exactly the same [[Atomic structure/Intermolecular interactions|intermolecular interactions]]. Both components obey Raoult's law at all concentrations. $\Delta H_{\text{sol}} = 0$.
 **Real solution** - does not obey Raoult's law at all concentrations. The smaller the concentration of the solute, the more resembles an ideal solution ($c < 0.1 \space M$).
 
 Raoult's law predicts that the phase diagram for an ideal solution is a straight line.
@@ -91,8 +92,6 @@ Phase diagrams also work w/ two-component systems, but they are usually more com
 ![[equilibrium/phase-diagrams-binary-example.png]]
 
 **Enthalpy of mixing** ($\Delta H_{\text{mix}}$) - difference in enthalpy between the mixture & pure components.
-
-==mb enthalpy of solution is the same???
 
 When a solution boils, there will be more molecules of the more volatile liquid in the gaseous phase. Phase diagrams like this show the concentration of a part of the solution in both phases. At a specific concentration ($x(l)$), the solution boils at a specific temperature ($T_b$). The second graph then shows the concentration ($x(g)$) of the part of the solution in the vapor at the same temperature.
 ![[equilibrium/phase-diagrams-binary-vapor.png]]
@@ -103,7 +102,6 @@ Deviations from Raoult's law:
 | ---------------------------------------------------------- | ----------------------------------------------------------- |
 | $\Delta H_{\text{mix}} > 0$, endothermic                   | $\Delta H_{\text{mix}} < 0$, exothermic                     |
 | Interactions between the same molecules are more favorable | Interactions between different molecules are more favorable |
-
 
 #### Fractional distillation
 

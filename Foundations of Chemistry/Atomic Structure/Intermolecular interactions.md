@@ -1,8 +1,9 @@
+#Matter 
 
 The stronger the interactions, the higher the melting & boiling points of the compound ([[States of matter]]).
 Interactions here are listed in decreasing order of strength.
 
-> Life is hard. Compounds almost always have multiple different interaction types (eg. when there's a [hydrogen bond](#Hydrogen%20bonding), there's necessarily a [dipole-dipole](#Dipole-dipole%20interaction) bond as well). What's usually important is which interaction is the strongest.
+> Life is hard. Compounds almost always have multiple different interaction types (eg. when there's a [[#Hydrogen bonding|hydrogen bond]], there's necessarily a [[#Dipole-dipole interaction|dipole-dipole]] bond as well). What's usually important is which interaction is the strongest.
 
 Solubility: solvent and solute must have the same type of intermolecular forces between them.
 
@@ -37,7 +38,7 @@ Example: dissolving salts in water.
 
 ## Hydrogen bonding
 
-Special case of [Keesom interaction](#Keesom/Dipole-dipole%20interaction).
+Special case of [[#Keesom/Dipole-dipole interaction|Keesom interaction]].
 $\ce{H}$ bonded **directly** to a very $e^-$-neg. atom ($\ce{N}$, $\ce{O}$, $\ce{F}$) - very polarized bond.
 Scales: $\textcolor{yellow}{E \propto \frac{1}{r^2}}$.
 Strength: $15.0-20.0 \frac{kJ}{mol}$.

@@ -183,7 +183,7 @@ $\ce{CH3OCH2CH3}$ - methoxyethane
 
 ## Esters
 
-> Just like [salts](#Salts)
+> Just like [[#Salts|salts]]
 
 $\ce{CH3COOCH2CH3}$ - ethyl ethanoate/ethyl acetate
 

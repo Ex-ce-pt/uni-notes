@@ -82,7 +82,7 @@ $ED_{50}$ - drug produces biological response in 50% of the test subjects.
 $TI_{\text{safety}} = \frac{LD_{50}}{ED_{50}}, \space TI_{\text{efficacy}} = \frac{ED_{50}}{TD_{50}}$
 
 Drug targets somewhere in the body.
-Molecules bind to molecules in the body (e.g. enzymes) via [interactions between molecules](Interactions%20between%20molecules).
+Molecules bind to molecules in the body (e.g. enzymes) via [[Interactions between molecules|interactions between molecules]].
 
 Discovery might include:
 - Improving existing pharmaceuticals
@@ -95,9 +95,9 @@ Drug discovery roadmap:
 1. Identify disease
 2. Validate pharmaceutical target
 3. Identify lead molecules
-4. [Optimize](#Optimization) lead molecules
+4. [[#Optimization|Optimize]] lead molecules
 5. Preclinical trials (in vivo, patent, planning manufacturing)
-6. [Clinical trials](#Clinical%20trials)
+6. [[#Clinical trials|Clinical trials]]
 7. Approval for distribution
 
 https://en.wikipedia.org/wiki/Good_manufacturing_practice

@@ -85,7 +85,7 @@ Process by which one DNA molecule turns into 2.
 
 Core idea of microbiology of how the cell works: DNA → RNA → Protein.
 
-1. [DNA Replication](#DNA%20Replication) - DNA copies itself.
+1. [[#DNA Replication|DNA Replication]] - DNA copies itself.
 2. Transcription - RNA polymerase stores the information from the DNA in an mRNA molecule.
 3. Translation - ribosome of the cell creates a protein based on the mRNA instructions.
 

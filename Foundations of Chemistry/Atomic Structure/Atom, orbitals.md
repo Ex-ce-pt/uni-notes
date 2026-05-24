@@ -1,3 +1,4 @@
+#Matter
 
 ## Dalton model
 
@@ -290,7 +291,7 @@ $\ce{Ti}: \space \textcolor{cyan}{\ce{[Ar]}} \space \textcolor{yellow}{4s^2 \spa
 
 Size of a cation is just a bit smaller that the size of the neutral atom, except when losing a whole shell.
 
-[Periodic trends](Periodic%20trends#Ionization%20energy)
+[[Atomic structure/Periodic trends#Ionization energy|Periodic trends]]
 
 ## Anions
 
@@ -302,7 +303,7 @@ Electron affinities are smaller than ionization energies.
 Generally, $E_a >0$.
 When an orbital is filled w/ either lone or paired $e^-$, $E_a < 0$.
 
-[Periodic trends](Periodic%20trends#Electron%20affinity)
+[[Atomic structure/Periodic trends#Electron affinity|Periodic trends]]
 
 | Element         | $\ce{Li}$ | $\ce{Be}$                                                                      | $\ce{B}$                                                                  | $\ce{C}$                                                                  | $\ce{N}$                                                                  | $\ce{O}$                                                                  | $\ce{F}$ | $\ce{Ne}$ |
 | --------------- | --------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------- | -------- | --------- |

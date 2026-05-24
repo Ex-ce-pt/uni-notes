@@ -150,12 +150,12 @@ $\text{At equilibrium: } k_r\ce{[A][B]} = k_r'\ce{[C][D]} \Rightarrow \frac{k_r}
 $k_r = A \cdot e^{-\frac{E_a}{RT}}$
 $ln(k_r) = ln(A) - \frac{E_a}{RT}$
 
-| Symbol | Unit                            | Comment                                   |
+| Symbol | Unit                            | Comment                                       |
 | ------ | ------------------------------- | --------------------------------------------- |
 | $k_r$  | $M^{-n} \cdot s^{-1}$           | Rate constant of a reaction                   |
 | $A$    | $M^{-n} \cdot s^{-1}$           | Frequency factor (pre-exponential factor)     |
 | $E_a$  | $J \cdot mol^{-1}$              | Activation energy of the reaction             |
-| $R$    | $J \cdot K^{-1} \cdot mol^{-1}$ | [Ideal gas constant](Cheat%20Sheet#Constants) |
+| $R$    | $J \cdot K^{-1} \cdot mol^{-1}$ | [[Cheat Sheet#Constants\|Ideal gas constant]] |
 | $T$    | $K$                             | Temperature the reaction is happening at      |
 $A$ & $E_a$ are determined empirically.
 $E_a \geq 0$
@@ -193,12 +193,12 @@ Assume gases $\ce{A}$ and $\ce{B}$.
 collision density
 $z_{AB} = \sigma \cdot \bar v_{rel} \cdot N_A^2 \ce{[A][B]}$
 
-| Symbol                | Unit                              | Comment                                                                          |
+| Symbol                | Unit                              | Comment                                                                              |
 | --------------------- | --------------------------------- | ------------------------------------------------------------------------------------ |
 | $z_{\ce{AB}}$         | $m^3 \cdot s^{-1} \cdot mol^{-1}$ | Collision density                                                                    |
 | $\sigma$              | $m^2$                             | Collision area; a plane between 2 molecules passing through their center             |
 | $\bar v_{\text{rel}}$ | $m \cdot s^{-1}$                  | Mean speed of the molecules relative to each other (assume one is always stationary) |
-| $N_A$                 | $mol^{-1}$                        | [Avogadro's number](Cheat%20Sheet#Constants)                                         |
+| $N_A$                 | $mol^{-1}$                        | [[Cheat Sheet#Constants\|Avogadro's number]]                                         |
 
 $\bar v_{\text{rel}} = (\frac{8RT}{\pi M})^{1/2}, \space M = \frac{M_\ce{A} M_\ce{B}}{M_\ce{A} + M_\ce{B}}$
 

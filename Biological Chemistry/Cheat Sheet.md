@@ -9,8 +9,8 @@ LaTeX editor - https://visualmatheditor.equatheque.net/
 
 ## Acronyms
 
-**DCM** - [dicloromethane](#Common%20chemicals), $\ce{CH2Cl2}$ 
-**DMSO** - [dimethyl sulfoxide](#Common%20chemicals), $\ce{(CH3)2S=O}$
+**DCM** - [[#Common chemicals|dicloromethane]], $\ce{CH2Cl2}$ 
+**DMSO** - [[#Common chemicals|dimethyl sulfoxide]], $\ce{(CH3)2S=O}$
 **PBS** - phosphate-buffered saline
 **CAS** - a unique number for a chemical
 
@@ -77,8 +77,6 @@ LaTeX editor - https://visualmatheditor.equatheque.net/
 | $\epsilon_0$ | Vacuum permittivity       | $8.854 \times 10^{-12} \space J^{-1} \cdot C^2 \cdot m^{-1}$ |
 | $e$          | Fundamental charge        | $1.602 \times 10^{-19} \space C$                             |
 | $N_A$        | Avogadro's constant       | $6.0221 \times 10^{23} \space mol^{-1}$                      |
-|              |                           |                                                              |
-|              |                           |                                                              |
 
 ## Inorganic Solubility Rules
 

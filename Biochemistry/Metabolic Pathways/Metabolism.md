@@ -23,8 +23,18 @@ Cellular respiration - using $\ce{O2}$ to oxidize (move $e^-$) biological fuels 
 
 ## Summary of pathways
 
-[[Glycolysis]]:
+[[Metabolic Pathways/Glycolysis|Glycolysis]]:
 $\ce{Glucose -> 2 Pyruvate + 2 ATP + 2 NADH}$
 
 [[Metabolic Pathways/Citric Acid Cycle (TCA Cycle)|Citric Acid Cycle (TCA Cycle)]]:
 $\ce{Acetyl-CoA -> 3 NADH + FADH2 + GTP + 2 CO2}$
+
+
+Aerobic yield per glucose:
+
+| Process                                                                                                  | Direct product                                      | Net $\ce{ATP}$ |
+| -------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | -------------- |
+| **[[Glycolysis]]**                                                                                       | $\ce{2 NADH}$<br>$\ce{2 ATP}$                       | 3/5<br>2       |
+| **[[Metabolic Pathways/Citric Acid Cycle (TCA Cycle)#Pyruvate Dehydrogenase (PDH) Complex)\|PDH (x2)]]** | $\ce{2 NADH}$                                       | 5              |
+| **[[Metabolic Pathways/Citric Acid Cycle (TCA Cycle)\|TCA cycle (x2)]]**                                 | $\ce{6 NADH}$<br>$\ce{2 NADH2}$<br>$\ce{2 ATP/GTP}$ | 15<br>3<br>2   |
+| **Total**                                                                                                |                                                     | 30/32          |

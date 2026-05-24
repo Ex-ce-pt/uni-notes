@@ -1,19 +1,19 @@
-[acid](Acids%20&%20Bases.md#Acids) + [base](Acids%20&%20Bases.md#Bases) → salt
+[[Classification/Acids & Bases#Acids|acid]] + [[Acids & Bases#Bases|base]] → salt
 
 ## Strong acid & strong base
 
 Acid provides $\ce{H+}$, base provides $\ce{OH-}$, together they form water.
 
-[acid](Acids%20&%20Bases.md#Acids) + [base](Acids%20&%20Bases.md#Bases) → salt + water
+[[Classification/Acids & Bases#Acids|acid]] + [[Acids & Bases#Bases|base]] → salt + water
 
 $\ce{HCl (aq) + NaOH (aq) -> NaCl (aq) + H2O (l)}$
 
 $\ce{NaCl}$ is soluble in water, so it stays as ions.
 
-[Ionic equation](Chemical%20Equations#Ionic%20&%20Net%20Ionic%20Equations):
+[[Chemical Equations#Ionic & Net Ionic Equations|Ionic equation]]:
 $\ce{H+ (aq) + Cl- (aq) + Na+ (aq) + OH- (aq) -> Na+ (aq) + Cl- (aq) + H2O (l)}$
 
-[Net ionic equation](Chemical%20Equations#Ionic%20&%20Net%20Ionic%20Equations):
+[[Chemical Equations#Ionic & Net Ionic Equations|Net ionic equation]]:
 $\ce{H+ (aq) + OH- (aq) -> H2O (l)}$
 
 ^ Net outcome of the reaction between a strong acid & a strong base.

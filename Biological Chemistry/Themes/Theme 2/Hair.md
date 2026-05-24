@@ -3,13 +3,13 @@
 Most frequent evidence.
 
 Information:
-1. [Species](#Anatomy) - Human or animal
+1. [[#Anatomy|Species]] - Human or animal
 2. Nature - straight/curvy, color, etc.
 3. Origin on the body
-4. [Forcibly pulled out or naturally shed](#Detachment)
+4. [[#Detachment|Forcibly pulled out or naturally shed]]
 5. Presence of chemicals - hair absorbs metabolized drugs
 6. If dyed
-7. [DNA](#DNA) (if the root is preserved)
+7. [[#DNA|DNA]] (if the root is preserved)
 
 ## Anatomy
 

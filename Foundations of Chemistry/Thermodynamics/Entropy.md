@@ -1,3 +1,4 @@
+#Thermodynamics 
 
 **Spontaneous change** - process that has a tendency to happen without external influence. (diffusion, cooling)
 
@@ -13,7 +14,7 @@ $\Delta S = \frac{q_{\text{rev}}}{T}, \space T = \text{const}$
 | $q_{\text{rev}}$ | $J$              | The heat the system acquired during an isothermal reversible process |
 | $T$              | $K$              | The temperature of the system (the process is isothermal, const)     |
 
-> As $T \rightarrow 0, \space S \rightarrow 0$, [the 3rd law of thermodynamics](Thermodynamics#Third%20law%20of%20thermodynamics).
+> As $T \rightarrow 0, \space S \rightarrow 0$, [[Thermodynamics/Thermodynamics#Third law of thermodynamics|the 3rd law of thermodynamics]].
 
 Since temperature is constant, the temperature of the system must only be infinitesimally smaller than that of the surroundings for heat to be transferred.
 
@@ -22,20 +23,20 @@ Example: if it is asked to calculate entropy for an isothermally freely-expanded
 
 $S = k \cdot ln(W)$
 
-| Symbol | Unit             | Comment                                                                                                      |
+| Symbol | Unit             | Comment                                                                                                          |
 | ------ | ---------------- | ---------------------------------------------------------------------------------------------------------------- |
 | $S$    | $J \cdot K^{-1}$ | Entropy of the system                                                                                            |
-| $k$    | $J \cdot K^{-1}$ | [Boltzman's constant](Cheat%20sheet#Constants)                                                                   |
+| $k$    | $J \cdot K^{-1}$ | [[Cheat sheet#Constants\|Boltzman's constant]]                                                                   |
 | $W$    | $-$              | The \# of microstates of the system;<br>The \# of ways the molecules can be arranged<br>/w the same total energy |
 
 Microstates link entropy to disorder. The more states are possible for the system, the more statistically likely it is that the state of the system is  in a chaotic, rather than one of the less probable, orderly states.
-They also link to [the 3rd law of thermodynamics](Thermodynamics#Third%20law%20of%20thermodynamics). As $T \rightarrow 0, \space S \rightarrow 0$ and further $k \cdot ln(W) \rightarrow 0 \Rightarrow ln(W) \rightarrow 0 \Rightarrow W \rightarrow 1$. At absolute zero (**unachievable**) any system would be in a single possible state.
+They also link to [[Thermodynamics/Thermodynamics#Third law of thermodynamics|the 3rd law of thermodynamics]]. As $T \rightarrow 0, \space S \rightarrow 0$ and further $k \cdot ln(W) \rightarrow 0 \Rightarrow ln(W) \rightarrow 0 \Rightarrow W \rightarrow 1$. At absolute zero (**unachievable**) any system would be in a single possible state.
 
 #### Entropy and volume
 
 Dispersion of matter in greater volume or mixing increase the entropy of the substance, because more microstates are possible.
 
-Isothermal reversible expansion of an ideal gas (see [Work](Thermodynamics#Work)):
+Isothermal reversible expansion of an ideal gas (see [[Thermodynamics/Thermodynamics#Work|Work]]:
 $$
 \begin{flalign}
 &\textcolor{grey}{\text{For an ideal gas: } \Delta U = q + w = 0 \Rightarrow q = -w} \\
@@ -48,7 +49,7 @@ Using this formula, the change in entropy in **both reversible and irreversible 
 
 #### Entropy and pressure
 
-[Boyle's law](States%20of%20matter#Derivation%20of%20the%20ideal%20gas%20equation): $p \cdot V = \text{const} \Rightarrow p \propto \frac{1}{V} \Rightarrow \frac{V_2}{V_1} = \frac{p_1}{p_2}$
+[[Atomic structure/States of matter#Derivation of the ideal gas equation|Boyle's law]]: $p \cdot V = \text{const} \Rightarrow p \propto \frac{1}{V} \Rightarrow \frac{V_2}{V_1} = \frac{p_1}{p_2}$
 Isothermal reversible expansion of an ideal gas:
 $\Delta S = nR \cdot ln(\frac{p_1}{p_2})$
 
@@ -143,7 +144,7 @@ $\Delta H$ is a state function - can use the equation in both reversible & irrev
 **Clausius inequality**:
 $\Delta S \geq \frac{q}{T}$
 $\Delta S = \frac{q}{T} \text{ for a reversible process, since } q_{\text{rev}} > q_{\text{irrev}}$
-$\text{For an isolated system: } q = 0 \Rightarrow \Delta S \geq 0$ - [the 2nd law of thermodynamics](Thermodynamics#Second%20law%20of%20thermodynamics)
+$\text{For an isolated system: } q = 0 \Rightarrow \Delta S \geq 0$ - [[Thermodynamics/Thermodynamics#Second law of thermodynamics|the 2nd law of thermodynamics]]
 
 ## Gibbs free energy
 
