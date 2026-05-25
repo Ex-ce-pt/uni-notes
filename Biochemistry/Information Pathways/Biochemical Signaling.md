@@ -1,3 +1,4 @@
+#Information
 
 A cell needs to be able to respond to the changes in the environment.
 In multicellular organisms, it could be other cells of the organism.
@@ -27,7 +28,7 @@ Examples: hunger, blood pressure, etc.
 **Top-down hormonal signaling** - hormone released by the central nervous system.
 E.g. - eyes causing the release of adrenaline.
 **Bottom-up hormonal signaling** - hormone release by another organ to the central nervous system.
-E.g - stomach signals hunger.
+E.g. - stomach signals hunger.
 
 ## GPCR
 **G-protein coupled receptor**

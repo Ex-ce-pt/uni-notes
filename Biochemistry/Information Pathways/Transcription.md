@@ -1,3 +1,4 @@
+#Information 
 DNA → RNA
 
 For some genes, the RNA is the final product

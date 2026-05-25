@@ -1,3 +1,4 @@
+#Information 
 Genotype → Phenotype
 
 All the cells of an organism have the same genome, but different genes are expressed.
@@ -6,7 +7,7 @@ All the cells of an organism have the same genome, but different genes are expre
 - 200 000 genes in humans
 
 
-Genes are [transcribed](Transcription) & translated only when they are needed.
+Genes are [[Information Pathways/Transcription|transcribed]] & translated only when they are needed.
 **Housekeeping genes** - always needed.
 
 **Transcriptome** - all mRNA inside a cell at a certain time.
