@@ -18,6 +18,7 @@
 | TCA Cycle             | Tricarboxylic acid cycle                    | 2nd step in catabolism; happens in the mitochondrial matrix                          |
 | ETC                   | Electron Transport Chain                    | 3rd step in catabolism; happens between the membranes of a mitochondrion             |
 | PLP                   | Pyridoxal phosphate                         | Cofactor for aminotransferases                                                       |
+| ETF                   | Electron-transferring flavoprotein          | Helps transfer $e^-$ to FAD during $\beta$ oxidation.                                |
 | ACP                   | Acyl-carrier Protein                        | Intermediates in the lipid anabolism stay attached to it                             |
 
 
