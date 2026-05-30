@@ -11,7 +11,7 @@ For some genes, the RNA is the final product
 **mRNA** - messenger RNA; carries the genetic information from the DNA into the ribosome.
 **siRNA** - silencing RNA; inhibits the production of a specific protein, used in therapy.
 
-Ribosome is mostly RNA.
+Ribosome is mostly rRNA.
 
 ## RNA structure
 
@@ -25,9 +25,9 @@ These bonds are different to the conventional Watson-Crick bonding.
 
 ## Synthesis
 
-Not all DNA encodes genes, there is intergenetic DNA.
+Not all DNA encodes genes, some help with the expression.
 
-**Intron** - intergenetic region; regulated gene expression.
+**Intron** - intragenetic region; regulates gene expression.
 **Exon** - region that encodes a protein.
 
 **Junk DNA** - completely nonfunctional.
@@ -37,7 +37,8 @@ Not all DNA encodes genes, there is intergenetic DNA.
 Starts with a promoter region.
 Has lots of $\ce{\text{A}=\text{T}}$ pairs - they are weaker.
 
-RNA Polymerase (uses a $\sigma$ factor) attaches to 35 & -10 boxes.
+**RNA Polymerase** (uses a $\sigma$ factor) attaches to -35 & -10 boxes.
+Different $\sigma$ factors are used for different promoters - like a reading head of the polymerase!
 
 > The difference of 25 nucleotides between the -35 and -10 boxes means that the major groove of DNA ends up on the same side.
 > RNA Polymerase can bind!
@@ -74,7 +75,7 @@ The last nucleotides to be added are A and U (easier to detach, again).
 **Intrinsic terminators** - sequences of DNA that make RNA Polymerase make a loop and end transcription.
 **Rho dependent termination** - Rho protein (helicase) scans the RNA for a terminator loop and detaches the polymerase.
 
-CPSF & CstF - factors in eukaryotes that perform polyadenylation (adding a lot of As).
+CPSF & CstF - factors in eukaryotes that perform **polyadenylation** (adding a lot of As).
 
 ## RNA processing
 

@@ -11,7 +11,7 @@ The membrane is a phospholipid monolayer.
 
 Glucagon & epinephrine trigger the splitting of triacylglycerols.
 
-**Lipases** - enzymes that split FAs from glycerol; hydrolysis reaction. ==where happens, if inside is hydrophobic?==
+**Lipases** - enzymes that split FAs from glycerol; hydrolysis reaction.
 **Serum albumin** - protein that transports FAs through the blood; ~50% of blood.
 
 Glycerol itself gets converted to **dihydroxyacetone phosphate (DHAP)** and enters [[Metabolic Pathways/Glycolysis|glycolysis]].

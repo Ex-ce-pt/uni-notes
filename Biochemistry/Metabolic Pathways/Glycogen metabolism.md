@@ -36,7 +36,7 @@ It is located in the endoplasmic reticulum of the liver cell as to not counterac
 **UDP-glucose** - the activated glucose form used for glycogen synthesis.
 UDP is a good leaving group
 
-$\ce{UTP + glucose-1P → UDP-glucose + Pi}$
+$\ce{UTP + glucose-1P → UDP-glucose + PPi}$
 
 The synthesis process starts with glycogenin.
 It binds a couple UDP-glucose molecules to its **Tyr** sidechains.

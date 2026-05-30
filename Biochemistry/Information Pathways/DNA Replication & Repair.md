@@ -68,7 +68,7 @@ If polymerase notices a mistake, it removes the last few nucleotides and synthes
 **Leading strand** - one continuously replicated strand.
 **Lagging strand** - replicated in short segments.
 **Okazaki fragments** - short segments of the lagging strand that are synthesised.
-For the lagging strand, the DNA Polymerase must continuously just back some nucleotides and synthesise a new Okazaki fragment.
+For the lagging strand, the DNA Polymerase must continuously jump back a few nucleotides and synthesise a new Okazaki fragment.
 
 Replication fork moves ~50 nucleotides/second (eukaryotic)
 
@@ -80,7 +80,7 @@ First, RNase removes all the RNA primers.
 A different DNA Polymerase fills the leftover gaps.
 Then, DNA ligase fills all the gaps in the phosphate backbone.
 
-**Tus protein** - only allows the fork to pass in one direction
+**Tus protein** - only allows the fork to pass in one direction.
 
 The strands are resolved and then detached.
 

@@ -17,21 +17,26 @@ Strong electrochemical gradient:
 	High $\ce{[H+]}$ outside.
 
 > ETC is only the $e^-$ flow through the 4 complexes.
-> The actual synthesis of $\ce{ATP}$ is oxidative phosphorylation!
+> The actual synthesis of $\ce{ATP}$ is **oxidative phosphorylation**!
 
 **Respirasome** - supercomplex of complexes I, III, and IV for efficiency and entrapment of toxic reactive oxygen species.
 Complex II is free-floating.
 That's why oxygen can be toxic and cause DNA damage!
 
-Respirasomes are on the flat parts of the cristae
-ATP synthase is on the folds on cristae
+Respirasomes are on the flat parts of the cristae.
+ATP synthase is on the folds of cristae.
+
+**P side** - intermembrane space; $(+)$ charge.
+**N side** - mitochondrial matrix space; $(-)$ charge.
 
 ---
 
 Summary: $\ce{2 NADH + 22 H+_N + O2 -> 2 NAD+ + 20 H+_P + 2 H2O}$
 
 $\ce{10 H+}$ per $\ce{NADH}$.
-$6 \ce{H+}$ per $\ce{FADH2}$.
+$\ce{6 H+}$ per $\ce{FADH2}$.
+$\ce{2.5 ATP}$ per $\ce{NADH}$.
+$\ce{1.5 ATP}$ per $\ce{FADH2}$
 
 #### Complex I
 
@@ -41,17 +46,14 @@ $e^-$ flow: $\ce{NADH -> FMN -> Q}$
 
 Pumps $\ce{4 H+}$ out of the matrix per $\ce{NADH}$.
 
-**P side** - intermembrane space; $(+)$ charge.
-**N side** - mitochondrial matrix space; $(-)$ charge.
-
-$\ce{FMN}$ is used because flavins can take one $e^*$ at a time, forming radicals.
+$\ce{FMN}$ is used because flavins can take one $e^-$ at a time, forming radicals.
 This is important for the next step.
 
 $\ce{Cys-S-Fe-...-Fe-S-Cys}$ complexes act as nanowires, transporting $e^-$ **one at a time**.
 $\ce{Fe^{3+} + e^- -> Fe^{2+}}$
 
 Final $e^-$ acceptor of this complex - $\ce{Q}$ (ubiquinone).
-$\ce{QH2}$ freely diffuses in the inner membrane, travelling to the next complex. ==complex III?
+$\ce{QH2}$ freely diffuses in the inner membrane, travelling to [[#Complex III|complex III]].
 
 Overall reaction: $\ce{NADH + 5 H+_N + Q -> NAD+ + QH2 + 4 H+_P}$
 
@@ -69,7 +71,7 @@ Again, $\ce{FADH2 + Q -> FAD+ + QH2}$
 
 #### Complex III
 
-Transfers $e^-$ from $\ce{QH2}$ to protein cytochrome c & pumps more $\ce{H+}$.
+Transfers $e^-$ from $\ce{QH2}$ to the protein **cytochrome c** & pumps more $\ce{H+}$.
 
 Cytochromes are proteins that have **heme groups** (rings with metal ions inside).
 **Cytochrome c** is diffusible and can move around.
@@ -90,7 +92,7 @@ Step 2:
 > The $\ce{H+}$ from $\ce{QH2}$ get pumped out.
 > $\ce{H+_N}$ are only used to transform $\ce{Q^{\cdot-}}$ into $\ce{QH2}$.
 
-> Cytochrome c is on the N-side (intermembrane space).
+> Cytochrome c is on the P-side (intermembrane space).
 
 Overall reaction: $\ce{QH2 + 2 cyt c(red) + 2 H+_N -> Q + 2 cyt c(ox) + 4 H+_P}$
 
@@ -99,13 +101,13 @@ Overall reaction: $\ce{QH2 + 2 cyt c(red) + 2 H+_N -> Q + 2 cyt c(ox) + 4 H+_P}$
 Cytochrome c transports $e^-$ to $\ce{O2}$, forming $\ce{H2O}$.
 **Pumps out $\ce{2 H+}$ per cycle.**
 Dimer of 13 subunits, 26 subunits in total.
-Contains $\ce{Cu^{2+}}$.
+Contains $\ce{Fe^{3+}}$ and $\ce{Cu^{2+}}$.
 
 ![[_media/Metabolic Pathways/Electron Transport Chain/ETC-complex-IV.png]]
 
 ## Oxidative Phosphorylation
 
-Proton gradient alone is enough to power ATP synthesis.
+Proton gradient alone is enough to power $\ce{ATP}$ synthesis.
 
 ![[_media/Metabolic Pathways/Electron Transport Chain/atp-synthase-structure.png]]
 

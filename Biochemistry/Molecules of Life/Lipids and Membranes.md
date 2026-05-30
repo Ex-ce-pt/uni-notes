@@ -51,7 +51,7 @@ CCCCC/C=C\C/C=C\CCCCCCCC(=O)O
 
 $20:3(\Delta^{5,8,11})$, cis-cis-cis-5,8,11-eicosatrieneoic acid
 ```smiles
-CCCCCCCC/C=C\C/C=C\C/C=C\CCCC(O)O
+CCCCCCCC/C=C\C/C=C\C/C=C\CCCC(=O)O
 ```
 
 #### Alternative nomenclature (Omega)
@@ -85,14 +85,11 @@ Glycerol:
 C(O)C(O)C(O)
 ```
 
-
-> exam question - classes of membrane lipids
-
 ## Glycerophospholipids
 
 2 FAs, glycerol, phosphodiester group
 
-Like [triacylglycerols](#Triacylglycerols) but one of the fatty acids is substituted with a phosphate and a head group attached to it.
+Like [[#Triacylglycerols|triacylglycerols]] but one of the fatty acids is substituted with a phosphate and a head group attached to it.
 
 ![[glycophospholipids.png]]
 
@@ -143,7 +140,7 @@ Different membranes have unique compositions & unique proteins interacting with 
 Proteins can go through the membrane one or multiple times
 ~20 AAs to cross a membrane.
 Hydrophobic AAs inside the membrane, hydrophilic outside.
-Usual structure of the segment inside the membrane: alpha helix or beta barrel.
+Usual structure of the segment inside the membrane: [[Molecules of Life/Proteins#Alpha helix|alpha helix]] or beta barrel.
 
 **GPI anchors** - attach proteins to the surface of the membranes.
 

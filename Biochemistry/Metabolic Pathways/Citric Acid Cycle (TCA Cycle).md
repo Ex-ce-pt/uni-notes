@@ -57,10 +57,10 @@ $\ce{FAD}$ is there, because it's covalently bonded to E3, making sure that the 
 
 ![[_media/Metabolic Pathways/Citric Acid Cycle/PDH-E3.png]]
 
-## TCA CYCLE
+## TCA cycle
 
 Cyclic pathway.
-**Amphibolic pathway** - involved in both catabolism and anabolism
+**Amphibolic pathway** - involved in both catabolism and anabolism.
 Reactions are either oxidation/decarboxylation or preparation for those.
 9 steps.
 
@@ -160,7 +160,7 @@ Points:
 TCA cycle intermediates, $\ce{ATP}$, $\ce{NADH}$, fatty acids - deactivate.
 $\ce{AMP}$, $\ce{ADP}$, $\ce{NAD+}$, $\ce{Ca^{2+}}$ - activate.
 
-$\ce{Ca^{2+}}$ contracts muscle, signals metabolism to produce energy because the body is doing work
+$\ce{Ca^{2+}}$ contracts muscle, signals metabolism to produce energy because the body is doing work.
 
 PDH can be phosphorylated to disactivate it, and dephosphorylated to activate it again.
 

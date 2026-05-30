@@ -123,7 +123,7 @@ In oxygen deprivation in animal muscles:
 
 ## Gluconeogenesis
 
-Glucose is synthesised from pyruvate and lactate.
+Glucose is synthesised from **pyruvate** and **lactate**.
 Takes place primarily in the **liver**.
 
 3 reactions in glycolysis are not reversible, for these we have bypass reactions.

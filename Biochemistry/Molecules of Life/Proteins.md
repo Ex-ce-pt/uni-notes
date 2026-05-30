@@ -79,7 +79,6 @@ $\ce{C} \alpha - \ce{C}$ bond → $\psi$ bond.
 
 > $\psi = 0 \degree$ means that the $\ce{N}$ atoms are syn to each other.
 
-
 Not all $\phi$ and $\psi$ combinations are possible - steric hindrance.
 
 **Ramachandran plot** - $\psi$ over $\phi$ angle plot showing which combinations are possible.
@@ -88,7 +87,7 @@ Not all $\phi$ and $\psi$ combinations are possible - steric hindrance.
 
 General trends:
 - Rare left-handed helices
-- Right-handed helices
+- Mostly right-handed helices
 - Majority flat sheets
 
 > **Gly** is everywhere on the plot because of how small it is.
@@ -132,7 +131,7 @@ No dipole moment.
 **Antiparallel** - one goes N-to-C, another C-to-N; $\ce{H}$ bonds perpendicular to the sheets.
 
 **Gly** - common in turns, small and bendy.
-**Pro** - sheet breaker, **but sometimes is absent**.
+**Pro** - sheet breaker, **but it doesn't mean it's always at the turns**.
 
 ![[beta-sheets.png]]
 
@@ -140,7 +139,6 @@ No dipole moment.
 1st and 4th AA are bound by a $\ce{H}$ bond, the central AAs do not participate.
 
 ![[beta-turns.png]]
-
 
 #### Fibrous proteins (secondary)
 
