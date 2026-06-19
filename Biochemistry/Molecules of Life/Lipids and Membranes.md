@@ -1,9 +1,5 @@
 #Macromolecules 
 
- Cell membranes consist mostly of lipids.
-
----
-
 ## Lipids
 
 Diverse group of chemicals.
@@ -122,6 +118,8 @@ Used for structure & signaling.
 Precursors for steroid hormones.
 
 ## Cellular membranes
+
+Cell membranes consist mostly of lipids.
 
 Lipids are **amphipathic** - they have both hydrophobic and hydrophilic ends.
 

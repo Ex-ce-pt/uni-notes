@@ -66,7 +66,7 @@ $\ce{GAP + NAD+ + Pi \rightleftharpoons \text{1,3-bisphosphoglycerate} + NADH + 
 
 Enzyme: **G3P dehydrogenase**
 
-Inorganic $\ce{Pi}$ is added, 2 $e^-$ are removed.
+Inorganic $\ce{Pi}$ is added, $2 \space e^-$ are removed.
 The product has a very **high phosphoryl transfer potential** - favourable to give $\ce{Pi}$ away to $\ce{ADP}$.
 
 #### Step 7 - dephosphorylation

@@ -31,12 +31,12 @@ In this case there's more tRNA that corresponds to the preferred codon.
 
 ## Exceptions in codon interpretation
 
+Codons can be interpreted in different ways depending on context.
+
 In human mitochondria:
 - **UGA** → **Trp** instead of **Stop**
 - **AGA** & **AGG** → **Stop** instead of **Arg**
 - **AUA** → **Met** instead of **Ile**
-
-Codons can be interpreted in different ways depending on context.
 
 When synthesising Glutathione peroxidase:
 **UGA** → **selenocysteine** instead of **Stop**
