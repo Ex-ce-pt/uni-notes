@@ -22,19 +22,8 @@
               "icon": "lucide-file",
               "title": "Cheat Sheet"
             }
-          },
-          {
-            "id": "b84793add90b4945",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -54,7 +43,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -182,8 +173,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "b84793add90b4945",
+  "active": "2b272b789d449ac4",
   "lastOpenFiles": [
+    "Thermodynamics/Thermodynamics.md",
     "Cheat Sheet.md",
     "Titration.md",
     "Nuclear chemistry.md",
@@ -192,7 +184,6 @@
     "Electrochemistry.md",
     "Buffers.md",
     "Acids & Bases.md",
-    "Thermodynamics/Thermodynamics.md",
     "Thermodynamics/Formulas and conditions.md",
     "Thermodynamics/Entropy.md",
     "Atomic Structure/States of matter.md",

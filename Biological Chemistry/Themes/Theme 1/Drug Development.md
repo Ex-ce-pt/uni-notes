@@ -28,7 +28,7 @@ Staining procedure, used to categorize bacteria.
 
 Procedure:
 1. Stain cells purple - all cells are purple.
-2. Wash /w organic solvent - negatives are easily washed, positives are not washed and stay purple.
+2. Wash w/ organic solvent - negatives are easily washed, positives are not washed and stay purple.
 3. Stain the cells red - negatives are red, positives remain purple.
 
 | Gram's test          | Positive | Negative |

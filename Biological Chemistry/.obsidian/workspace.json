@@ -43,7 +43,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -172,6 +174,8 @@
   },
   "active": "791eca7911f35ae8",
   "lastOpenFiles": [
+    "Themes/Theme 1/Drug Development.md",
+    "Cheat Sheet.md",
     "Spectrometry.md",
     "Stoichiometry.md",
     "Classification/Mixtures & Solutions.md",
@@ -191,13 +195,11 @@
     "Themes/Theme 2/DNA in the body.md",
     "Themes/Theme 2/Blood.md",
     "Themes/Theme 1/Medicines of Tomorrow.md",
-    "Themes/Theme 1/Drug Development.md",
     "Scientific work/Scientific Presentation.md",
     "Scientific work/Risk Assessment.md",
     "Scientific work/Report writing.md",
     "Scientific work/Plagiarism.md",
     "Scientific work/Lab Notebook.md",
-    "Scientific work/Lab Safety.md",
     "Pasted image 20251023111107.png",
     "_media/thematic/endurance trained vs obese.png",
     "_media/thematic/diabetes types.png",
