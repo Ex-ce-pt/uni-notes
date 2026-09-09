@@ -165,3 +165,8 @@ Common source of mutations.
 **Non-autonomous transposon** - relies on proteins from the other transposons.
 
 Repetitive regions are used on the bounds of the regions to mark them for the proteins
+
+
+
+
+> DNA Polymerase III - main for prokaryotes

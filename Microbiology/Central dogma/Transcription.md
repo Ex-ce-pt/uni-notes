@@ -12,6 +12,12 @@ For some genes, the RNA is the final product.
 
 Ribosome is mostly rRNA.
 
+> https://scienceinsights.org/how-to-convert-dna-to-rna-transcription-explained/
+> https://en.wikipedia.org/wiki/Coding_strand
+> remember start and end codons!
+> can translation stop before beginning?
+> slower than replication
+
 ## RNA structure
 
 RNA forms complex secondary structures.
@@ -30,6 +36,8 @@ Not all DNA encodes genes, some help with the expression.
 **Exon** - region that encodes a protein.
 
 **Junk DNA** - completely nonfunctional.
+
+Eukaryotic RNA Polymerase - RNA Polymerase I.
 
 #### Initiation
 

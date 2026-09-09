@@ -11,14 +11,14 @@ Types of microscopy:
 	- [[#Darkfield]]
 	- [[#Phase-contrast]]
 	- [[#Differential interference contrast (DIC)|DIC]]
-	- Confocal
-	- Two-photon
+	- [[#Confocal]]
+	- [[#Two-photon]]
 - Electron microscopy
 	- TEM
 	- SEM
 - Scanning probe microscopy
-	- STM
-	- AFM
+	- [[#Scanning tunneling microscope (STM)|STM]]
+	- [[#Atomic force microscope (AFM)|AFM]]
 
 ## Photographic terminology
 
@@ -93,7 +93,6 @@ Good for **thick samples**.
 
 Type: **very expensive!**
 Like [[#Confocal]], but low-energy light (red) is used, so 2 photons are needed for excitation.
-
 
 ## Electron
 

@@ -62,7 +62,7 @@ Phosphodiester linkage between 5'-phosphate group of one nucleotide and 3'-$\ce{
 **Secondary structure** - stable structure with hydrogen bonds and van der Waals interactions between the bases.
 **Tertiary structure** - complex folding of large chromosomes, tRNA or rRNA.
 
-DNA is an **antiparallel double helix**.
+DNA is an **antiparallel right-handed double helix**.
 **Antiparallel double helix** - one strand going one way, one going another.
 
 > The lack of the $\ce{OH}$ group in the nucleotides of DNA makes it possible to form a double helix.
