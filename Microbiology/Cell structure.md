@@ -74,12 +74,20 @@ Gram's test:
 Circular, haploid (unpaired) chromosome without a membrane.
 Mainly encodes vital genes.
 **Nucleoid-associated proteins (NAPs)** - histone-like proteins; help packing the chromosome.
+**HU proteins** - most common NAPs.
 
 #### Plasmids
 
 Small circular extrachromosomal DNA.
 Often hundreds in a single cell.
-Mainly encodes adaptation genes.
+Uses cell's replication machinery, but have own genes for replication initiation.
+Mainly encodes adaptation genes:
+- Alternative metabolic pathways
+- Heavy metal resistance
+- Antibiotic resistance
+- Virulence genes
+
+Some have partitioning systems to make sure daughter cells get one copy each during replication.
 
 #### Ribosomes
 

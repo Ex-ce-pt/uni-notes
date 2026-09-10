@@ -12,11 +12,11 @@ For some genes, the RNA is the final product.
 
 Ribosome is mostly rRNA.
 
+> Transcription occurs slower than replication.
+
 > https://scienceinsights.org/how-to-convert-dna-to-rna-transcription-explained/
 > https://en.wikipedia.org/wiki/Coding_strand
 > remember start and end codons!
-> can translation stop before beginning?
-> slower than replication
 
 ## RNA structure
 

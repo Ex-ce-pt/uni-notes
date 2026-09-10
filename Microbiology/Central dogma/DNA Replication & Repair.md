@@ -19,6 +19,10 @@ DNA ligases - seals nicks in the DNA backbone after the removal of the RNA prime
 
 **oriC** - replication origin; region of DNA where replication begins.
 
+> For prokaryotes:
+> 	**DNA Polymerase III** - main (replication)
+> 	**DNA Pol I & DNA Pol II** - DNA repair
+
 #### DNA Polymerase reaction
 
 DNA Polymerase goes 3'→5', synthesising a 5'→3' strand.
@@ -94,25 +98,6 @@ Mitochondria & plasmids use the rolling circle method.
 Circular DNA is cut, rolled out into a linear strand, and then copied.
 Rolling out occurs at the same time as replication itself, so, really, the DNA always stays circular.
 
-#### Error correction
-
-The old DNA strand is methylated, the newly synthesised one is not.
-When a mistake is found, the methylated nucleotide is assumed to be the correct one.
-
-Types of errors:
-- Base pair mismatch
-- Chemicals trapped within
-- Breaks in the strands
-- Thymine dimers
-
-**Substitution mutation** - ABC → AOC
-**Insertion mutation** - ABC → ABOC
-**Deletion mutation** - ABC → AC
-
-~200 genes encode proteins for DNA repair.
-
-One base pair doesn't get removed, a whole chunk is cut out and synthesised again.
-
 ## Eukaryotes
 
 Eukaryotes have a similar system, but more complex.
@@ -128,6 +113,8 @@ Speed of replication: 100 nt/s in eukaryotes vs 1000 nt/s in prokaryotes.
 
 In each division 30-200 bases are lost.
 
+> No DNA gyrase in eukaryotes!
+
 ## Plasmids
 
 **Plasmid** - prokaryotic extrachromosomal genome, non-essential, but important for adaptations.
@@ -142,12 +129,14 @@ Plasmids have lots of different types of oriC.
 
 > Plasmids with the same type of oriC are **incompatible & are ejected**.
 
+> Plasmids are present in *some* eukaryotes.
+
 ## Viral DNA
 
 Viruses cannot replicate DNA by themselves, they have to infect other organisms.
 
 **Lytic** - infect bacteria, reproduce, kill.
-**Lysogenic** - incorporate genome inside bacteria, stay dormant, activate and replicate.
+**Lysogenic** - incorporate genome inside bacteria, stay dormant, activate during cell stress and enter lytic cycle.
 Large variation of genome - dsDNA, ssDNA, dsRNA, ssRNA.
 
 **Positive RNA** - can be used directly to make proteins.
@@ -159,14 +148,13 @@ Large variation of genome - dsDNA, ssDNA, dsRNA, ssRNA.
 **Retrotransposons** - copy-paste; RNA intermediate → reverse transcriptase.
 **DNA transposons** - cut-paste; transposase cuts transposon out and inserts in a different place.
 
-Common source of mutations.
+**Transposase** - enzyme type that cuts transposons out.
+**Transposition** - the act of moving transposons within the DNA.
+
+Common source of mutations, can be inserted within another gene to break it.
+Transposons **never** stay outside of DNA for long.
 
 **Autonomous transposon** - the needed proteins are encoded in the transposon region itself.
 **Non-autonomous transposon** - relies on proteins from the other transposons.
 
 Repetitive regions are used on the bounds of the regions to mark them for the proteins
-
-
-
-
-> DNA Polymerase III - main for prokaryotes
