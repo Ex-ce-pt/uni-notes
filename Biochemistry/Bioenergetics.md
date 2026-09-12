@@ -14,7 +14,7 @@ Cells couple thermodynamically unfavourable reactions (e.g. synthesis) with ther
 
 **Homeostasis** - the consistency of the internal environment.
 
-==TODO: what's the difference
+==Q: what's the difference?==
 
 Most energy comes from redox reactions (fuel burning).
 **NOT** chemical equilibrium - new fuel must constantly be supplied.
