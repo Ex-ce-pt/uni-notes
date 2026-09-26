@@ -32,7 +32,7 @@ Inside each top-level folder there is a folder called `_media`. This is where th
 
 In order to take notes, I've used a couple of different apps/technologies. You might need to also use them to view the notes more comfortably.
 
-- [Obsidian](https://obsidian.md/) - A popular open-source note-taking app. Almost all of the notes are written using it. Note: **Every top-level folder here is a separate vault bedicated to a separate course.**
+- [Obsidian](https://obsidian.md/) - A popular open-source note-taking app. Almost all of the notes are written using it. Note: **Every top-level folder here is a separate vault dedicated to a separate course.**
 - [Chem](https://github.com/Acylation/obsidian-chem) - A free community plugin for [Obsidian](https://obsidian.md/) that I used to render SMILES in the notes. I did not use it much though, so you might be just fine without it.
 - [GIMP](https://www.gimp.org/) - An open-source image editor. I have left some GIMP files, just in case I need to edit them, but all the images should be exported anyway, so you will be able to view them with a regular image viewer app instead.
 - [Moldraw](https://moldraw.com/) - A free online editor of chemical structures, similar to infamous [Chemdraw](https://revvitysignals.com/products/research/chemdraw). The deal is the same as with the GIMP files - I have left some `.ket` files, but all of them must already be exported as images as well.
