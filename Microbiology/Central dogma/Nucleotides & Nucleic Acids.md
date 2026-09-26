@@ -13,8 +13,8 @@ Pyrimidines:
 ![[_media/Nucleotides & Nucleic Acids/nucleobases.png]]
 
 Complementarity:
-	$\ce{\text{C}#\text{G}}$ - 2 $\ce{H}$ bonds
-	$\ce{\text{A}=\text{T}}$, $\ce{\text{A}=\text{U}}$ - 3 $\ce{H}$ bonds
+	$\ce{\text{C}#\text{G}}$ - 3 $\ce{H}$ bonds
+	$\ce{\text{A}=\text{T}}$, $\ce{\text{A}=\text{U}}$ - 2 $\ce{H}$ bonds
 
 Since C and G are linked by 3 $\ce{H}$ bonds, these are harder to separate than other nucleotides.
 
@@ -71,7 +71,7 @@ DNA is an **antiparallel right-handed double helix**.
 In the helix, there is a **major groove** and a **minor groove** due to the angle between the ribose and phosphate.
 Major groove is more accessible, so proteins normally read information through it.
 
-![[_media/Information Pathways/Nucleotides & Nucleic Acids/grooves.png]]
+![[_media/Nucleotides & Nucleic Acids/grooves.png]]
 
 Metal cations stabilize the negative charge of the phosphate groups - $\ce{Mg^{2+}}$.
 

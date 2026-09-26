@@ -14,10 +14,6 @@ Ribosome is mostly rRNA.
 
 > Transcription occurs slower than replication.
 
-> https://scienceinsights.org/how-to-convert-dna-to-rna-transcription-explained/
-> https://en.wikipedia.org/wiki/Coding_strand
-> remember start and end codons!
-
 ## RNA structure
 
 RNA forms complex secondary structures.
@@ -38,6 +34,10 @@ Not all DNA encodes genes, some help with the expression.
 **Junk DNA** - completely nonfunctional.
 
 Eukaryotic RNA Polymerase - RNA Polymerase I.
+
+> For manual transcription problems:
+> https://scienceinsights.org/how-to-convert-dna-to-rna-transcription-explained/
+> Remember the start and end codons!
 
 #### Initiation
 
@@ -67,10 +67,16 @@ Needs a **mediator complex** as well.
 #### Elongation
 
 3'→5' along DNA, 5'→3' along RNA.
-Each addition releases $\ce{PPi}$.
 
+**Coding strand** - the strand that ends up identical* to the mRNA transcribed; **not transcribed**, goes 5'→3', has **codons**.
+**Template strand** - the strand that the RNA Polymerase looks at when determining the next nucleotide; **transcribed**, goes 3'→5', has **anticodons**.
+
+> In principle, either strand can be the template strand.
+> Which strand is correct for a particular gene is determined by the orientation of the promoters.
+
+Each addition releases $\ce{PPi}$.
 RNA Polymerase adds complementary nucleotides.
-RNA Polymerase can correct mistakes.
+Can correct mistakes.
 
 The DNA helix is separated by the push and pull motion created by the $(+)$ and $(-)$ charged amino acids in the polymerase.
 

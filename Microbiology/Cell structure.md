@@ -16,8 +16,8 @@ Various channels are used to transport chemicals back and forth through the memb
 
 No membrane-bound organelles, but possess **inclusions** (bubbles) with a similar function.
 
-**Cell envelope** - cell membrane + cell wall + cell capsule
-**Cell capsule** - around cell wall; polysaccarides & proteins
+**Cell envelope** - cell membrane + cell wall + cell capsule.
+**Cell capsule** - around cell wall; polysaccharides & proteins.
 
 #### Morphology
 
@@ -58,6 +58,7 @@ Gram's test:
 
 | Gram's test             | Positive                                        | Negative                                                |
 | ----------------------- | ----------------------------------------------- | ------------------------------------------------------- |
+| **AKA**                 | Monoderm                                        | Diderm                                                  |
 | **Color after test**    | $\textcolor{purple}{\text{purple}}$             | $\textcolor{red}{\text{red}}$                           |
 | **Outer membrane**      | ✗                                               | ✓                                                       |
 | **Peptidoglycan**       | $30-100 \space \text{nm}$                       | $< 4 \space \text{nm}$                                  |
@@ -109,7 +110,7 @@ In pathogens, to infect.
 pl. pili
 
 Longer protein tentacles.
-For attachment & to exchange DNA between cells.
+For attachment & to exchange DNA between cells via [[Horizontal gene transfer#Conjugation|conjugation]].
 
 #### Flagellum
 pl. flagella

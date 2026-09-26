@@ -14,8 +14,8 @@ Pyrimidines:
 ![[_media/Information Pathways/Nucleotides & Nucleic Acids/nucleobases.png]]
 
 Complementarity:
-	$\ce{\text{C}#\text{G}}$ - 2 $\ce{H}$ bonds
-	$\ce{\text{A}=\text{T}}$, $\ce{\text{A}=\text{U}}$ - 3 $\ce{H}$ bonds
+	$\ce{\text{C}#\text{G}}$ - 3 $\ce{H}$ bonds
+	$\ce{\text{A}=\text{T}}$, $\ce{\text{A}=\text{U}}$ - 2 $\ce{H}$ bonds
 
 Since C and G are linked by 3 $\ce{H}$ bonds, these are harder to separate than other nucleotides.
 

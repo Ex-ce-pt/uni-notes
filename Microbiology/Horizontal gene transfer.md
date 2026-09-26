@@ -48,7 +48,7 @@ Phages take some of the bacterial DNA with them while infecting them & reproduci
 
 ## Conjugation
 
-Bacteria use pili to transfer plasmids between each other.
+Bacteria use [[Cell structure#Pilus|pili]] to transfer plasmids between each other.
 Pili act like protein tubes between the bacteria.
 When the plasmid goes through the pilus, it immediately gets replicated via the rolling circle method.
 

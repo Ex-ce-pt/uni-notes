@@ -116,10 +116,9 @@ In each division 30-200 bases are lost.
 > No DNA gyrase in eukaryotes!
 
 ## Plasmids
+See [[Cell structure#Plasmids]]
 
-**Plasmid** - prokaryotic extrachromosomal genome, non-essential, but important for adaptations.
 Usually circular & double-stranded.
-Encodes e.g. antibiotic resistance, virulence traits.
 Replicated separately - rolling circle method.
 
 Multiple plasmids can be active in the same bacteria.
