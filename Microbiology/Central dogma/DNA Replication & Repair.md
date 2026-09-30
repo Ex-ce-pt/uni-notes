@@ -85,7 +85,7 @@ First, RNase removes all the RNA primers.
 A different DNA Polymerase fills the leftover gaps.
 Then, DNA ligase fills all the gaps in the phosphate backbone.
 
-**Ter site** - the segment of DNA where replication stops.
+**Ter site** - the segment of DNA where replication stops (termination).
 **Tus protein** - only allows the fork to pass in one direction.
 
 **Topoisomerase IV** cuts, moves, and seals both strands of the DNA, detaching the 2 chromosomes.

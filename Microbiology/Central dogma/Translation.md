@@ -1,4 +1,4 @@
-mRNA -> Protein
+mRNA → Protein
 
 **Codon** - 3 adjacent nucleotides that code for a single amino acid.
 64 codons possible.

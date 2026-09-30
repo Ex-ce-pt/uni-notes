@@ -111,17 +111,7 @@ rRNA has a complex structure, but it's generally well-conserved.
 DNA can also be partially denatured.
 $\ce{\text{A}=\text{T}}$ segments are more likely to be denatured because they have less $\ce{H}$ bonds than $\ce{\text{C}#\text{G}}$ segments.
 
-**Mutations** - permanent changes in the DNA, usually due to aging and carcinogenesis.
-
-**Deamination** - spontaneous loss of exocyclic $\ce{-NH2}$ groups. C → U
-Deaminated C is recognised as foreign DNA and removed.
-Probably why DNA doesn't have any U in the first place.
-Deamination happens ~100 times/day.
-$\ce{HNO2}$ and its precursors favour deamination.
-
-**Depurination** - spontaneous hydrolysis of the bond between the ribose sugar and nucleobase.
-
-UV light creates pyrimidine dimers.
+See [[Mutations]].
 
 DNAses normally lyse the exposed single-stranded DNA quickly - must protect the DNA at all times.
 

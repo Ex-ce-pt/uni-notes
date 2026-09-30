@@ -16,7 +16,7 @@ Mutations can be:
 ## Types
 
 **Point mutation** - change of 1 single nucleotide.
-**Transition** - A ↔ G, C ↔ T; purine ↔ purine
+**Transition** - A ↔ G, C ↔ T; purine ↔ purine, pyrimidine ↔ pyrimidine
 **Transversion** - A ↔ T, C ↔ G; pyrimidine ↔ purine
 
 ![[point-mutation.png]]

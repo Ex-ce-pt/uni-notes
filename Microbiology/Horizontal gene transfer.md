@@ -9,7 +9,7 @@ New pathogens emerge.
 ## Transformation
 
 Uptake of naked DNA from the environment.
-Both Gram-$(+)$ or Gram-$(-)$
+Both Gram$^+$ & Gram$^-$.
 
 DNA can be used for:
 - Generating genetic diversity
@@ -32,7 +32,7 @@ Ability to do transformation.
 	Heat shock creates small holes.
 	Plasmids get through the holes and the holes are sealed again in the cold.
 
-#### In gram negative bacteria
+#### In Gram negative bacteria
 
 DNA binds to the cell surface.
 DNA pulled through.
@@ -42,6 +42,8 @@ ssDNA is protected.
 ## Transduction
 
 Phages take some of the bacterial DNA with them while infecting them & reproducing.
+
+Phages often encode toxins. If these genes are left in the cell, the bacteria may start producing toxins as well.
 
 **Generalised transduction** - random mis-packaging of any chromosomal DNA into phage head.
 **Specialised transduction** - during bacteriophage lysogenic cycle a little DNA near the phage genes get packaged.
