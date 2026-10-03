@@ -3,30 +3,35 @@ Translation of external signal to responses of the cell.
 Usually mediated by phosphorylation of proteins triggering conformational changes.
 Phosphorylation is faster than other chemical modifications - might be a reason it's used.
 
-**Kinase** - adds phosphate group; activation.
-**Phosphatase** - removes a phosphate group; deactivation.
+## Two-component systems
 
-**Extracellular sensor** - membrane protein that senses signals outside the cell and autophosphorylates its histidine kinase domain.
-**Response regulator** - secondary molecule that gets phosphorylated from the sensor.
+Component \#1 - extracellular sensor.
+Component \#2 - response regulator.
 
-His - commonly phosphorylated in extracellular sensors.
-Asp - commonly phosphorylated in response regulators.
+**Kinase** - adds $\ce{Pi}$ group; activation.
+**Phosphatase** - removes $\ce{Pi}$ group; deactivation.
 
-classical
-hybrid
-phosphorelay
-convergent
-divergent
+**Extracellular sensor (SK/HK)** - membrane protein that senses signals outside the cell and autophosphorylates its His kinase domain.
+**Response regulator (RR)** - secondary molecule that gets phosphorylated from the sensor (usually on its Asp).
 
+Architectures of two-component systems:
+![[two-component-systems-types.png]]
 
-Evolution
-Sensor genes can replicate and then change to sense something different.
+> \# of two-component systems correlates w/ genome size & complexity of the environment.
 
+#### Evolution
 
-flagella rotation
-clockwise - tumbling
-counterclockwise - running
+HK genes replicate, forming more HKs on the cell membrane & more RRs in the cell than usual.
+Over time, one of the genes encoding for the HK-RR pair mutates and this new two-component system can be used to sense something else.
 
+## Bacterial motility
+
+Ways bacteria move:
+![[bacterial-motility.png]]
+
+Flagella rotation:
+	**Clockwise** - tumbling
+	**Counterclockwise** - running
 
 Bacteria can have a sense of:
 - **chemotaxis** - chemicals
@@ -35,7 +40,6 @@ Bacteria can have a sense of:
 - **osmotaxis** - osmotic pressure
 - **hydrotaxis** - water
 - **magnetotaxis** - magnetic fields
-
 
 
 CheA - 2 subunits that are brought together on the sensor when no nutrients
