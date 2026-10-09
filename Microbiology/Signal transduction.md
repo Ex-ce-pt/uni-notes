@@ -21,17 +21,13 @@ Architectures of two-component systems:
 
 #### Evolution
 
-HK genes replicate, forming more HKs on the cell membrane & more RRs in the cell than usual.
+HK genes replicate, forming more identical HKs on the cell membrane & more RRs in the cell than usual.
 Over time, one of the genes encoding for the HK-RR pair mutates and this new two-component system can be used to sense something else.
 
 ## Bacterial motility
 
 Ways bacteria move:
 ![[bacterial-motility.png]]
-
-Flagella rotation:
-	**Clockwise** - tumbling
-	**Counterclockwise** - running
 
 Bacteria can have a sense of:
 - **chemotaxis** - chemicals
@@ -41,9 +37,17 @@ Bacteria can have a sense of:
 - **hydrotaxis** - water
 - **magnetotaxis** - magnetic fields
 
+## Flagella
+
+Flagella rotation:
+	**Clockwise (signaled)** - tumbling
+	**Counterclockwise (default)** - running
+
+---
+
+==TO BE EDITED==
 
 CheA - 2 subunits that are brought together on the sensor when no nutrients
-CCW -  default; CW - signaled
 
 CheR - methylates MCP to make it more ==less== sensitive and go to an even more nutrient-rich place
 

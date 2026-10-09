@@ -18,12 +18,12 @@ Domain - Phylum - Class - Order - Family - Genus - Species
 ## Gram-negative bacteria
 
 #### Proteobacteria
-\[Phylum]
+\[phylum]
 
 Major phylum of Gram-negative bacteria.
 
 ###### *Alphaproteobacteria*
-\[Class]
+\[class]
 
 **Oligotrophs** - low-nutrient environments.
 **Facultative intracellular pathogens** - can exist & reproduce outside the host.
@@ -35,7 +35,7 @@ Major phylum of Gram-negative bacteria.
 Nitrogen fixating symbionts, need plant host (clover, beans, legumes).
 
 ###### *Betaproteobacteria*
-\[Class]
+\[class]
 
 **Eutrophs** - needs lots of nutrients.
 Often between aerobic and anaerobic areas.
@@ -46,7 +46,7 @@ Often between aerobic and anaerobic areas.
 ***Burkholderia cepacia*** - cystic fibrosis patients, nosocomial infections.
 
 ###### *Gammaproteobacteria*
-\[Class]
+\[class]
 
 Diverse class, many human pathogens
 
@@ -68,14 +68,14 @@ Diverse class, many human pathogens
 ***Yersinia pestis*** - plague.
 
 ###### *Deltaproteobacteria*
-\[Class]
+\[class]
 
 Small class.
 
 ***Myxococcus xanthus*** - glides over surface searching for prey and kill in packs (social). forms multicellular fruiting bodies.
 
 ###### *Epsilonproteobacteria*
-\[Class]
+\[class]
 
 Smallest class of bacteria.
 Microaerophilic.
@@ -89,7 +89,7 @@ Spirochetes - bacteria with long spiral shapes.
 ***Treponema pallidum*** - syphilis.
 ***Borrelia burgdorferi*** - Lyme disease spread by ticks.
 
-***Bacteroides*** \[Genus] - obligate anaerobic, important part of human gut microbiome.
+***Bacteroides*** \[genus] - obligate anaerobic, important part of human gut microbiome.
 
 #### Phototrophic bacteria
 
@@ -99,40 +99,40 @@ Spirochetes - bacteria with long spiral shapes.
 
 #### High G+C
 
-***Actinobacteria*** \[Phylum]
+***Actinobacteria*** \[phylum]
 
 Diverse appearance, habitats, genomes.
 
-***Actinomyces*** \[Genus] - some in soil, other cause periodontitis/endocarditis.
+***Actinomyces*** \[genus] - some in soil, other cause periodontitis/endocarditis.
 
-***Mycobacterium*** \[Genus] - mycolic acid coat (blocks gram stain).
+***Mycobacterium*** \[genus] - mycolic acid coat (blocks gram stain).
 ***M. tuberculosis*** - tuberculosis.
 ***M. leprae*** - leprosy.
 
-***Corynebacterium*** \[Genus] - most non-pathogenic.
+***Corynebacterium*** \[genus] - most non-pathogenic.
 ***C. diphtheria*** - diphtheria, toxin.
-***Bifidobacterium*** \[Genus] - anaerobes, probiotic in the gut.
+***Bifidobacterium*** \[genus] - anaerobes, probiotic in the gut.
 
 #### Low G+C
 
-***Clostridia*** \[Class] - anaerobe, endospores, lots of toxins
+***Clostridia*** \[class] - anaerobe, endospores, lots of toxins
 ***C. perfringens*** - food poisoning, gas gangrene.
 ***C. tetani*** - soil bacteria, tetanus, neurotoxin.
 ***C. botulinum*** - botulism neurotoxin.
 ***C. difficile*** - hospital-acquired infections, from antimicrobial therapy.
 
-***Streptococcus*** \[Genus]
+***Streptococcus*** \[genus]
 **S. pyogenes** - bacterial pharyngitis, flesh-eating.
 **S. mutans** - dental caries.
 **S. pneumoniae** - respiratory infections, meningitis, septicemia, osteomyelitis, and endocarditis.
 
-***Bacillus*** \[Genus] - endospores.
+***Bacillus*** \[genus] - endospores.
 ***B. subtilis*** - fermentation; model for Gram-positive bacteria.
 ***B. anthracis*** - anthrax, lethal without treatment, animal → human.
 ***B. cereus*** - food poisoning, heat resistant toxin.
 ***B. thuringiensis*** - biological pesticide
 
-***Staphylococcus*** \[Genus] - facultative anaerobic, halophilic, non-motile.
+***Staphylococcus*** \[genus] - facultative anaerobic, halophilic, non-motile.
 ***S. epidermidis*** - human skin, pathogenic in immune-suppressed.
 ***S. aureus*** - skin infections, food poisoning, toxic shock syndrome, some mutants highly resistant to antibiotics.
 
