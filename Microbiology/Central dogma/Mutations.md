@@ -5,7 +5,7 @@
 **Forward genetics** - phenotype → genotype
 **Reverse genetics** - genotype → phenotype
 
-Source of genetic variation, along with horizontal gene transfer.
+Source of genetic variation, along with [[Horizontal gene transfer|horizontal gene transfer]].
 Mutations occur randomly.
 
 Mutations can be:
@@ -93,7 +93,7 @@ DNA damage only becomes a mutation when it's inherited.
 
 Rate of mutations in bacteria: $10^{-10}$ /bp/generation
 
-Proofreading - DNA polymerase checks the nucleobases it inserts and can fix mistakes on its own.
+**Proofreading** - DNA polymerase checks the nucleobases it inserts and can fix mistakes on its own.
 
 **Methyl-directed mismatch repair**
 After replication, the old strand is methylated, the new one is not for several minutes.

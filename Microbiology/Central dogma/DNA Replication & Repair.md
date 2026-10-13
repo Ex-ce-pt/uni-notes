@@ -138,8 +138,12 @@ Viruses cannot replicate DNA by themselves, they have to infect other organisms.
 **Lysogenic** - incorporate genome inside bacteria, stay dormant, activate during cell stress and enter lytic cycle.
 Large variation of genome - dsDNA, ssDNA, dsRNA, ssRNA.
 
-**Positive RNA** - can be used directly to make proteins.
-**Negative RNA** - needs to be replicated once to make proteins.
+**Positive RNA (+ssRNA)** - can be used directly to make proteins.
+**Negative RNA (-ssRNA)** - needs to be replicated once to make proteins.
+**Retroviruses (+ssRNA)** - carry & use reverse transcriptase; ssRNA → ssDNA.
+**RNA-dependent RNA Polymerase** - replicates RNA in viruses (if the genome is RNA); RNA → RNA.
+
+After the genome is successfully in the host, it's sent into the host's ribosomes to make viral proteins.
 
 ## Transposons
 

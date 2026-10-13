@@ -115,6 +115,7 @@ Shield different genes from transcription at different points in growth.
 
 **Histone acetylation** - enhanced transcription.
 **Histone methylation** - position dependent effect.
+==NOTE: may not be the case, assume modifications are always position-dependent==
 
 Alternative $\sigma$ factors for different environmental needs.
 $\sigma^{70}$ - housekeeping genes

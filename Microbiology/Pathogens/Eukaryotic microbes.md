@@ -4,7 +4,7 @@
 	**Algae** - plant-like protists.
 	[Fungi-like](#Fungi)
 
-**Giemsa** - differential stain that stains the DNA; to stain eukaaryotes.
+**Giemsa** - differential stain that stains the DNA; to stain eukaryotes.
 
 ## Protozoans
 

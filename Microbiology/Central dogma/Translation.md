@@ -79,7 +79,7 @@ Made of rRNA and proteins.
 Eukaryotes have larger ones.
 2 subunits: small & large.
 
-Assembled in nucleolus.
+Assembled in nucleolus (in eukaryotes).
 **Nucleolus** - non-membrane-bound organelle in the cell nucleus.
 
 Sites:
