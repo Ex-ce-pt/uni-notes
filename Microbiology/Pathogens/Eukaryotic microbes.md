@@ -1,7 +1,7 @@
 
 **Protists** - not taxonomic term; microscopic eukaryotes.
 	[Protozoans](#Protozoans) - animal-like protists.
-	**Algae** - plant-like protists.
+	[[#Algae]] - plant-like protists.
 	[Fungi-like](#Fungi)
 
 **Giemsa** - differential stain that stains the DNA; to stain eukaryotes.
@@ -39,16 +39,16 @@ Animal endosymbionts, flagella.
 \[phylum]
 
 ***Kinetoplastids*** \[class] - microbes w/ modified single mitochondria w/ large mass DNA genome.
-***Trypanosoma brucei*** - African sleeping sickness; tse tse fly.
-***Trypanosoma cruzi*** - South American. Chagas disease; "kissing bugs" (bite face during sleep!)
-***Leishmania*** - disfiguring skin disease; sand fly.
+	***Trypanosoma brucei*** - African sleeping sickness; tse tse fly.
+	***Trypanosoma cruzi*** - South American chagas disease; "kissing bugs" (bite face during sleep!)
+	***Leishmania*** - disfiguring skin disease; sand fly.
 
 ***Percolozoa***
 \[phylum]
 
 ***Naegleria fowregi*** - brain-eating amoeba; from fresh water, enters through the nose.
 
-#### Chromalveolata
+#### *Chromalveolata* \[supergrp.]
 
 ***Diatoms and Dinoflagellates***
 Photosynthetic.
@@ -57,11 +57,12 @@ Photosynthetic.
 ***Apicomplexans***
 \[phylum]
 
-Were once photosynthetic, but lost the ability, obligate parasites..
+Were once photosynthetic, but lost the ability, obligate parasites.
 **Apicoplast** - relic chloroplast.
 **Apical complex** - secretes proteins & lipids for invasion.
 Move by **actin-myosin** motor - propulsion.
 **Schizogony** - replicate DNA a lot, then divide.
+
 ***Cryptosporidium parvum*** - diarrhea; from water.
 ***Theileria (Babesia) microti*** - recurring fever; transmitted by ticks.
 ***Babesia bovis*** - cattle pathogen.
@@ -72,61 +73,58 @@ Move by **actin-myosin** motor - propulsion.
 ***Ciliates***
 \[phylum]
 
-Move by cilia
+Move with cilia (hair-like structures, think short frequent flagella).
 Contain **macronucleus** (polyploid, metabolism) & **micronucleus** (diploid, sexual reproduction).
 
-#### Amoebazoa
+
+**Oomycete**
+
+Water molds.
+Diploid.
+***Phytophthora*** \[genus] - caused the Irish potato famine.
+
+#### *Amoebazoa* \[supergrp.]
 
 **Amoeboid movement** - crawling using **pseudopodia** (cytoplasm-filled projections).
 
-Entamoeba
+***Entamoeba*** \[genus]
 ***Entamoeba histolytica*** - amoebic dysentery, blood stools, can be asymptomatic; spreads through water.
 ***Acanthamoeba*** - blindness.
 
-Eumycetozoa (Slime molds)
+**Eumycetozoa** (Slime molds)
 Unicellular organisms coming together & working together.
-Form fluiting bodies w/ spores.
+Form fruiting bodies w/ spores.
 
-Dictyostelium discoideum - cellular smile molds.
+***Dictyostelium discoideum*** - cellular smile molds.
 Plasmodial slime molds - large cells w/ multiple nuclei.
-
-
 
 ## Animals
 
 Multicellular
 
 #### Helminths
-Opisthokonta
-worms
-microscopic eggs & larvae
+***Opisthokonta*** \[supergrp.]
+Worms - microscopic eggs & larvae.
 
-***Nematoda*** - roundworms
+***Nematoda*** - roundworms.
 \[phylum]
 
 **Pinworm/threadworm** - common in children.
 **Hookworm** - gastroenteritis, anemia
 **Trichinella** - trichinosis; from undercooked pork & game.
-Ascaris lumbricoides - asymptomatic, 15-30 cm 
+***Ascaris lumbricoides*** - asymptomatic, 15-30 cm.
 
-***Platyhelminthes*** - flatworms
+***Platyhelminthes*** - flatworms.
 \[phylum]
-
 ***Trematoda***
 \[class]
 
-Blood and tissue flukes
-infect snails & marine invertebrates
+Infect snails & marine invertebrates.
 ***Schistosoma mansoni*** - schistosomiasis; from snails burrows through the skin.
 
-Cestoda
+***Cestoda*** - tapeworms.
 \[class]
-
-attaches to small intestine
-tapeworms
-raw beer, pork, salmon
-
-
+Attaches to small intestine; through raw beer, pork, salmon.
 
 ## Fungi
 
@@ -144,12 +142,10 @@ Fingal structure differences:
 ***Candida auris*** - generally only in hospitals & care homes, infects wounds, blood, ears; **antifungal-resistant**.
 ***Histoplasma capsulatum*** - mold outside, yeast in human.
 
-
 ## Algae
 
-Chromalveolata and Archaeplastida
-
-pigments
-
-## Differences between prokaryotes & eukaryotes
-
+**Chromalveolata** and **Archaeplastida**.
+Sexual/asexual reproduction.
+Autotrophs.
+Produce a lot of oxygen.
+Pigments.
