@@ -22,7 +22,7 @@ Use this information at your own risk.
 
 Every top-level folder is dedicated to a specific course. Each of them is also its separate Obsidian vault (see [Viewing the notes](#viewing-the-notes)).
 
-Notes are organised by topics, not lectures! That means that if several lectures covered the same topic, the information in the notes will be intertwined to presend everything at once, not as it was presented during the lectures.
+Notes are organised by topics, not lectures! That means that if several lectures covered the same topic, the information in the notes will be intertwined to present everything at once, not as it was presented during the lectures.
 
 At the same time, the fact that different courses are in different folders means that the topics may repeat. For example, Lewis structures are covered in both "Biological Chemistry" and "Foundational Chemistry" courses.
 

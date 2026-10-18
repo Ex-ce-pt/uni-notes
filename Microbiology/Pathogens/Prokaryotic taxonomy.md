@@ -122,9 +122,9 @@ Diverse appearance, habitats, genomes.
 ***C. difficile*** - hospital-acquired infections, from antimicrobial therapy.
 
 ***Streptococcus*** \[genus]
-**S. pyogenes** - bacterial pharyngitis, flesh-eating.
-**S. mutans** - dental caries.
-**S. pneumoniae** - respiratory infections, meningitis, septicemia, osteomyelitis, and endocarditis.
+***S. pyogenes*** - bacterial pharyngitis, flesh-eating.
+***S. mutans*** - dental caries.
+***S. pneumoniae*** - respiratory infections, meningitis, septicemia, osteomyelitis, and endocarditis.
 
 ***Bacillus*** \[genus] - endospores.
 ***B. subtilis*** - fermentation; model for Gram-positive bacteria.

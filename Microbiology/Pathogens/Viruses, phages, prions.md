@@ -7,7 +7,7 @@ Infect all types of cells, but very specialised.
 Effects range from asymptomatic to lethal.
 Simple DNA/RNA genome.
 
-**Virion** - outer protein shell + genome; viral particle.
+**Virion** - viral particle.
 
 **Capsid** - genome + protein coat.
 **Capsomeres** - proteins making up the capsid.
