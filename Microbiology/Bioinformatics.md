@@ -29,4 +29,4 @@ Databases of databases exist to keep track of the changes.
 
 https://en.wikipedia.org/wiki/List_of_biological_databases 
 
-**BLAST** - Basic logical Alignment Search Tool; aligns unknown DNA sequence w/ existing sequences and rates the accuracy.
+**BLAST** - Basic Logical Alignment Search Tool; aligns unknown DNA sequence w/ existing sequences and rates the accuracy.

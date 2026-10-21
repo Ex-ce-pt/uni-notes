@@ -46,7 +46,7 @@ For regulatory genes:
 #### trp operon
 
 Example of a **repressible operon**: default on, can be turned off.
-Encodes enzymes that produce tryphophan.
+Encodes enzymes that produce tryptophan.
 
 - Little tryptophan → operon transcribed.
 - Much tryptophan → tryptophan binds to a repressor, which allows it to bind to the operator and block transcription.
@@ -72,7 +72,7 @@ Lactose binds to the repressor, removing it from the operator.
 
 **Alarmones** - small nucleotide derivatives prokaryotes produce to globally regulate genes in response to stress (e.g. $\text{cAMP}$).
 
-**(p)ppGpp** - guanosine penta/tetra prosphate - alarmone produced in response to low amino acid levels.
+**(p)ppGpp** - guanosine penta/tetra phosphate - alarmone produced in response to low amino acid levels.
 **ReIA** - (p)ppGpp synthase - senses uncharged tRNA and produces pppGpp.
 $\ce{ATP + GTP -> AMP + pppGpp}$
 
@@ -126,8 +126,8 @@ $\sigma^{38}$ - starvation/stationary phase
 
 The speed of translation is influenced by:
 - The specific codons used.
-- Secondary structures of mRNA
-- Multiple of charged amino acids together or proline
+- Secondary structures of mRNA.
+- Multiple charged amino acids one after another or proline.
 
 ## Growth
 

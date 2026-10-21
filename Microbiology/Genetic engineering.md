@@ -45,10 +45,7 @@ Fluorescent dye is used to visualise the bands.
 Defense against phages in bacteria.
 Recognise 4-8 bp.
 Palindromic
-Can make blunt cuts or overhang cuts ("sticky ends").
-
-==Q: overhang cut terminology==
-==does depend on enzyme or one can do both?== particular
+Can make blunt cuts or overhang cuts ("sticky ends") - one restriction enzyme cuts in only one way.
 
 If the DNA is cut/pasted, the phosphate backbone must be fixed using DNA ligase - **uses ATP**.
 
@@ -80,7 +77,6 @@ Can use plasmids to sequence or to see how other bacteria can use these genes by
 ## DNA sequencing
 
 #### Sanger sequencing (chain termination method)
-
 
 Uses dideoxynucleotides - **cannot make another phosphodiester bond**!
 
