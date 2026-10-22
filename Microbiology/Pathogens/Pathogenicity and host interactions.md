@@ -82,10 +82,19 @@ Collagenase - dissolves collagen.
 
 **Endotoxin** - lipopolysaccharide on the outer membrane of Gram$^-$ bacteria; released when divides or dies.
 Triggers fever, immune system overreaction, possibly shock.
+Consist of **O-antigen**, **core polysaccharide**, and **lipid-A** (toxic, inflammation).
 
-**Exotoxin** - secreted protein interacts w/ host receptors; mainly Gram$^+$ but some Gram$^-$; low LD$_{50}$.
+**Exotoxin** - secreted protein interacts w/ host receptors; mainly Gram$^+$ but some Gram$^-$.
 
-**Mycotoxins** - exotoxins of fungi, some carcirogenic.
+|                     | Endotoxin                     | Exotoxin               |
+| ------------------- | ----------------------------- | ---------------------- |
+| **Source**          | Gram$^-$                      | Gram$^+$/some Gram$^-$ |
+| **Composition**     | Lipid-A                       | protein                |
+| **Effects on host** | Systemic inflammation & fever | Specific damage        |
+| **Heat stability**  | Stable                        | Unstable (most)        |
+| **LD$_{50}$**       | High                          | Low                    |
+
+**Mycotoxins** - exotoxins of fungi, some carcinogenic.
 
 #### Intracellular targeting toxins
 
