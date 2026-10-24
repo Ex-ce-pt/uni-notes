@@ -68,9 +68,9 @@ Bacteria release signals to the environment to notify others.
 
 |                      | Autoinducer-1 (AI-1) | Autoinducer-2 (AI-2) | Autoinducing peptides (AIPs) |
 | -------------------- | -------------------- | -------------------- | ---------------------------- |
-| Structure            | Short molecules      | Furanosylborate      | Peptides                     |
-| Specificity          | Gram$^-$             | Gram$^-$/Gram$^+$    | Gram$^+$                     |
-| Communication target | Intraspecies         | Interspecies         | Intraspecies ==?==           |
+| **Structure**            | Short molecules      | Furanosylborate      | Peptides                     |
+| **Specificity**          | Gram$^-$             | Gram$^-$/Gram$^+$    | Gram$^+$                     |
+| **Communication target** | Intraspecies         | Interspecies         | Intraspecies ==?==           |
 
 > AI-2 is one of the only biomolecules that uses boron.
 

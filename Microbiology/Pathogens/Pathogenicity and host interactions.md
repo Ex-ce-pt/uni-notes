@@ -86,10 +86,10 @@ Consist of **O-antigen**, **core polysaccharide**, and **lipid-A** (toxic, infla
 
 **Exotoxin** - secreted protein interacts w/ host receptors; mainly Gram$^+$ but some Gram$^-$.
 
-|                     | Endotoxin                     | Exotoxin               |
+|                     | Endotoxin (LPS)               | Exotoxin               |
 | ------------------- | ----------------------------- | ---------------------- |
 | **Source**          | Gram$^-$                      | Gram$^+$/some Gram$^-$ |
-| **Composition**     | Lipid-A                       | protein                |
+| **Active part**     | Lipid-A                       | protein                |
 | **Effects on host** | Systemic inflammation & fever | Specific damage        |
 | **Heat stability**  | Stable                        | Unstable (most)        |
 | **LD$_{50}$**       | High                          | Low                    |

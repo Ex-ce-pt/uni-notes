@@ -33,7 +33,7 @@ Process:
 
 ## Analysing DNA
 
-Agarose gel electrophoresis
+Agarose gel electrophoresis.
 
 Solution moves through the gel.
 Bigger molecules move slower.
@@ -75,6 +75,8 @@ Plasmids now contain the whole genome of the bacterium in them.
 Can use plasmids to sequence or to see how other bacteria can use these genes by giving them the plasmids.
 
 ## DNA sequencing
+
+Research of [[-omics#Genomics|genomics]].
 
 #### Sanger sequencing (chain termination method)
 
@@ -124,19 +126,19 @@ Conjugation - through a pilus from a different cell
 
 ## Gene fusions
 
-To measure gene activity.
+Putting 2 genes together to measure gene activity.
 
-Transcriptional fusion
-is gene trnascribed
-==woulnd't rna pol disconnect?==
-if want to know if a gene is promoter
-put gene of interest upstream of a reporter gene (that tells you if it's transcribed)
+#### Transcriptional fusion
 
+Gene of interest and reporter gene under the same operon.
+Stop codons for both genes are present, so the resulting mRNA is a polycistronic transcript.
+Tells: is operon transcribed? / was the sequence downstream really a promoter?
 
-translational fusion
-is protein produced
-same at prev but remove stop codon on gene of interest
-creates a fusion protein - gene of interest + reporter gene
+#### Translational fusion
+
+Same as [[#Transcriptional fusion|transcriptional]] but remove stop codon on gene of interest & add a linker peptide chain instead.
+Creates a fusion protein - gene of interest + reporter gene.
+Tells: is protein produced?
 
 ## Cas9
 
