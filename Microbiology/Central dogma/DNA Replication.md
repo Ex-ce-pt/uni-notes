@@ -27,7 +27,7 @@ DNA ligases - seals nicks in the DNA backbone after the removal of the RNA prime
 
 DNA Polymerase goes 3'→5', synthesising a 5'→3' strand.
 To keep the phosphate groups in place 2 $\ce{Mg^{2+}}$ are used.
-The enzyme's active site only suits the complementary base pairs.
+The enzyme's active site ($\beta$ subunit) only suits the complementary base pairs.
 Sometimes, mistakes happen, though.
 
 #### Initiation phase
@@ -160,4 +160,4 @@ Transposons **never** stay outside of DNA for long.
 **Autonomous transposon** - the needed proteins are encoded in the transposon region itself.
 **Non-autonomous transposon** - relies on proteins from the other transposons.
 
-Repetitive regions are used on the bounds of the regions to mark them for the proteins
+Repetitive regions are used on the bounds of the regions to mark them for the proteins.

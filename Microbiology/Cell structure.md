@@ -1,5 +1,5 @@
 
-**Organelle** - an organ of a cell that serves a specific purpose.
+**Organelle** - an area/structure of a cell that serves a specific purpose.
 
 #### Cytoplasm
 
@@ -94,9 +94,11 @@ Some have partitioning systems to make sure daughter cells get one copy each dur
 
 Synthesise proteins from mRNA.
 
-Small subunit: 30S
-Large subunit: 50S
-Full ribosome: 70S
+|                   | Prokaryotic | Eukaryotic |
+| ----------------- | ----------- | ---------- |
+| **Small subunit** | 30S         | 40S        |
+| **Large subunit** | 50S         | 60S        |
+| **Full**          | 70S         | 80S        |
 
 #### Fimbria
 pl. fimbriae

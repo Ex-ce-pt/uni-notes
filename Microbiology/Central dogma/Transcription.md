@@ -66,7 +66,7 @@ Needs a **mediator complex** as well.
 
 #### Elongation
 
-3'→5' along DNA, 5'→3' along RNA.
+3'→5' along DNA, 5'→3' along newly synthesised RNA.
 
 **Coding strand** - the strand that ends up identical* to the mRNA transcribed; **not transcribed**, goes 5'→3', has **codons**.
 **Template strand** - the strand that the RNA Polymerase looks at when determining the next nucleotide; **transcribed**, goes 3'→5', has **anticodons**.

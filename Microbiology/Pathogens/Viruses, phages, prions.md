@@ -20,7 +20,7 @@ Simple DNA/RNA genome.
 
 **Zoonosis** - animal → human.
 
-For genome replication, see [[DNA Replication & Repair#Viral DNA]].
+For genome replication, see [[DNA Replication#Viral DNA]].
 
 **Bacteriophages** - viruses that infect bacteria only.
 Also see [[Horizontal gene transfer#Transduction]].

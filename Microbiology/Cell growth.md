@@ -120,10 +120,10 @@ Growth medium types:
 Antibiotics are used to kill growing microbes/reduce their \#.
 **Antibiotic resistance**!
 
-**D-value** - time to divide the \# of microbes by 10.
+**D-value** - time to reduce the \# of microbes by a factor of 10.
 **Thermal death time (TDT)** - time to kill **all** microbes as a given temperature.
 
-To test antimicrobial agent - put on filter paper & let culture grow; the paper should stay clean.
+To test antimicrobial agent - put on filter paper & let culture grow; the paper should stay clean. See [[Mechanism of action of antimicrobials#Tests]]
 To test product for contamination - put a sample into a medium & try cultivating.
 
 
