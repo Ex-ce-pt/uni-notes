@@ -116,12 +116,11 @@ Introns, exons, capping, RNA processing, transcription & translation decoupled.
 
 The processed mRNA can be reverse transcribed to only get the exonic sequences - **can implant into prokaryotes**!
 
-
-Transfection - DNA + polymers, make cell engulf polymers and DNA with it
-Electroporation - DNA moves in the electric field in the direction of the cell
-Transduction - through a virus
-Microinjection - inject with a needle
-Conjugation - through a pilus from a different cell
+**Transfection** - DNA + polymers, make cell engulf polymers and DNA with it.
+**Electroporation** - DNA moves in the electric field in the direction of the cell; like [[Horizontal gene transfer#Transformation]].
+**Transduction** - through a virus; like [[Horizontal gene transfer#Transduction]].
+**Microinjection** - physically inject with a needle.
+**Conjugation** - through a pilus from a different cell; like [[Horizontal gene transfer#Conjugation]].
 
 
 ## Gene fusions
