@@ -79,7 +79,8 @@ $\ce{ATP + GTP -> AMP + pppGpp}$
 **Spot T** - degrades ReIA.
 $\ce{pppGpp -> GTP + PPi, ppGpp -> GDP + PPi}$
 
-**Stringent response** - global response to low amino acid levels; ribosomes get stalled.
+**Stringent response** - global response to low amino acid levels.
+Ribosomes get stalled as to not use up all the amino acids.
 
 #### Attenuation
 

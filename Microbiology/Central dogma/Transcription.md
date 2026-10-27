@@ -74,8 +74,8 @@ Needs a **mediator complex** as well.
 > In principle, either strand can be the template strand.
 > Which strand is correct for a particular gene is determined by the orientation of the promoters.
 
-Each addition releases $\ce{PPi}$.
 RNA Polymerase adds complementary nucleotides.
+Each addition releases $\ce{PPi}$.
 Can correct mistakes.
 
 The DNA helix is separated by the push and pull motion created by the $(+)$ and $(-)$ charged amino acids in the polymerase.
