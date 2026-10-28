@@ -70,6 +70,8 @@ Gram's test:
 > Red means negative.
 > If no 2nd membrane, have to compensate w/ peptidoglycan.
 
+During the washing step the outer membrane of the Gram$^-$ bacteria gets washed away with the purple stain and allows the red stain to bind to the thin peptidoglycan.
+
 #### Nucleoid
 
 Circular, haploid (unpaired) chromosome without a membrane.
@@ -120,6 +122,7 @@ pl. flagella
 Very long protein tails.
 Spin like a propeller to move the cell forward.
 Cells move forward a little bit, tumble in place to rotate, and move forward again.
+See [[Signal transduction#Bacterial motility]].
 
 ![[flagella-count.png]]
 

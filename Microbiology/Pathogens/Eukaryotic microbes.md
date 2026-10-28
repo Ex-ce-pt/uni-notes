@@ -38,7 +38,7 @@ Animal endosymbionts, flagella.
 ***Euglenozoa***
 \[phylum]
 
-***Kinetoplastids*** \[class] - microbes w/ modified single mitochondria w/ large mass DNA genome.
+***Kinetoplastids*** \[class] - microbes w/ modified single mitochondria & large mass DNA genome.
 	***Trypanosoma brucei*** - African sleeping sickness; tse tse fly.
 	***Trypanosoma cruzi*** - South American chagas disease; "kissing bugs" (bite face during sleep!)
 	***Leishmania*** - disfiguring skin disease; sand fly.

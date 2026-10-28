@@ -41,7 +41,7 @@ Eukaryotic RNA Polymerase - RNA Polymerase I.
 
 #### Initiation
 
-Majority of time initiation is aborted, e.g. because of signals canceling it if it's no longer needed.
+Majority of the time initiation is aborted, e.g. because of signals canceling it if it's no longer needed.
 Starts with a promoter region.
 Has lots of $\ce{\text{A}=\text{T}}$ pairs - they are weaker.
 

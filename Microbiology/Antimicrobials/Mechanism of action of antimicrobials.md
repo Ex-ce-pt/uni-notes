@@ -72,5 +72,3 @@ Cannot get MIC or MBC.
 
 **Superinfection** - second infection that comes after the patient's microbiota is disrupted in the process of curing the previous one w/ antibiotics.
 **Antimictobial resistance**. See [[Factors contributing to AMR]]
-
-

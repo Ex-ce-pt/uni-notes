@@ -24,7 +24,7 @@ Antibiotic resistance spikes - physical protection + low pH + non-dividing cells
 Only 10% are cells by mass, everything else - macromolecules:
 - Polysaccharides - structure
 - Proteins - enzymes + structural
-- DNA - structure + HGT
+- DNA - structure + [[Horizontal gene transfer|HGT]]
 - Lipids - pores & water channels
 - Water
 

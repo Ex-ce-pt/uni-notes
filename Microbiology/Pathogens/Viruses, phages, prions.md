@@ -32,8 +32,7 @@ Can be either inside or outside of the host's genome.
 #### HIV
 Human Immunodeficiency Virus
 
-Enveloped +ssRNA virus.
-Retrovirus (has reverse transcriptase).
+Enveloped +ssRNA retrovirus.
 
 ## Other particles
 
