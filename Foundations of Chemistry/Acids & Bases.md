@@ -320,7 +320,7 @@ Some cations are considered neutral because they are large or have too little ch
 | Basic     | Conjugate bases of weak acids   | $\ce{F-, O^{2-}, OH-, PO4^{3-}, R-COO-}$ |
 
 For salts of polyprotic acids:
-$\ce{[H2A]} >> K_{a1} \wedge \ce{[H2A]} >> \frac{K_w}{K_{a2}} \Rightarrow pH \approx 0.5(pK_{a1} + pK_{a2})$
+$\ce{[H2A]} >> K_{a1} \land \ce{[H2A]} >> \frac{K_w}{K_{a2}} \Rightarrow pH \approx 0.5(pK_{a1} + pK_{a2})$
 
 ## Oxides
 

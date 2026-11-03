@@ -89,7 +89,7 @@ $$
 \begin{flalign}
 &K = \frac{p_{\ce{N2O}}^2}{p_{\ce{N2}}^2 \cdot p_{\ce{O2}}} = \frac{(2x)^2}{(3.21-2x)^2(6.21-x)} \\
 &\text{For convenience, assume the change is much smaller than the initial partial pressures: } \\
-&x << 3.21 \wedge x << 6.21 \Rightarrow 3.21-2x \approx 3.21, \space 6.21-x \approx 6.21 \\
+&x << 3.21 \land x << 6.21 \Rightarrow 3.21-2x \approx 3.21, \space 6.21-x \approx 6.21 \\
 &K = 3.2 \cdot 10^{-28} = \frac{(2x)^2}{(3.21)^2(6.21)} \\
 &x = \sqrt{3.2 \cdot 10^{-28} \cdot 3.21^2 \cdot 6.21 \cdot 0.25 } \approx 5 \cdot 10^{-27}
 &\end{flalign}

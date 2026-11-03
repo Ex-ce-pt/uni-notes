@@ -101,6 +101,9 @@ If the 2 genes **assort independently**, we expect 9:3:3:1 ratio in F2.
 
 > Notice how the genotypes that come up only once are on the top-left-to-bottom-right diagonal and all the others are on bottom-left-to-top-right diagonals.
 
+> To get the \# of ways a genotype may appear, assume the different genes are mixed independently ([[#Example 1 - monohybrid cross]]).
+> Then multiply the \# of ways one pair of alleles can appear by the \# of ways the other pair of alleles can appear.
+
 #### Example 3 - test cross
 
 Crossing w/ a homozygous recessive organism (only gives 1 type of gametes).
@@ -114,3 +117,93 @@ Testing TtYy x ttyy:
 | **Ty** | Ttyy |     | 1/4   | Tall green   |
 | **tY** | ttYy |     | 1/4   | Dwarf yellow |
 | **ty** | ttyy |     | 1/4   | Dwarf green  |
+
+#### Breeding dihybrid genotypes
+
+If bred AAbb with aaBB, all the offspring are AaBb.
+If bred AaBb cross with itself, the offspring have all the variants of genotypes.
+
+## Extensions to Mendel
+
+**Incomplete dominance** - in heterozygous individuals the phenotype is in between of a purely dominant homozygous & purely recessive homozygous.
+Example: cross between red & ivory snapdragons is pink.
+Molecular reason: rate-limiting enzyme is encoded by the dominant allele.
+
+**Codominance** - can see both alleles; both are dominant.
+Example: in blood groups can see both antigens on red blood cells at the same time.
+
+![[types-of-dominance.png]]
+
+There are often more than 2 alleles in the population.
+The dominance relationship is unique to a pair of alleles.
+
+$\text{C} < \text{c}^{\text{ch}} < \text{c}^{\text{c}} < \text{c}$
+
+> Dominance is always relative!
+
+> Dominance is usually a transitive relationship.
+
+**Pleiotropy** - 1 gene influencing several traits.
+Gene product:
+- has several functions
+- expressed in different cell types
+- expressed at different growth stages
+
+Some allele combinations are lethal.
+Example: sickle cell anemia.
+
+**Penetrance** - percentage of individuals w/ a particular genotype that show the expected phenotype.
+Dominant alleles are not always expressed in heterozygotes.
+Expressed in 60% of heterozygotes: penetrance = 60%.
+In 1 individual we say the gene is either **penetrant** or **not** - no a percentage.
+
+**Expressivity** - the degree to which a trait is expressed.
+
+**Gene redundancy** - 1 gene compensates for the loss of another.
+When knock out a gene and no obvious phenotype is observed.
+To check for gene redundancy, need to get the aabb individual.
+Use [[#Breeding dihybrid genotypes]], get 15:1 ratio with 1 being the aabb genotype.
+
+**Epistasis** - expression of one gene is modified/masked/inhibited by 1 or more other genes.
+
+Reciprocal recessive epistasis - 9:7
+Molecular explanation: need a protein (dominant allele) from both genes at the same time (A\_B\_).
+All recessive: aaB\_, A\_bb, aabb
+
+![[reciprocal-recessive-epistasis.png]]
+
+Dominant epistasis - 13:3
+Molecular explanation: protein B blocks the phenotype by protein A (A\_bb).
+All recessive: aaB\_, A\_B\_, aabb
+
+![[dominant-epistasis.png]]
+
+Recessive epistasis - 9:3:4
+
+==pic==
+
+**Sex-linked inheritance** - when the alleles are on sex chromosomes.
+
+**Hemizygous** - only having 1 allele; for a male ♂ that has the allele on the X chromosome (Y is just for pairing and is ignored).
+Also applicable if the allele on another chromosome is deleted through a mutation.
+**Autosomal inheritance** - the allele is on any chromosome that's not a sex chromosome.
+
+#### Continuous variation
+
+Mendel's genes are discontinuous - **either or**.
+Usually when many genes interact together.
+**Quantitative traits** - means that they can be measured (e.g. body length, skin colour, strength, etc.).
+The more genes & alleles there are in the population, the more the traits approach the normal distribution.
+
+==pic==
+
+## Pedigrees
+
+Family tree.
+Tracing genes throughout generations.
+
+Remember:
+all offspring get 1 X from the mother
+males get Y from the father
+all offspring get mitochondrial dna from mother
+males have only 1 X chromosome (only need 1 to get disease)
