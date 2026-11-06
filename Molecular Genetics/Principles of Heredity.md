@@ -20,8 +20,6 @@ In heterozygous:
 **True-breeder/strain/line** - produces the same genotype in offspring as parents over many generations; homozygous.
 **Monohybrid cross** - hybrid between organisms that differ in only one trait (or care about only one trait at the time).
 
----
-
 ## Mendel's laws
 
 **1. Mendel's Law of Segregation**
@@ -30,8 +28,8 @@ Individual contains 2 alleles of each trait and they segregate randomly in its g
 **2. Mendel's Law of Independent Assortment**
 During gamete formation the segregation of any pair of hereditary determinants (alleles) is independent of segregation of the other.
 
-> Not always true, as we know nowadays.
 > Only true, if the genes are on different chromosomes.
+> ==link to source in another file==
 
 **3. Mendel's Law of Domination**
 If an individual has different alleles (heterozygous individual), then one allele defines the phenotype (is dominant) and the other is not expressed (is recessive.
@@ -120,8 +118,9 @@ Testing TtYy x ttyy:
 
 #### Breeding dihybrid genotypes
 
-If bred AAbb with aaBB, all the offspring are AaBb.
-If bred AaBb cross with itself, the offspring have all the variants of genotypes.
+As in the beginning of [[#Example 2 - dihybrid cross]].
+If bred AAbb w/ aaBB, all the offspring are AaBb.
+If bred AaBb w/ itself, the offspring have all the variants of genotypes.
 
 ## Extensions to Mendel
 
@@ -144,7 +143,7 @@ $\text{C} < \text{c}^{\text{ch}} < \text{c}^{\text{c}} < \text{c}$
 > Dominance is usually a transitive relationship.
 
 **Pleiotropy** - 1 gene influencing several traits.
-Gene product:
+Gene product may be:
 - has several functions
 - expressed in different cell types
 - expressed at different growth stages
@@ -155,7 +154,7 @@ Example: sickle cell anemia.
 **Penetrance** - percentage of individuals w/ a particular genotype that show the expected phenotype.
 Dominant alleles are not always expressed in heterozygotes.
 Expressed in 60% of heterozygotes: penetrance = 60%.
-In 1 individual we say the gene is either **penetrant** or **not** - no a percentage.
+In 1 individual we say the gene is either **penetrant** or **not** - not a percentage.
 
 **Expressivity** - the degree to which a trait is expressed.
 
@@ -166,23 +165,27 @@ Use [[#Breeding dihybrid genotypes]], get 15:1 ratio with 1 being the aabb genot
 
 **Epistasis** - expression of one gene is modified/masked/inhibited by 1 or more other genes.
 
-Reciprocal recessive epistasis - 9:7
-Molecular explanation: need a protein (dominant allele) from both genes at the same time (A\_B\_).
-All recessive: aaB\_, A\_bb, aabb
+Reciprocal recessive epistasis - one recessive gene suppresses another gene; ratio: 9:7
+Molecular explanation: need a protein (dominant allele) from both genes at the same time.
+Dominant genotype: A\_B\_
+Recessive genotype: aaB\_, A\_bb, aabb
 
-![[reciprocal-recessive-epistasis.png]]
+![[reciprocal-recessive-epistasis.png|492]]
 
-Dominant epistasis - 13:3
-Molecular explanation: protein B blocks the phenotype by protein A (A\_bb).
-All recessive: aaB\_, A\_B\_, aabb
+Dominant epistasis - one dominant gene suppresses another gene; ratio: 13:3
+Molecular explanation: protein B blocks the phenotype by protein A.
+Dominant genotype: A\_bb
+Recessive genotype: aaB\_, A\_B\_, aabb
 
-![[dominant-epistasis.png]]
+![[dominant-epistasis.png|453]]
 
-Recessive epistasis - 9:3:4
+Recessive epistasis - one recessive gene suppressed another gene; ratio: 9:3:4
+
+==Q: how is it different from reciprocal recessive?==
 
 ==pic==
 
-**Sex-linked inheritance** - when the alleles are on sex chromosomes.
+**Sex-linked inheritance** - when the alleles are on [[Sex Chromosomes|sex chromosomes]].
 
 **Hemizygous** - only having 1 allele; for a male ♂ that has the allele on the X chromosome (Y is just for pairing and is ignored).
 Also applicable if the allele on another chromosome is deleted through a mutation.
@@ -191,19 +194,21 @@ Also applicable if the allele on another chromosome is deleted through a mutatio
 #### Continuous variation
 
 Mendel's genes are discontinuous - **either or**.
-Usually when many genes interact together.
+Continuous variation in the phenotype usually when many genes interact together.
 **Quantitative traits** - means that they can be measured (e.g. body length, skin colour, strength, etc.).
 The more genes & alleles there are in the population, the more the traits approach the normal distribution.
 
-==pic==
+![[continuous-variation.png|322]]
 
 ## Pedigrees
 
 Family tree.
 Tracing genes throughout generations.
 
-Remember:
-all offspring get 1 X from the mother
-males get Y from the father
-all offspring get mitochondrial dna from mother
-males have only 1 X chromosome (only need 1 to get disease)
+![[pedigree-symbols.png]]
+
+Remember (for sex-linked inheritance):
+- **All** offspring get 1 X from the mother
+- **All** males get Y from the father
+- **All** offspring get mitochondrial DNA from the mother
+- Males have only 1 X chromosome (only need 1 to get disease)
