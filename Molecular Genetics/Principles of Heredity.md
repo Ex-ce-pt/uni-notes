@@ -165,25 +165,27 @@ Use [[#Breeding dihybrid genotypes]], get 15:1 ratio with 1 being the aabb genot
 
 **Epistasis** - expression of one gene is modified/masked/inhibited by 1 or more other genes.
 
-Reciprocal recessive epistasis - one recessive gene suppresses another gene; ratio: 9:7
+**Reciprocal recessive epistasis** - **either** recessive gene suppresses the trait expression; ratio: 9:7
 Molecular explanation: need a protein (dominant allele) from both genes at the same time.
 Dominant genotype: A\_B\_
 Recessive genotype: aaB\_, A\_bb, aabb
 
 ![[reciprocal-recessive-epistasis.png|492]]
 
-Dominant epistasis - one dominant gene suppresses another gene; ratio: 13:3
+**Dominant epistasis** - one dominant gene suppresses the phenotype of the other gene; ratio: 13:3
 Molecular explanation: protein B blocks the phenotype by protein A.
 Dominant genotype: A\_bb
 Recessive genotype: aaB\_, A\_B\_, aabb
 
 ![[dominant-epistasis.png|453]]
 
-Recessive epistasis - one recessive gene suppressed another gene; ratio: 9:3:4
+**Recessive epistasis** - one recessive gene suppresses the phenotype of the other gene; ratio: 9:3:4
+Molecular explanation: protein B acts on the substrate first, so if it's missing protein A has nothing to work on.
+Dominant genotype: A\_B\_
+Recessive genotype 1: A\_bb
+Recessive genotype 2: aaB\_, aabb
 
-==Q: how is it different from reciprocal recessive?==
-
-==pic==
+![[recessive-epistasis.png|448]]
 
 **Sex-linked inheritance** - when the alleles are on [[Sex Chromosomes|sex chromosomes]].
 
